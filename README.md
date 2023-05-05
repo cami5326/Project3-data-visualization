@@ -3,4 +3,6 @@
 
 **Project:** Dashboard showing the impact of electric vehicles on the environment over the years
 
-**Datasets**:[Global EV Outlook 2023](https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2023)
+**Datasets**: [IEA Global EV Outlook 2023](https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2023)
+
+**Proposal**: [GoogleDoc] https://docs.google.com/document/d/14lbI9O5yiG16Tu137kqBH3m0776LmS7vYqbd57NU2N4/edit
