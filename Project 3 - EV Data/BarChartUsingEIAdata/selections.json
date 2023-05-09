@@ -1,0 +1,8 @@
+{
+    "region":["Australia", "Australia", "Austria", "Belgium", "Brazil", "Canada", "Chile", "China", "Denmark", "EU27", "Europe", "Finland", "France", "Germany", "Greece", "Iceland", "India", "Indonesia", "Israel", "Italy", "Japan", "Korea", "Mexico", "Netherlands", "New Zealand", "Norway", "Other Europe", "Poland", "Portugal", "Rest of the world", "South Africa", "Spain", "Sweden", "Switzerland", "Thailand", "Turkiye", "United Kingdom", "USA", "World"],
+    "category":["Historical", "Projection-APS", "Projection-STEPS"],
+    "parameter": ["Electricy demand", "EV charging points", "EV sales", "EV sales share", "EV stock", "EV stock share", "Oil displacement Mbd", "Oil displacement, million lge"],
+    "mode": ["Buses", "Cars", "EV", "Trucks", "Vans"],
+    "powertrain": ["BEV", "EV", "PHEV", "Publicly available fast", "Publicly available slow"],
+    "year": ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2025", "'2030"]
+}
