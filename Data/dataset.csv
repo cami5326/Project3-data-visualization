@@ -1,4 +1,4 @@
-region,category,parameter,mode,powertrain,year,unit,value
+test,region,category,parameter,mode,powertrain,year,unit,value
 Australia,Historical,EV sales,Cars,BEV,2011,Vehicles,49
 Australia,Historical,EV stock,Cars,BEV,2011,Vehicles,49
 Australia,Historical,EV sales share,Cars,EV,2011,percent,0.006500000134110451
