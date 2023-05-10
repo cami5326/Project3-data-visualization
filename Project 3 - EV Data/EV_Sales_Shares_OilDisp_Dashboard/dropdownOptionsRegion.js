@@ -8,5 +8,5 @@ d3.json("selections.json").then(function(data) {
       .attr("value", function(d) { return d })
       .text(function(d) { return d; });
 
-    select.property("value", data.region[0]);
+    select.property("value", data.region[36]);
 });

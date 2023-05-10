@@ -1,7 +1,7 @@
 
 function optionChanged(value) {
-    printData();
+    // printData();
     init();
-    plot();
+    plot2();
     plotGauge();
 }

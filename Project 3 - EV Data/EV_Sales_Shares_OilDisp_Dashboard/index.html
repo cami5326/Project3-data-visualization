@@ -25,14 +25,28 @@
     <div class="row">
 
       <div class="col-md-2">
-        <!-- div for dropdown menu data selection-->
+        <!-- div for dropdown REGION menu data selection-->
         <div class="well">
           
           <h5>Region</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
 
           <!-- script to populate the dropdown options-->
-          <script src="dropdownOptions.js"></script>
+          <script src="dropdownOptionsRegion.js"></script>
+
+          <!-- script to log the updates to the file-->
+          <script src="changeOption.js"></script>
+
+        </div>
+
+        <!-- div for dropdown MODE menu data selection-->
+        <div class="well">
+          
+          <h5>Mode</h5>
+          <select id="selDatasetMode" onchange="optionChanged(this.value)"></select>
+
+          <!-- script to populate the dropdown options-->
+          <script src="dropdownOptionsMode.js"></script>
 
           <!-- script to log the updates to the file-->
           <script src="changeOption.js"></script>
@@ -40,11 +54,25 @@
         </div>
   </div>
 
-  <div class="row">
+  <div class="panel panel-primary">
       <div class="col-md-5">
         <div id="barPlot"></div>
-            <!-- script to generate the bar plot-->
-            <script src="BarChart.js"></script>
+            <!-- script to generate the EVSalesChart plot-->
+            <script src="EVSalesChart.js"></script>
+      </div>
+      
+      <div class="col-md-12">
+        <div id="gaugePlot"></div>
+            <!-- script to generate the gauge plot-->
+            <script src="EVShareGaugeChart.js"></script>
+      </div>
+      
+      <div class="row">       
+        <div class="col-md-12">
+          <div id="oilPlot"></div>
+            <!-- script to generate the OilDisplacement plot-->
+            <script src="OilDisplacementChart.js"></script>
+        </div>
       </div>
 
   </div>
