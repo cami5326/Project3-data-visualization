@@ -1,50 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Team Pewter - Homepage</title>
-    </head>
+<head>
+    <title>Team Pewter - Homepage</title>
+    <style>
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 40px;
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            line-height: 5px;
+            display: flex;
+            align-items: center;
+        }
+        .button {
+            margin-right: auto;
+            background-color: #5f6263;
+            color: #ffffff;
+            border: none;
+            padding: 12px 15px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        h3 {
+			margin: 0;
+			font-size: 24px;
+			text-align: center;
+		}
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <header>
+        <a href="index.html"><button class="button">Return to Home</button></a>
+        <h3>Welcome to Team Pewter's Project 3 Home Page!</h3>
+    </header>
+</head>
 
-    <body>
-        <style>
-            body {
-            background-image: linear-gradient(to bottom, #FFFFFF, #606263);
-            background-size: 100% 232%;
+<body>
+    <style>
+        body {
+            padding-top: 40px;
+            background-image: linear-gradient(to bottom, #FFFFFF, #5f6263);
+            background-size: 100% 230%;
             margin-bottom: 2px;
-		    }
-            h1 {
-                margin-top: 2px;
-                color: #000000;
-                font-family: Helvetica, sans-serif;
-                font-size: 72px;
-                text-shadow: 0px 2px 5px #777777;
-            }
-            footer {
-                position: fixed;
-                bottom: 0;
-                width: 100%;
-                background-color: #202020;
-                color: #FFFFFF;
-                padding: 10px;
-                text-align: center;
-            }
-        </style>
-            <center>
-                <h3>Welcome to Team Pewter's Project 3 Home Page!</h3><br>
-                <h1>Electric Vehicles (EVs) <br>and Their Impact on the Environment</h1><br>
-                <h2>Please click on any of the following options to learn about our project</h2>
+        }
+        h1 {
+            margin-top: 30px;
+            color: #000000;
+            font-family: Helvetica, sans-serif;
+            font-size: 72px;
+            text-shadow: 0px 2px 5px #777777;
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #202020;
+            color: #FFFFFF;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+        <center>
+            <h1>Electric Vehicles (EVs) <br>and Their Impact on the Environment</h1><br>
+            <h2>Please click on any of the following options to learn more!</h2>
 
-                <button title="Read about the rise of EVs and their effects"><a href="Static/html/section1.html">The Rise of EVs and Their Effects</a></button>
-                <button title="Read about on the environmental issues and concerns of EVs"><a href="Static/html/section2.html"> Environmental Issues and Concerns</a></button>
-                <button title="Read our observations from all our collected data"><a href="Static/html/section3.html"> Observations on the Impact on the Environment from EVs</a></button>
-                
-                <script></script>
+            <button title="Read about the rise of EVs and their effects"><a href="Static/html/section1.html">The Rise of EVs and Their Effects</a></button>
+            <button title="Read about on the environmental issues and concerns of EVs"><a href="Static/html/section2.html"> Environmental Issues and Concerns</a></button>
+            <button title="Read our observations from all our collected data"><a href="Static/html/section3.html"> Observations on the Impact on the Environment from EVs</a></button>
+            
+            <script></script>
 
-                <hr>
-            </center>
-        <footer>
-            <em>Copyright &copy; 2023 Team Pewter - All rights reserved.</em>
-        </footer>
-    </body>
+            <hr>
+        </center>
+    <footer>
+        <em>Copyright &copy; 2023 Team Pewter - All rights reserved.</em>
+    </footer>
+</body>
 </html>
