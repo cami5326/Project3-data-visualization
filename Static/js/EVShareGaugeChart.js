@@ -2,7 +2,7 @@
 function plotGauge()
 {
     // load the data and load the charts
-    d3.csv("dataset.csv").then(function(data){
+    d3.csv("../../Data/dataset.csv").then(function(data){
         // console.log(data)
         // Get the selected value from the dropdown menu
         const selectedValueRegion = document.getElementById("selDataset").value;

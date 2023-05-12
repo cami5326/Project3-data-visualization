@@ -4,7 +4,7 @@
 function init()
 {
     // load the data and load the charts
-    d3.csv("dataset.csv").then(function(data){
+    d3.csv("../../Data/dataset.csv").then(function(data){
         // console.log(data)
         // Get the selected value from the dropdown menu
         const selectedValueRegion = document.getElementById("selDataset").value;
@@ -34,18 +34,6 @@ function init()
                     d.powertrain === selectedValuePowertrain2 &&
                     d.category === selectedValueCategory;
         });
-
-        // Group the filtered data and sum the value column
-        /*const groupedData = filteredData.reduce((acc, obj) => {
-            const key = obj.year;
-            if (!acc[key]) {
-              acc[key] = { count: 0, sum: 0 };
-            }
-            acc[key].count++;
-            acc[key].sum += obj.score;
-            return acc;
-          }, {});
-          */
 
         // define the plot data
         let x = filteredData.map(d => d.year);
