@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>TEST PAGE FOR EIA DATA PLOTS</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Test Dashboard for Bar Plots</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+
+      <div class="col-md-2">
+        <!-- div for dropdown REGION menu data selection-->
+        <div class="well">
+          
+          <h5>Region</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+
+          <!-- script to populate the dropdown options-->
+          <script src="Static/js/dropdownOptionsRegion.js"></script>
+
+          <!-- script to log the updates to the file-->
+          <script src="Static/js/changeOption.js"></script>
+
+        </div>
+
+        <!-- div for dropdown MODE menu data selection-->
+        <div class="well">
+          
+          <h5>Mode</h5>
+          <select id="selDatasetMode" onchange="optionChanged(this.value)"></select>
+
+          <!-- script to populate the dropdown options-->
+          <script src="Static/js/dropdownOptionsMode.js"></script>
+
+          <!-- script to log the updates to the file-->
+          <script src="Static/js/changeOption.js"></script>
+
+        </div>
+  </div>
+
+  <div class="panel panel-primary">
+      <div class="col-md-5">
+        <div id="barPlot"></div>
+            <!-- script to generate the EVSalesChart plot-->
+            <script src="Static/js/EVSalesChart.js"></script>
+      </div>
+      
+      <div class="col-md-12">
+        <div id="gaugePlot"></div>
+            <!-- script to generate the gauge plot-->
+            <script src="Static/js/EVShareGaugeChart.js"></script>
+      </div>
+      
+      <div class="row">       
+        <div class="col-md-12">
+          <div id="oilPlot"></div>
+            <!-- script to generate the OilDisplacement plot-->
+            <script src="Static/js/OilDisplacementChart.js"></script>
+        </div>
+      </div>
+
+  </div>
+
+</body>
+</html>
