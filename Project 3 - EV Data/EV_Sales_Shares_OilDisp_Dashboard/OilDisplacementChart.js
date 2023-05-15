@@ -22,11 +22,18 @@ function plot2()
                     d.category === selectedValueCategory;
         });
         
+        // group the data by year and get the maximum value for each group
+        let groupedData = d3.nest()
+            .key(function(d) { return d.year; })
+            .rollup(function(v) { return d3.max(v, function(d) { return parseFloat(d.value); }); })
+            .entries(filteredData);
+
         console.log(filteredData)
+        console.log(groupedData)
 
         // define the plot data
-        let x = filteredData.map(d => d.year);
-        let y = filteredData.map(d => d.value);
+        let x = groupedData.map(d => d.key);
+        let y = groupedData.map(d => d.value);
         // let label = filteredData[0].otu_labels.slice(0, 10).reverse();
 
         // generate the trace
