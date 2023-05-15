@@ -18,7 +18,7 @@ header { /* Absolute header at the top of the page */
     text-align: center;
     z-index: 2;
 }
-.button { /* Return to Home button */
+.button { /* Return to Home button located within the header */
     font-family: 'Material Symbols Outlined', sans-serif;
     font-size: 24px;
     text-align: center;
@@ -30,17 +30,39 @@ header { /* Absolute header at the top of the page */
     background-color: #5f6263;
     color: #ffffff;
     border: none;
-    padding: 8px 15px;
+    padding: 8px 27px;
     cursor: pointer;
     border-radius: 5px;
 }
-body { /* Currently unused, depreciated by the video background */
-    padding-top: 40px;
-    background-image: linear-gradient(to bottom, #cbd5d8, #5f6263);
-    background-size: 100% 135%;
-    margin-bottom: 30px;
+h3 { /* Text in the header of the page */
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: center;
 }
-div { /* Background box for the block of text on the home page */
+h1 { /* The main title on the page, "Electric Vehicles (EVs) and Their Impact on the Environment" */
+    font-family: 'Akshar', sans-serif;
+    font-size: 96px;
+    color: #FFFFFF;
+    margin-top: 150px;
+    line-height: 1.0;
+    text-shadow: 0px 0px 15px #00000060;
+}
+h2 { /* Title of the block of text */
+    font-family: 'Wix Madefor Display', sans-serif;
+    color: #202020;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+p { /* Text within the block of text */
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 16px;
+    color: #202020;
+    line-height: 1.1;
+    margin-bottom: 10px;
+}
+div { /* Background box for the block of text */
     background-color: #f5f5f5;
     padding-top: 0px;
     padding-right: 15px;
@@ -53,26 +75,11 @@ div { /* Background box for the block of text on the home page */
     max-width: 800px;
     margin: 0 auto;
 }
-h1 { /* The "Electric Vehicles (EVs) and Their Impact on the Environment" title on the page */
-    font-family: 'Akshar', sans-serif;
-    font-size: 96px;
-    color: #FFFFFF;
-    margin-top: 60px;
-    line-height: 1.0;
-    text-shadow: 0px 0px 15px #00000060;
-}
-h2 { /* Title of the block of text */
-    font-family: 'Wix Madefor Display', sans-serif;
-    color: #202020;
-    font-size: 22px;
-    margin-bottom: 15px;
-}
-h3 { /* Text in the header of the page */
-    font-family: 'Wix Madefor Display', sans-serif;
-    font-size: 24px;
-    color: #FFFFFF;
-    margin: 0;
-    text-align: center;
+body { /* Currently unused, depreciated by the video background */
+    padding-top: 40px;
+    background-image: linear-gradient(to bottom, #cbd5d8, #5f6263);
+    background-size: 100% 135%;
+    margin-bottom: 30px;
 }
 h4 { /* "Please click on the following options to learn more" */
     font-family: 'Wix Madefor Display', sans-serif;
@@ -83,14 +90,7 @@ h4 { /* "Please click on the following options to learn more" */
 br {
     margin-top: 1px;
 }
-p { /* Block of text */
-    font-family: 'Wix Madefor Display', sans-serif;
-    font-size: 16px;
-    color: #202020;
-    line-height: 1.1;
-    margin-bottom: 10px;
-}
-video {
+video { /* The video in the background. Pretty self-explanatory */
     content: '';
     display: block;
     position: fixed;
@@ -102,13 +102,13 @@ video {
     background-color: rgba(0, 0, 0, 0.2);
     z-index: -1;
 }
-.video-overlay {
+.video-overlay { /* Used to apply a dark overlay to the video */
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5); /* The fourth value is the overlay alpha */
     z-index: -1;
 }
 footer { /* Fixed footer at the bottom of the page */
@@ -117,7 +117,7 @@ footer { /* Fixed footer at the bottom of the page */
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 30px;
+    height: 35px;
     background-color: #202020;
     color: #FFFFFF;
     text-align: center;
