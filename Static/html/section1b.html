@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<head>
+  <meta charset="UTF-8">
+  <style>
+          header {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 40px;
+              background-color: #333;
+              color: #fff;
+              padding: 10px;
+              line-height: 5px;
+              display: flex;
+              align-items: center;
+          }
+          .button {
+              margin-right: auto;
+              background-color: #5f6263;
+              color: #ffffff;
+              border: none;
+              padding: 12px 15px;
+              font-size: 16px;
+              cursor: pointer;
+              border-radius: 5px;
+          }
+      </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>The Rise of EVs</title>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+  
+  <header>
+    <a href="../../index.html"><button class="button">Return to Home</button></a>
+  </header>
+
+</head>
+
+<body>
+  <style>
+    body {
+        padding-top: 40px;
+        background-image: linear-gradient(to bottom, #FFFFFF, #606263);
+        background-size: 100% 400%;
+    }
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #202020;
+        color: #FFFFFF;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>The Rise of EVs and Their Effects</h1>
+      </div>
+    </div>
+    <div class="row">
+
+      <div class="col-md-2">
+        <!-- div for dropdown REGION menu data selection-->
+        <div class="well">
+          
+          <h5>Region</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+
+          <!-- script to populate the dropdown options-->
+          <script src="../js/dropdownOptionsRegion.js"></script>
+
+          <!-- script to log the updates to the file-->
+          <script src="../js/changeOption.js"></script>
+
+        </div>
+
+        <!-- div for dropdown MODE menu data selection-->
+        <div class="well">
+          
+          <h5>Mode</h5>
+          <select id="selDatasetMode" onchange="optionChanged(this.value)"></select>
+
+          <!-- script to populate the dropdown options-->
+          <script src="../js/dropdownOptionsMode.js"></script>
+
+          <!-- script to log the updates to the file-->
+          <script src="../js/changeOption.js"></script>
+
+        </div>
+  </div>
+
+  <div class="panel panel-primary">
+      <div class="col-md-5">
+        <div id="barPlot"></div>
+            <!-- script to generate the EVSalesChart plot-->
+            <script src="../js/EVSalesChart.js"></script>
+      </div>
+      
+      <div class="col-md-12">
+        <div id="gaugePlot"></div>
+            <!-- script to generate the gauge plot-->
+            <script src="../js/EVShareGaugeChart.js"></script>
+      </div>
+      
+      <div class="row">       
+        <div class="col-md-12">
+          <div id="oilPlot"></div>
+            <!-- script to generate the OilDisplacement plot-->
+            <script src="../js/OilDisplacementChart.js"></script>
+        </div>
+      </div>
+
+  </div>
+
+  <footer>
+    <em>Copyright &copy; 2023 Team Pewter - All rights reserved.</em>
+  </footer>
+
+</body>
+</html>
