@@ -5,8 +5,7 @@ function plot2()
 {
     // load the data and load the charts
     d3.csv("../../Data/dataset.csv").then(function(data){
-        // console.log(data)
-        // Get the selected value from the dropdown menu
+            // Get the selected value from the dropdown menu
         const selectedValueRegion = document.getElementById("selDataset").value;
         const selectedValueParameter = "Oil displacement Mbd"
         const selectedValueMode = document.getElementById("selDatasetMode").value
@@ -22,18 +21,20 @@ function plot2()
                     d.category === selectedValueCategory;
         });
         
-        console.log(filteredData)
+        // group the data by year and get the maximum value for each group
+        let groupedData = d3.nest()
+            .key(function(d) { return d.year; })
+            .rollup(function(v) { return d3.max(v, function(d) { return parseFloat(d.value); }); })
+            .entries(filteredData);
 
         // define the plot data
-        let x = filteredData.map(d => d.year);
-        let y = filteredData.map(d => d.value);
-        // let label = filteredData[0].otu_labels.slice(0, 10).reverse();
+        let x = groupedData.map(d => d.key);
+        let y = groupedData.map(d => d.value);
 
         // generate the trace
         trace = {
             x: x,
             y: y,
-            // hovertext: label,
             type: "line",
             orientation: "v"
         }
