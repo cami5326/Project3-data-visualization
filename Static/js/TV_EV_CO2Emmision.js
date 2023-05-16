@@ -61,9 +61,8 @@ function parameterFilter(row) {
     // apply the title and set the barmode to group
     let layout = {
     title: "CO2 Emission per Car Type",
-    plot_bgcolor:"white",
-    paper_bgcolor:"black",
-    font:{color:"white"},
+    paper_bgcolor:"White",
+    font:{color:"Black"},
     barmode:"group",
     xaxis: {
     title: "Car Type",
@@ -74,9 +73,7 @@ function parameterFilter(row) {
     title: "AverageCO2 Emission (Gram/Mile)"
     },
     legend: {
-    font: {
-    color: "white"
-    }
+    font: {color: "Black"}
     }
     };
 

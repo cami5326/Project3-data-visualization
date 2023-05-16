@@ -78,9 +78,9 @@ function init()
                 overlaying: 'y',
                 side: 'right'
               },
-            autosize: true,
+            autosize: false,
             width: 1000,
-            height: 500
+            height: 400
         }
         
         // plot using plotly
