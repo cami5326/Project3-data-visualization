@@ -1,0 +1,97 @@
+[
+ {
+   "Country": "Africa",
+   "year": 2015,
+   "lithiumproductionreserves": 900
+ },
+ {
+   "Country": "Argentina",
+   "year": 2015,
+   "lithiumproductionreserves": 3600
+ },
+ {
+   "Country": "Asia",
+   "year": 2015,
+   "lithiumproductionreserves": 2000
+ },
+ {
+   "Country": "Australia",
+   "year": 2015,
+   "lithiumproductionreserves": 11928.996
+ },
+ {
+   "Country": "Brazil",
+   "year": 2015,
+   "lithiumproductionreserves": 147.69797
+ },
+ {
+   "Country": "Chile",
+   "year": 2015,
+   "lithiumproductionreserves": 9809.592
+ },
+ {
+   "Country": "China",
+   "year": 2015,
+   "lithiumproductionreserves": 2000
+ },
+ {
+   "Country": "Europe",
+   "year": 2015,
+   "lithiumproductionreserves": 256.79928
+ },
+ {
+   "Country": "High-income countries",
+   "year": 2015,
+   "lithiumproductionreserves": 22895.388
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "year": 2015,
+   "lithiumproductionreserves": 900
+ },
+ {
+   "Country": "North America",
+   "year": 2015,
+   "lithiumproductionreserves": 900
+ },
+ {
+   "Country": "Oceania",
+   "year": 2015,
+   "lithiumproductionreserves": 11928.996
+ },
+ {
+   "Country": "Portugal",
+   "year": 2015,
+   "lithiumproductionreserves": 256.79928
+ },
+ {
+   "Country": "Rest of World (BP)",
+   "year": 2015,
+   "lithiumproductionreserves": 0
+ },
+ {
+   "Country": "South America",
+   "year": 2015,
+   "lithiumproductionreserves": 13557.29
+ },
+ {
+   "Country": "United States",
+   "year": 2015,
+   "lithiumproductionreserves": 900
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "year": 2015,
+   "lithiumproductionreserves": 5747.698
+ },
+ {
+   "Country": "World",
+   "year": 2015,
+   "lithiumproductionreserves": 29543.085
+ },
+ {
+   "Country": "Zimbabwe",
+   "year": 2015,
+   "lithiumproductionreserves": 900
+ }
+]
