@@ -55,9 +55,7 @@ function parameterFilter(row) {
     // apply the title and set the barmode to group
     let layout = {
     title: "Combined MPG over the Years (EV)",
-    plot_bgcolor:"white",
-    paper_bgcolor:"black",
-    font:{color:"white"},
+    font:{color:"Black"},
     barmode:"group",
     xaxis: {
      title: "Year"
@@ -66,9 +64,7 @@ function parameterFilter(row) {
      title: "Fuel Consumption (MPG)"
     },
     legend: {
-     font: {
-      color: "white"
-     }
+     font: {color: "Black"}
     }
     };
     
@@ -127,8 +123,7 @@ function parameterFilter(row) {
         let layout = {
         title: "CO2 Emission (Gram/Mile) over the Years (EV)",
         plot_bgcolor:"white",
-        paper_bgcolor:"black",
-        font:{color:"white"},
+        font:{color:"Black"},
         barmode:"group",
         xaxis: {
          title: "Year"
@@ -137,9 +132,7 @@ function parameterFilter(row) {
          title: "CO2 Emission (Gram/Mile)"
         },
         legend: {
-         font: {
-          color: "white"
-         }
+         font: {color: "Black"}
         }
         };
         

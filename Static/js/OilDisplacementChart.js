@@ -46,9 +46,9 @@ function plot2()
             title: "Oil Displacement by Year",
             xaxis: { title: "Year", tickangle: 270, tickmode: 'linear' },
             yaxis: { title: "Oil Displacement (Mbd)"},
-            autosize: true,
+            autosize: false,
             width: 1000,
-            height: 500
+            height: 400
         }
         
         // plot using plotly
