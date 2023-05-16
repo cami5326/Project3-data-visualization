@@ -1,47 +1,48 @@
-<html>
-    <head>
-        <title>
-            Dashboards
-        </title>
+<!DOCTYPE html>
+<html lang="en">
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<head>
+    <link rel="stylesheet" href="../css/styleco2.css">
+    <title>CO2 Levels For Non-Electric Vehicles</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <header>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <a href="../../index.html">
+        <button class="button", title="Return to Home">arrow_back_iosHome</button></a>
+        <h3>CO2 Levels For Non-Electric Vehicles - Team Pewter</h3>
+    </header>
+
+</head>
+
+<body>        
+    <div class="container">
+        <h2>CO2 Levels For Non-Electric Vehicles</h2>
+
+        <form action="#">
+            <select name="" id="make">
+                <option value="">-- Select Make --</option>
+            </select>
+            <select name="" id="model">
+                <option value="">-- Select Model --</option>
+            </select>
+            <select name="" id="transmission">
+                <option value="">-- Select Transmission Type --</option>
+            </select>
+            <select name="" id="combinedCO2">
+                <option value="">-- Display CO2 Emission --</option>
+            </select>
+        </form>
+    </div>
         
-        <!-- D3 Library -->
-        <script src="https://d3js.org/d3.v5.min.js"></script>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="../css/styleco2.css">
-    </head>
+    <script src="../js/2023.js"></script>
+    
+    <footer>
+        <em>Copyright &copy; 2023 Team Pewter - All rights reserved.</em>
+    </footer>
 
-    <body>
-        <center>
-            
-
-            <div class="container">
-                <h2>CO2 Levels For Non-Electric Vehicles</h2>
-
-                <form action="#">
-                    <select name="" id="make">
-                        <option value="">-- Select Make --</option>
-                    </select>
-                    <select name="" id="model">
-                        <option value="">-- Select Model --</option>
-                    </select>
-                    <select name="" id="transmission">
-                        <option value="">-- Select Transmission Type --</option>
-                    </select>
-                    <select name="" id="combinedCO2">
-                        <option value="">-- Display CO2 Emission --</option>
-                    </select>
-                </form>
-            </div>
-            
-        <script src="../js/2023.js"></script>
-        
-
-            <a href="../../index.html">Return to the home page</a>
-
-            <hr>
-            <em>Copyright &copy; 2023 Team Pewter's website </em>
-        </center>
-    </body>
-</html>
+</body>

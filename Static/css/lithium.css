@@ -33,6 +33,13 @@ header { /* Header at the top of the page */
     cursor: pointer;
     border-radius: 5px;
 }
+h3 { /* Text in the header of the page */
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+}
 * {
     margin: 0;
     padding: 0;
@@ -60,6 +67,30 @@ header { /* Header at the top of the page */
     width: 900px;
     padding: 20px;
     border-radius: 20px;
-    border: solid 3px rgb(127, 249, 159);
+    border: solid 3px #92c938;
     background: rgb(243, 247, 244);
+}
+body { /* Background color */
+    padding-top: 40px;
+    background-color: #eeeeee;
+    background-size: 100% 100%;
+    scrollbar-width: thin; 
+    scrollbar-color: transparent transparent; /* Makes the scroll bar transparent */
+}
+body::-webkit-scrollbar {
+    width: 0px; /* Totally hides the scroll bar */
+}
+footer { /* Fixed footer at the bottom of the page */
+    position: absolute;
+    align-items: center;
+    left: 0;
+    bottom: 1;
+    width: 100%;
+    height: 35px;
+    color: #FFFFFF;
+    background-color: #202020;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    box-sizing: border-box;
 }
