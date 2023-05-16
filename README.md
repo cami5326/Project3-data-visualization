@@ -1,7 +1,24 @@
 # Project3-data-visualization
 **Team Pewter:** Wen Chiou, Jason Hanlin, Camilla Inhapim, Marlon Ruiz, Matthew Copello, Fatima Mumin, Sami Kolahdoozan, Toyin Olaye, Doug Hooper, Ershad Ziaei
 
-**Project:** Dashboard showing the impact of electric vehicles on the environment
+**Check out our website here**: [Electric Vehicles (EVs)
+and Their Impact on the Environment](https://cami5326.github.io/Project3-data-visualization/index.html)
+
+**Sneak Peek**:
+
+
+![Index](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Index.png)
+
+![EV Sales Per Year](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/EV%20Sales%20Per%20Year.png)
+
+![Cumulative EV Sales](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Cumulative%20EV%20Sales.PNG)
+
+![Oil Displacement](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Oil%20Displacement.png)
+
+![EV Sales Per US State](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/EV%20Sales%20Per%20US%20State.PNG)
+
+![Environmental Concerns](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Environmental%20Concerns.png)
+
 
 **Datasets**: 
 [IEA Global EV Outlook 2023](https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2023)
@@ -19,19 +36,5 @@
 
 **Proposal**: [GoogleDoc](https://docs.google.com/document/d/14lbI9O5yiG16Tu137kqBH3m0776LmS7vYqbd57NU2N4/edit)
 
-**Check out our website here**: [Electric Vehicles (EVs)
-and Their Impact on the Environment](https://cami5326.github.io/Project3-data-visualization/index.html)
 
-**Sneak Peek**:
-![Index](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Index.png)
-
-![EV Sales Per Year](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/EV%20Sales%20Per%20Year.png)
-
-![Cumulative EV Sales](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Cumulative%20EV%20Sales.PNG)
-
-![Oil Displacement](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Oil%20Displacement.png)
-
-![EV Sales Per US State](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/EV%20Sales%20Per%20US%20State.PNG)
-
-![Environmental Concerns](https://github.com/cami5326/Project3-data-visualization/blob/main/Images/Environmental%20Concerns.png)
 
