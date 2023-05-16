@@ -45,7 +45,7 @@ function plotGauge()
                     { range: [60, 70], color: "red" },
                     { range: [70, 80], color: "darkred" },
                     { range: [80, 90], color: "maroon" },
-                    { range: [80, 90], color: "black" }
+                    { range: [90, 100], color: "black" }
                     ]
                 }
             }
@@ -54,12 +54,11 @@ function plotGauge()
         // define the plot layout
         layout = {
             title: {
-            text: "Cumulative EV Sales Share by 2022 (%)",
-            autosize: true,
-            width: 200,
-            height: 200
-            }
-        };
+              text: "Cumulative EV Sales Share by 2022 (%)",
+            },
+            width: 600,
+            height: 400,
+          };
         
         // generate the plot using plotly
         Plotly.newPlot("gaugePlot", data, layout);   
