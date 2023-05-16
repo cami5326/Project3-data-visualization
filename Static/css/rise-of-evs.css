@@ -45,6 +45,11 @@ body { /* Background color */
     background-image: linear-gradient(to bottom, #FFFFFF, #606263);
     background-size: 100% 100%;
 }
+#gaugePlot {
+    position: fixed;
+    top: 288px;
+    right: 20px;
+}
 footer { /* Fixed footer at the bottom of the page */
     position: relative;
     align-items: center;

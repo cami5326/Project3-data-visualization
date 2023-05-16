@@ -56,8 +56,8 @@ function plotGauge()
             title: {
               text: "Cumulative EV Sales Share by 2022 (%)",
             },
-            width: 600,
-            height: 400,
+            width: 850,
+            height: 500,
           };
         
         // generate the plot using plotly

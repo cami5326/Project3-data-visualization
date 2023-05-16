@@ -5,7 +5,7 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../css/style1.css">
+  <link rel="stylesheet" type="text/css" href="../css/rise-of-evs.css">
   <title>The Rise and Effects of EVs</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,10 +24,10 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center">
+      <!-- <div class="col-md-12 jumbotron text-center">
         <h1>Test Dashboard for Bar Plots</h1>
         <p>Use the interactive charts below to explore the dataset</p>
-      </div>
+      </div> -->
     </div>
     <div class="row">
 
@@ -35,7 +35,7 @@
         <!-- div for dropdown REGION menu data selection-->
         <div class="well">
           
-          <h5>Region</h5>
+          <h5>Select a Country:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
 
           <!-- script to populate the dropdown options-->
@@ -49,7 +49,7 @@
         <!-- div for dropdown MODE menu data selection-->
         <div class="well">
           
-          <h5>Mode</h5>
+          <h5>Vehicle Type:</h5>
           <select id="selDatasetMode" onchange="optionChanged(this.value)"></select>
 
           <!-- script to populate the dropdown options-->
