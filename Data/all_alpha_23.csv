@@ -1,0 +1,2524 @@
+Model Full,Displ,Cyl,Trans,Drive,Fuel,Veh Class,Air Pollution Score,City MPG,Hwy MPG,Cmb MPG,Greenhouse Gas Score,SmartWay,Comb CO2,Make,Model
+ACURA Integra,1.5,4,SCV-7,2WD,Gasoline,large car,7,30,37,33,6,No,269,ACURA,Integra
+ACURA Integra A-Spec,1.5,4,SCV-7,2WD,Gasoline,large car,7,29,36,32,6,No,277,ACURA,Integra A-Spec
+ACURA Integra A-Spec,1.5,4,Man-6,2WD,Gasoline,large car,6,26,36,30,6,No,293,ACURA,Integra A-Spec
+ACURA MDX,3.5,6,SemiAuto-10,2WD,Gasoline,small SUV,5,19,26,22,5,No,411,ACURA,MDX
+ACURA MDX,3.5,6,SemiAuto-10,4WD,Gasoline,small SUV,5,19,25,21,4,No,423,ACURA,MDX
+ACURA MDX Type-S,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,17,21,19,4,No,474,ACURA,MDX Type-S
+ACURA RDX,2,4,SemiAuto-10,2WD,Gasoline,small SUV,6,22,28,24,5,No,370,ACURA,RDX
+ACURA RDX,2,4,SemiAuto-10,4WD,Gasoline,small SUV,6,21,27,23,5,No,385,ACURA,RDX
+ACURA RDX A-SPEC,2,4,SemiAuto-10,2WD,Gasoline,small SUV,6,22,27,24,5,No,375,ACURA,RDX A-SPEC
+ACURA RDX A-SPEC,2,4,SemiAuto-10,4WD,Gasoline,small SUV,6,21,26,23,5,No,388,ACURA,RDX A-SPEC
+ACURA TLX,2,4,SemiAuto-10,2WD,Gasoline,small car,7,22,31,25,5,No,352,ACURA,TLX
+ACURA TLX,2,4,SemiAuto-10,4WD,Gasoline,small car,7,21,29,24,5,No,369,ACURA,TLX
+ACURA TLX AWD A-SPEC,2,4,SemiAuto-10,4WD,Gasoline,small car,7,21,29,24,5,No,371,ACURA,TLX AWD A-SPEC
+ACURA TLX FWD A-SPEC,2,4,SemiAuto-10,2WD,Gasoline,small car,7,22,30,25,5,No,357,ACURA,TLX FWD A-SPEC
+ACURA TLX Type-S,3,6,SemiAuto-10,4WD,Gasoline,small car,5,19,25,21,4,No,420,ACURA,TLX Type-S
+ACURA TLX Type-S Perf Tire,3,6,SemiAuto-10,4WD,Gasoline,small car,5,19,24,21,4,No,421,ACURA,TLX Type-S Perf Tire
+ALFA ROMEO Giulia,2.9,6,Auto-8,2WD,Gasoline,midsize car,3,17,25,20,4,No,436,ALFA,ROMEO Giulia
+ALFA ROMEO Giulia,2,4,Auto-8,2WD,Gasoline,midsize car,5,24,33,27,5,No,330,ALFA,ROMEO Giulia
+ALFA ROMEO Giulia AWD,2,4,Auto-8,4WD,Gasoline,midsize car,5,23,31,26,5,No,348,ALFA,ROMEO Giulia AWD
+ALFA ROMEO Stelvio,2,4,Auto-8,2WD,Gasoline,small SUV,5,22,29,25,5,No,359,ALFA,ROMEO Stelvio
+ALFA ROMEO Stelvio AWD,2.9,6,Auto-8,4WD,Gasoline,small SUV,3,17,23,19,4,No,463,ALFA,ROMEO Stelvio AWD
+ALFA ROMEO Stelvio AWD,2,4,Auto-8,4WD,Gasoline,small SUV,5,22,28,24,5,No,364,ALFA,ROMEO Stelvio AWD
+ASTON MARTIN DB11 V12,5.2,12,Auto-8,2WD,Gasoline,small car,3,14,22,17,3,No,522,ASTON,MARTIN DB11 V12
+ASTON MARTIN DB11 V8,4,8,Auto-8,2WD,Gasoline,small car,5,18,24,20,4,No,431,ASTON,MARTIN DB11 V8
+ASTON MARTIN DBS,5.2,12,Auto-8,2WD,Gasoline,small car,3,14,22,17,3,No,522,ASTON,MARTIN DBS
+ASTON MARTIN DBX 707,4,8,Auto-9,4WD,Gasoline,standard SUV,5,15,20,17,3,No,536,ASTON,MARTIN DBX 707
+ASTON MARTIN DBX V8,4,8,Auto-9,4WD,Gasoline,standard SUV,5,14,20,16,3,No,556,ASTON,MARTIN DBX V8
+ASTON MARTIN V12 Vantage,5.2,12,Auto-8,2WD,Gasoline,small car,3,14,22,16,3,No,548,ASTON,MARTIN V12 Vantage
+ASTON MARTIN Vantage,4,8,Auto-8,2WD,Gasoline,small car,5,18,24,20,4,No,435,ASTON,MARTIN Vantage
+AUDI A3,2,4,AMS-7,2WD,Gasoline,small car,7,28,38,32,6,No,276,AUDI,A3
+AUDI A3,2,4,AMS-7,4WD,Gasoline,small car,7,27,35,30,6,No,294,AUDI,A3
+AUDI A4,2,4,AMS-7,4WD,Gasoline,small car,5,24,33,28,6,No,322,AUDI,A4
+AUDI A4 Allroad quattro,2,4,AMS-7,4WD,Gasoline,station wagon,5,23,30,26,5,No,344,AUDI,A4 Allroad quattro
+AUDI A4 S-Line quattro,2,4,AMS-7,4WD,Gasoline,small car,5,24,32,27,5,No,326,AUDI,A4 S-Line quattro
+AUDI A5,2,4,AMS-7,4WD,Gasoline,small car,5,24,32,27,5,No,326,AUDI,A5
+AUDI A5 Cabriolet,2,4,AMS-7,4WD,Gasoline,small car,5,24,31,26,5,No,334,AUDI,A5 Cabriolet
+AUDI A5 Sportback quattro,2,4,AMS-7,4WD,Gasoline,midsize car,5,24,33,28,6,No,322,AUDI,A5 Sportback quattro
+AUDI A5 Sportback S-Line quattro,2,4,AMS-7,4WD,Gasoline,midsize car,5,24,32,27,5,No,326,AUDI,A5 Sportback S-Line quattro
+AUDI A6,2,4,AMS-7,4WD,Gasoline,midsize car,5,24,31,27,5,No,334,AUDI,A6
+AUDI A6,3,6,AMS-7,4WD,Gasoline,midsize car,5,21,30,24,5,No,361,AUDI,A6
+AUDI A6 Allroad,3,6,AMS-7,4WD,Gasoline,station wagon,5,21,30,24,5,No,361,AUDI,A6 Allroad
+AUDI A7,3,6,AMS-7,4WD,Gasoline,midsize car,5,21,30,24,5,No,361,AUDI,A7
+AUDI A8 L,3,6,SemiAuto-8,4WD,Gasoline,large car,5,19,28,22,5,No,398,AUDI,A8 L
+AUDI Q3,2,4,SemiAuto-8,4WD,Gasoline,small SUV,6,22,29,25,5,No,361,AUDI,Q3
+AUDI Q3 S-Line,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,375,AUDI,Q3 S-Line
+AUDI Q5 quattro,2,4,AMS-7,4WD,Gasoline,small SUV,5,23,29,25,5,No,350,AUDI,Q5 quattro
+AUDI Q5 S-Line quattro,2,4,AMS-7,4WD,Gasoline,small SUV,5,22,29,25,5,No,358,AUDI,Q5 S-Line quattro
+AUDI Q5 Sportback S-line quattro,2,4,AMS-7,4WD,Gasoline,small SUV,5,22,29,25,5,No,358,AUDI,Q5 Sportback S-line quattro
+AUDI Q5 TFSIe,2,4,AMS-7,4WD,Gasoline/Electricity,small SUV,7,25/60,27/61,26/60,9,Yes,148,AUDI,Q5 TFSIe
+AUDI Q7,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,5,19,25,21,4,No,414,AUDI,Q7
+AUDI Q7,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,18,22,20,4,No,453,AUDI,Q7
+AUDI Q8,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,18,23,20,4,No,439,AUDI,Q8
+AUDI R8 Coupe,5.2,10,AMS-7,2WD,Gasoline,small car,1,14,23,17,3,No,515,AUDI,R8 Coupe
+AUDI R8 Coupe quattro,5.2,10,AMS-7,4WD,Gasoline,small car,1,13,18,15,2,No,580,AUDI,R8 Coupe quattro
+AUDI R8 GT,5.2,10,AMS-7,2WD,Gasoline,small car,1,14,21,17,3,No,527,AUDI,R8 GT
+AUDI R8 Spyder,5.2,10,AMS-7,2WD,Gasoline,small car,1,14,23,17,3,No,515,AUDI,R8 Spyder
+AUDI R8 Spyder quattro,5.2,10,AMS-7,4WD,Gasoline,small car,1,13,18,15,2,No,580,AUDI,R8 Spyder quattro
+AUDI RS 6 Avant,4,8,SemiAuto-8,4WD,Gasoline,station wagon,3,14,21,17,3,No,532,AUDI,RS 6 Avant
+AUDI RS 7,4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,14,21,17,3,No,532,AUDI,RS 7
+AUDI RS Q8,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,20,16,3,No,562,AUDI,RS Q8
+AUDI RS5 Coupe,2.9,6,SemiAuto-8,4WD,Gasoline,small car,5,18,26,21,4,No,429,AUDI,RS5 Coupe
+AUDI RS5 Sportback,2.9,6,SemiAuto-8,4WD,Gasoline,midsize car,5,18,25,21,4,No,430,AUDI,RS5 Sportback
+AUDI S3,2,4,AMS-7,4WD,Gasoline,small car,5,23,32,26,5,No,334,AUDI,S3
+AUDI S4,3,6,SemiAuto-8,4WD,Gasoline,small car,5,21,30,24,5,No,364,AUDI,S4
+AUDI S5 Cabriolet,3,6,SemiAuto-8,4WD,Gasoline,small car,5,21,28,23,5,No,375,AUDI,S5 Cabriolet
+AUDI S5 Coupe,3,6,SemiAuto-8,4WD,Gasoline,small car,5,21,30,24,5,No,364,AUDI,S5 Coupe
+AUDI S5 Sportback,3,6,SemiAuto-8,4WD,Gasoline,midsize car,5,21,30,24,5,No,364,AUDI,S5 Sportback
+AUDI S6,2.9,6,SemiAuto-8,4WD,Gasoline,midsize car,5,19,26,22,5,No,408,AUDI,S6
+AUDI S7,2.9,6,SemiAuto-8,4WD,Gasoline,midsize car,5,19,26,22,5,No,408,AUDI,S7
+AUDI S8,4,8,SemiAuto-8,4WD,Gasoline,large car,3,15,23,18,4,No,503,AUDI,S8
+AUDI SQ5,3,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,24,21,4,No,422,AUDI,SQ5
+AUDI SQ5 Sportback,3,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,24,21,4,No,422,AUDI,SQ5 Sportback
+AUDI SQ7,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,20,17,3,No,532,AUDI,SQ7
+AUDI SQ8,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,20,17,3,No,532,AUDI,SQ8
+AUDI TT Coupe,2,4,AMS-7,4WD,Gasoline,small car,7,23,30,25,5,No,347,AUDI,TT Coupe
+AUDI TT Roadster,2,4,AMS-7,4WD,Gasoline,small car,7,23,30,25,5,No,347,AUDI,TT Roadster
+AUDI TTS Coupe,2,4,AMS-7,4WD,Gasoline,small car,3,23,31,26,5,No,337,AUDI,TTS Coupe
+BENTLEY Bentayga,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,21,17,3,No,527,BENTLEY,Bentayga
+BENTLEY Bentayga EWB,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,21,17,3,No,527,BENTLEY,Bentayga EWB
+BENTLEY Bentayga Hybrid,3,6,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,3,18/44,24/51,20/47,7,No,222,BENTLEY,Bentayga Hybrid
+BENTLEY Bentayga Speed,6,12,SemiAuto-8,4WD,Gasoline,standard SUV,3,12,19,14,2,No,617,BENTLEY,Bentayga Speed
+BENTLEY Chiron,8,16,AMS-7,4WD,Gasoline,small car,1,9,14,11,1,No,840,BENTLEY,Chiron
+BENTLEY Continental GT,4,8,AMS-8,4WD,Gasoline,small car,3,15,23,18,4,No,494,BENTLEY,Continental GT
+BENTLEY Continental GT Convertible,4,8,AMS-8,4WD,Gasoline,small car,3,15,22,18,4,No,508,BENTLEY,Continental GT Convertible
+BENTLEY Continental GT Convertible Speed,6,12,AMS-8,4WD,Gasoline,small car,3,12,18,14,2,No,636,BENTLEY,Continental GT Convertible Speed
+BENTLEY Continental GT Speed,6,12,AMS-8,4WD,Gasoline,small car,3,12,20,15,2,No,610,BENTLEY,Continental GT Speed
+BENTLEY Flying Spur,4,8,AMS-8,4WD,Gasoline,midsize car,3,15,22,17,3,No,514,BENTLEY,Flying Spur
+BENTLEY Flying Spur,6,12,AMS-8,4WD,Gasoline,midsize car,3,12,19,15,2,No,601,BENTLEY,Flying Spur
+BENTLEY Flying Spur Hybrid,2.9,6,AMS-8,4WD,Gasoline/Electricity,midsize car,5,17/43,22/50,19/46,7,No,251,BENTLEY,Flying Spur Hybrid
+BMW 228i Gran Coupe,2,4,SemiAuto-8,2WD,Gasoline,small car,7,24,34,28,6,No,315,BMW,228i Gran Coupe
+BMW 228i xDrive Gran Coupe,2,4,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,5,No,330,BMW,228i xDrive Gran Coupe
+BMW 230i Coupe,2,4,SemiAuto-8,2WD,Gasoline,small car,3,26,35,29,6,No,300,BMW,230i Coupe
+BMW 230i xDrive Coupe,2,4,SemiAuto-8,4WD,Gasoline,small car,3,24,34,28,6,No,314,BMW,230i xDrive Coupe
+BMW 330e,2,4,SemiAuto-8,2WD,Gasoline/Electricity,small car,7,24/69,32/78,27/73,9,Yes,158,BMW,330e
+BMW 330e,2,4,SemiAuto-8,4WD,Gasoline/Electricity,small car,7,22/64,32/75,26/68,9,Yes,172,BMW,330e
+BMW 330i,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,34,29,6,No,308,BMW,330i
+BMW 330i,2,4,SemiAuto-8,4WD,Gasoline,small car,7,24,33,27,5,No,322,BMW,330i
+BMW 430i Convertible,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,34,28,6,No,313,BMW,430i Convertible
+BMW 430i Convertible,2,4,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,5,No,327,BMW,430i Convertible
+BMW 430i Coupe,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,34,28,6,No,313,BMW,430i Coupe
+BMW 430i Coupe,2,4,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,5,No,327,BMW,430i Coupe
+BMW 430i Gran Coupe,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,34,28,6,No,313,BMW,430i Gran Coupe
+BMW 430i Gran Coupe,2,4,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,5,No,329,BMW,430i Gran Coupe
+BMW 530e,2,4,SemiAuto-8,2WD,Gasoline/Electricity,small car,7,24/65,29/71,26/67,8,Yes,179,BMW,530e
+BMW 530e,2,4,SemiAuto-8,4WD,Gasoline/Electricity,small car,7,22/59,28/67,25/62,8,Yes,203,BMW,530e
+BMW 530i,2,4,SemiAuto-8,2WD,Gasoline,midsize car,7,25,33,28,6,No,313,BMW,530i
+BMW 530i,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,23,32,26,5,No,332,BMW,530i
+BMW 540i,3,6,SemiAuto-8,2WD,Gasoline,midsize car,5,25,32,27,5,No,322,BMW,540i
+BMW 540i,3,6,SemiAuto-8,4WD,Gasoline,midsize car,5,22,29,25,5,No,352,BMW,540i
+BMW 740i,3,6,SemiAuto-8,2WD,Gasoline,large car,7,25,31,27,5,No,324,BMW,740i
+BMW 760i xDrive,4.4,8,SemiAuto-8,4WD,Gasoline,large car,5,18,26,21,4,No,420,BMW,760i xDrive
+BMW 840i Convertible,3,6,SemiAuto-8,2WD,Gasoline,small car,3,21,29,24,5,No,374,BMW,840i Convertible
+BMW 840i Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,3,21,29,24,5,No,373,BMW,840i Coupe
+BMW 840i Gran Coupe,3,6,SemiAuto-8,2WD,Gasoline,midsize car,3,21,29,24,5,No,374,BMW,840i Gran Coupe
+BMW 840i xDrive Convertible,3,6,SemiAuto-8,4WD,Gasoline,small car,3,21,29,24,5,No,373,BMW,840i xDrive Convertible
+BMW 840i xDrive Coupe,3,6,SemiAuto-8,4WD,Gasoline,small car,3,21,29,24,5,No,373,BMW,840i xDrive Coupe
+BMW 840i xDrive Gran Coupe,3,6,SemiAuto-8,4WD,Gasoline,midsize car,3,21,29,24,5,No,373,BMW,840i xDrive Gran Coupe
+BMW ALPINA B8 Gran Coupe,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,17,24,19,4,No,457,BMW,ALPINA B8 Gran Coupe
+BMW Alpina XB7,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,20,17,3,No,506,BMW,Alpina XB7
+BMW M2 Coupe,3,6,Man-6,2WD,Gasoline,small car,5,16,24,19,4,No,461,BMW,M2 Coupe
+BMW M2 Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,5,16,23,19,4,No,472,BMW,M2 Coupe
+BMW M235i xDrive Gran Coupe,2,4,SemiAuto-8,4WD,Gasoline,small car,3,24,33,27,5,No,324,BMW,M235i xDrive Gran Coupe
+BMW M240i Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,5,22,32,26,5,No,343,BMW,M240i Coupe
+BMW M240i Coupe,3,6,SemiAuto-8,4WD,Gasoline,small car,5,23,32,26,5,No,338,BMW,M240i Coupe
+BMW M3,3,6,Man-6,2WD,Gasoline,small car,5,16,23,19,4,No,472,BMW,M3
+BMW M3 Competition,3,6,SemiAuto-8,2WD,Gasoline,small car,5,16,23,19,4,No,470,BMW,M3 Competition
+BMW M3 Competition M,3,6,SemiAuto-8,4WD,Gasoline,small car,5,16,22,18,4,No,477,BMW,M3 Competition M
+BMW M340i,3,6,SemiAuto-8,2WD,Gasoline,small car,5,23,31,26,5,No,340,BMW,M340i
+BMW M340i,3,6,SemiAuto-8,4WD,Gasoline,small car,5,23,32,26,5,No,339,BMW,M340i
+BMW M4 Competition Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,5,16,23,19,4,No,470,BMW,M4 Competition Coupe
+BMW M4 Competition M,3,6,SemiAuto-8,4WD,Gasoline,small car,5,16,22,18,4,No,477,BMW,M4 Competition M
+BMW M4 Competition M Convertible,3,6,SemiAuto-8,4WD,Gasoline,small car,5,16,23,18,4,No,484,BMW,M4 Competition M Convertible
+BMW M4 Coupe,3,6,Man-6,2WD,Gasoline,small car,5,16,23,19,4,No,472,BMW,M4 Coupe
+BMW M4 CSL Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,5,16,23,18,4,No,485,BMW,M4 CSL Coupe
+BMW M440i,3,6,SemiAuto-8,2WD,Gasoline,small car,5,24,32,27,5,No,325,BMW,M440i
+BMW M440i,3,6,SemiAuto-8,4WD,Gasoline,small car,5,22,31,25,5,No,348,BMW,M440i
+BMW M440i Convertible,3,6,SemiAuto-8,2WD,Gasoline,small car,5,23,31,26,5,No,340,BMW,M440i Convertible
+BMW M440i Gran Coupe,3,6,SemiAuto-8,2WD,Gasoline,small car,5,24,32,27,5,No,325,BMW,M440i Gran Coupe
+BMW M440i Gran Coupe,3,6,SemiAuto-8,4WD,Gasoline,small car,5,22,31,25,5,No,348,BMW,M440i Gran Coupe
+BMW M440i xDrive Coupe,3,6,SemiAuto-8,4WD,Gasoline,small car,5,22,31,25,5,No,348,BMW,M440i xDrive Coupe
+BMW M5,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,15,21,17,3,No,522,BMW,M5
+BMW M5 Competition,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,15,21,17,3,No,522,BMW,M5 Competition
+BMW M550i,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,17,25,20,4,No,446,BMW,M550i
+BMW M8 Competition Convertible,4.4,8,SemiAuto-8,4WD,Gasoline,small car,3,15,22,17,3,No,517,BMW,M8 Competition Convertible
+BMW M8 Competition Coupe,4.4,8,SemiAuto-8,4WD,Gasoline,small car,3,15,22,17,3,No,517,BMW,M8 Competition Coupe
+BMW M8 Competition Gran Coupe,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,15,22,17,3,No,517,BMW,M8 Competition Gran Coupe
+BMW M850i xDrive,4.4,8,SemiAuto-8,4WD,Gasoline,small car,3,17,24,19,4,No,457,BMW,M850i xDrive
+BMW M850i xDrive Convertible,4.4,8,SemiAuto-8,4WD,Gasoline,small car,3,17,24,19,4,No,457,BMW,M850i xDrive Convertible
+BMW M850i xDrive Gran Coupe,4.4,8,SemiAuto-8,4WD,Gasoline,midsize car,3,17,24,19,4,No,457,BMW,M850i xDrive Gran Coupe
+BMW X1 xDrive28i,2,4,AMS-7,4WD,Gasoline,small SUV,8,25,34,28,6,No,313,BMW,X1 xDrive28i
+BMW X2 M35i,2,4,SemiAuto-8,4WD,Gasoline,midsize car,3,24,31,27,5,No,333,BMW,X2 M35i
+BMW X2 sDrive28i,2,4,SemiAuto-8,2WD,Gasoline,midsize car,7,24,32,27,5,No,329,BMW,X2 sDrive28i
+BMW X2 xDrive28i,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,24,31,27,5,No,333,BMW,X2 xDrive28i
+BMW X3 M,3,6,SemiAuto-8,4WD,Gasoline,small SUV,3,15,20,17,3,No,519,BMW,X3 M
+BMW X3 M Competition,3,6,SemiAuto-8,4WD,Gasoline,small SUV,3,15,20,17,3,No,519,BMW,X3 M Competition
+BMW X3 M40i,3,6,SemiAuto-8,4WD,Gasoline,small SUV,5,21,26,23,5,No,378,BMW,X3 M40i
+BMW X3 sDrive30i,2,4,SemiAuto-8,2WD,Gasoline,small SUV,7,23,29,25,5,No,352,BMW,X3 sDrive30i
+BMW X3 xDrive30i,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,369,BMW,X3 xDrive30i
+BMW X4 M,3,6,SemiAuto-8,4WD,Gasoline,small SUV,3,15,20,17,3,No,519,BMW,X4 M
+BMW X4 M Competition,3,6,SemiAuto-8,4WD,Gasoline,small SUV,3,15,20,17,3,No,519,BMW,X4 M Competition
+BMW X4 M40i,3,6,SemiAuto-8,4WD,Gasoline,small SUV,5,21,26,23,5,No,378,BMW,X4 M40i
+BMW X4 xDrive30i,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,369,BMW,X4 xDrive30i
+BMW X5 M,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No,586,BMW,X5 M
+BMW X5 M Competition,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No,586,BMW,X5 M Competition
+BMW X5 M50i,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,16,22,18,4,No,486,BMW,X5 M50i
+BMW X5 sDrive40i,3,6,SemiAuto-8,2WD,Gasoline,standard SUV,3,21,26,23,5,No,383,BMW,X5 sDrive40i
+BMW X5 xDrive40i,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,3,21,25,23,5,No,389,BMW,X5 xDrive40i
+BMW X5 xDrive45e,3,6,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,19/51,22/54,20/52,8,Yes,177,BMW,X5 xDrive45e
+BMW X6 M,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No,586,BMW,X6 M
+BMW X6 M Competition,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No,586,BMW,X6 M Competition
+BMW X6 M50i,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,16,22,18,4,No,486,BMW,X6 M50i
+BMW X6 xDrive40i,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,3,21,25,23,5,No,389,BMW,X6 xDrive40i
+BMW X7 M60i xDrive,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,21,18,4,No,481,BMW,X7 M60i xDrive
+BMW X7 xDrive40i,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,21,25,22,5,No,392,BMW,X7 xDrive40i
+BMW XM,4.4,8,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,12/46,17/46,14/46,7,Yes,244,BMW,XM
+BMW Z4,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,33,28,6,No,312,BMW,Z4
+BMW Z4 M40i,3,6,SemiAuto-8,2WD,Gasoline,small car,5,23,31,26,5,No,338,BMW,Z4 M40i
+BUGATTI Chiron Pur Sport,8,16,AMS-7,4WD,Gasoline,small car,1,8,11,9,1,No,979,BUGATTI,Chiron Pur Sport
+BUGATTI Chiron Super Sport,8,16,AMS-7,4WD,Gasoline,small car,1,8,11,9,1,No,979,BUGATTI,Chiron Super Sport
+BUICK Enclave,3.6,6,Auto-9,2WD,Gasoline,standard SUV,6,18,26,21,4,No,424,BUICK,Enclave
+BUICK Enclave,3.6,6,Auto-9,4WD,Gasoline,standard SUV,6,17,25,20,4,No,448,BUICK,Enclave
+BUICK Encore GX,1.2,3,CVT,2WD,Gasoline,small SUV,7,29,31,30,6,No,296,BUICK,Encore GX
+BUICK Encore GX,1.3,3,Auto-9,4WD,Gasoline,small SUV,7,26,29,27,5,No,324,BUICK,Encore GX
+BUICK Encore GX,1.3,3,CVT,2WD,Gasoline,small SUV,7,29,32,30,6,No,297,BUICK,Encore GX
+BUICK Envision,2,4,SemiAuto-9,2WD,Gasoline,small SUV,7,23,31,26,5,No,337,BUICK,Envision
+BUICK Envision,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,22,29,25,5,No,355,BUICK,Envision
+CADILLAC CT4,2,4,SemiAuto-8,2WD,Gasoline,small car,7,23,34,27,5,No,331,CADILLAC,CT4
+CADILLAC CT4,2,4,SemiAuto-8,4WD,Gasoline,small car,7,22,31,26,5,No,348,CADILLAC,CT4
+CADILLAC CT4,2.7,4,SemiAuto-10,2WD,Gasoline,small car,6,21,31,25,5,No,356,CADILLAC,CT4
+CADILLAC CT4,2.7,4,SemiAuto-10,4WD,Gasoline,small car,6,21,29,24,5,No,371,CADILLAC,CT4
+CADILLAC CT4 V,2.7,4,SemiAuto-10,2WD,Gasoline,small car,6,20,29,23,5,No,385,CADILLAC,CT4 V
+CADILLAC CT4 V,2.7,4,SemiAuto-10,4WD,Gasoline,small car,6,20,28,23,5,No,387,CADILLAC,CT4 V
+CADILLAC CT4 V,3.6,6,Man-6,2WD,Gasoline,small car,5,15,23,18,4,No,488,CADILLAC,CT4 V
+CADILLAC CT4 V,3.6,6,SemiAuto-10,2WD,Gasoline,small car,5,16,24,19,4,No,478,CADILLAC,CT4 V
+CADILLAC CT5,2,4,SemiAuto-10,2WD,Gasoline,midsize car,7,23,33,27,5,No,333,CADILLAC,CT5
+CADILLAC CT5,2,4,SemiAuto-10,4WD,Gasoline,midsize car,7,22,30,25,5,No,358,CADILLAC,CT5
+CADILLAC CT5,3,6,SemiAuto-10,2WD,Gasoline,midsize car,5,19,27,22,5,No,405,CADILLAC,CT5
+CADILLAC CT5,3,6,SemiAuto-10,4WD,Gasoline,midsize car,5,18,26,21,4,No,419,CADILLAC,CT5
+CADILLAC CT5 V,6.2,8,Man-6,2WD,Gasoline,midsize car,3,13,21,15,2,No,592,CADILLAC,CT5 V
+CADILLAC CT5 V,6.2,8,SemiAuto-10,2WD,Gasoline,midsize car,3,13,21,16,3,No,558,CADILLAC,CT5 V
+CADILLAC CT5 V,3,6,SemiAuto-10,2WD,Gasoline,midsize car,5,18,27,21,4,No,423,CADILLAC,CT5 V
+CADILLAC Escalade,3,6,Auto-10,2WD,Diesel,standard SUV,3,21,27,23,4,No,442,CADILLAC,Escalade
+CADILLAC Escalade,3,6,Auto-10,4WD,Diesel,standard SUV,3,20,26,22,4,No,462,CADILLAC,Escalade
+CADILLAC Escalade,6.2,8,Auto-10,2WD,Gasoline,standard SUV,6,14,19,16,3,No,556,CADILLAC,Escalade
+CADILLAC Escalade,6.2,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,564,CADILLAC,Escalade
+CADILLAC Escalade V,6.2,8,SemiAuto-10,4WD,Gasoline,standard SUV,3,11,16,13,1,No,702,CADILLAC,Escalade V
+CADILLAC XT4,2,4,SemiAuto-9,2WD,Gasoline,small SUV,7,23,30,26,5,No,341,CADILLAC,XT4
+CADILLAC XT4,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,22,29,24,5,No,370,CADILLAC,XT4
+CADILLAC XT5,2,4,SemiAuto-9,2WD,Gasoline,small SUV,7,22,29,24,5,No,370,CADILLAC,XT5
+CADILLAC XT5,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,21,27,23,5,No,386,CADILLAC,XT5
+CADILLAC XT5,3.6,6,SemiAuto-9,2WD,Gasoline,small SUV,6,19,26,21,4,No,419,CADILLAC,XT5
+CADILLAC XT5,3.6,6,SemiAuto-9,4WD,Gasoline,small SUV,6,18,25,21,4,No,426,CADILLAC,XT5
+CADILLAC XT6,2,4,SemiAuto-9,2WD,Gasoline,small SUV,7,21,27,23,5,No,386,CADILLAC,XT6
+CADILLAC XT6,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,21,26,23,5,No,386,CADILLAC,XT6
+CADILLAC XT6,3.6,6,SemiAuto-9,2WD,Gasoline,small SUV,6,19,26,21,4,No,419,CADILLAC,XT6
+CADILLAC XT6,3.6,6,SemiAuto-9,4WD,Gasoline,small SUV,6,18,25,21,4,No,433,CADILLAC,XT6
+CHEVROLET Blazer,2,4,Auto-9,2WD,Gasoline,small SUV,7,22,29,25,5,No,365,CHEVROLET,Blazer
+CHEVROLET Blazer,2,4,Auto-9,4WD,Gasoline,small SUV,7,22,27,24,5,No,368,CHEVROLET,Blazer
+CHEVROLET Blazer,3.6,6,Auto-9,2WD,Gasoline,small SUV,6,19,27,22,5,No,404,CHEVROLET,Blazer
+CHEVROLET Blazer,3.6,6,Auto-9,4WD,Gasoline,small SUV,6,19,26,21,4,No,417,CHEVROLET,Blazer
+CHEVROLET Camaro,6.2,8,Man-6,2WD,Gasoline,small car,1,14,20,16,3,No,559,CHEVROLET,Camaro
+CHEVROLET Camaro,6.2,8,Man-6,2WD,Gasoline,small car,1,16,24,19,4,No,477,CHEVROLET,Camaro
+CHEVROLET Camaro,6.2,8,SemiAuto-10,2WD,Gasoline,small car,1,13,21,16,3,No,571,CHEVROLET,Camaro
+CHEVROLET Camaro,6.2,8,SemiAuto-10,2WD,Gasoline,small car,1,16,26,20,4,No,453,CHEVROLET,Camaro
+CHEVROLET Camaro,3.6,6,Man-6,2WD,Gasoline,small car,6,16,26,20,4,No,453,CHEVROLET,Camaro
+CHEVROLET Camaro,3.6,6,SemiAuto-10,2WD,Gasoline,small car,6,18,29,22,5,No,407,CHEVROLET,Camaro
+CHEVROLET Camaro,2,4,Man-6,2WD,Gasoline,small car,5,19,28,22,5,No,401,CHEVROLET,Camaro
+CHEVROLET Camaro,2,4,SemiAuto-8,2WD,Gasoline,small car,5,22,30,25,5,No,360,CHEVROLET,Camaro
+CHEVROLET Corvette,6.2,8,SemiAuto-8,2WD,Gasoline,small car,5,16,24,19,4,No,475,CHEVROLET,Corvette
+CHEVROLET Corvette Z06,5.5,8,SemiAuto-8,2WD,Gasoline,small car,3,12,21,15,2,No,597,CHEVROLET,Corvette Z06
+CHEVROLET Corvette Z06 Carbon Aero,5.5,8,SemiAuto-8,2WD,Gasoline,small car,3,12,19,14,2,No,631,CHEVROLET,Corvette Z06 Carbon Aero
+CHEVROLET Equinox,1.5,4,Auto-6,2WD,Gasoline,small SUV,7,26,31,28,6,No,317,CHEVROLET,Equinox
+CHEVROLET Equinox,1.5,4,Auto-6,4WD,Gasoline,small SUV,7,24,30,26,5,No,340,CHEVROLET,Equinox
+CHEVROLET Malibu,1.5,4,CVT,2WD,Gasoline,midsize car,7,27,35,30,6,No,292,CHEVROLET,Malibu
+CHEVROLET Silverado,3,6,Auto-10,2WD,Diesel,pickup,5,24,29,26,5,No,396,CHEVROLET,Silverado
+CHEVROLET Silverado,3,6,Auto-10,4WD,Diesel,pickup,5,22,27,24,4,No,423,CHEVROLET,Silverado
+CHEVROLET Silverado,3,6,Auto-10,4WD,Diesel,pickup,5,22,27,24,4,No,425,CHEVROLET,Silverado
+CHEVROLET Silverado,2.7,4,Auto-8,2WD,Gasoline,pickup,7,19,21,20,4,No,453,CHEVROLET,Silverado
+CHEVROLET Silverado,2.7,4,Auto-8,2WD,Gasoline,pickup,7,19,22,20,4,No,446,CHEVROLET,Silverado
+CHEVROLET Silverado,2.7,4,Auto-8,4WD,Gasoline,pickup,7,18,21,19,4,No,459,CHEVROLET,Silverado
+CHEVROLET Silverado,2.7,4,Auto-8,4WD,Gasoline,pickup,7,18,21,19,4,No,462,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,2WD,Gasoline,pickup,6,16,20,18,4,No,500,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,2WD,Gasoline,pickup,6,17,21,19,4,No,478,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,2WD,Gasoline,special purpose,6,15,18,16,3,No,553,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,19,17,3,No,535,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,4WD,Gasoline,pickup,6,16,20,17,3,No,523,CHEVROLET,Silverado
+CHEVROLET Silverado,5.3,8,Auto-10,4WD,Gasoline,special purpose,6,15,17,16,3,No,564,CHEVROLET,Silverado
+CHEVROLET Silverado,6.2,8,Auto-10,4WD,Gasoline,pickup,6,16,20,17,3,No,513,CHEVROLET,Silverado
+CHEVROLET Silverado 4WD Mud Terrain Tire,3,6,Auto-10,4WD,Diesel,pickup,5,21,23,22,4,No,463,CHEVROLET,Silverado 4WD Mud Terrain Tire
+CHEVROLET Silverado 4WD Mud Terrain Tire,2.7,4,Auto-8,4WD,Gasoline,pickup,7,17,18,17,3,No,512,CHEVROLET,Silverado 4WD Mud Terrain Tire
+CHEVROLET Silverado 4WD Mud Terrain Tire,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,18,16,3,No,552,CHEVROLET,Silverado 4WD Mud Terrain Tire
+CHEVROLET Silverado 4WD Mud Terrain Tire,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,19,16,3,No,555,CHEVROLET,Silverado 4WD Mud Terrain Tire
+CHEVROLET Silverado 4WD Mud Terrain Tire,6.2,8,Auto-10,4WD,Gasoline,pickup,6,14,18,16,3,No,567,CHEVROLET,Silverado 4WD Mud Terrain Tire
+CHEVROLET Silverado ZR2,6.2,8,Auto-10,4WD,Gasoline,pickup,6,14,17,15,2,No,585,CHEVROLET,Silverado ZR2
+CHEVROLET Suburban,3,6,Auto-10,2WD,Diesel,standard SUV,3,21,27,23,4,No,442,CHEVROLET,Suburban
+CHEVROLET Suburban,3,6,Auto-10,4WD,Diesel,standard SUV,3,20,26,22,4,No,462,CHEVROLET,Suburban
+CHEVROLET Suburban,5.3,8,Auto-10,2WD,Gasoline,standard SUV,6,15,20,17,3,No,527,CHEVROLET,Suburban
+CHEVROLET Suburban,5.3,8,Auto-10,4WD,Gasoline,standard SUV,6,15,19,16,3,No,545,CHEVROLET,Suburban
+CHEVROLET Suburban,6.2,8,Auto-10,2WD,Gasoline,standard SUV,6,14,20,16,3,No,555,CHEVROLET,Suburban
+CHEVROLET Suburban,6.2,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,564,CHEVROLET,Suburban
+CHEVROLET Tahoe,3,6,Auto-10,2WD,Diesel,standard SUV,3,21,28,24,4,No,428,CHEVROLET,Tahoe
+CHEVROLET Tahoe,3,6,Auto-10,4WD,Diesel,standard SUV,3,20,26,22,4,No,462,CHEVROLET,Tahoe
+CHEVROLET Tahoe,5.3,8,Auto-10,2WD,Gasoline,standard SUV,6,15,20,17,3,No,527,CHEVROLET,Tahoe
+CHEVROLET Tahoe,5.3,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,566,CHEVROLET,Tahoe
+CHEVROLET Tahoe,5.3,8,Auto-10,4WD,Gasoline,standard SUV,6,15,20,17,3,No,527,CHEVROLET,Tahoe
+CHEVROLET Tahoe,6.2,8,Auto-10,2WD,Gasoline,standard SUV,6,14,20,16,3,No,555,CHEVROLET,Tahoe
+CHEVROLET Tahoe,6.2,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,564,CHEVROLET,Tahoe
+CHEVROLET Trailblazer,1.2,3,CVT,2WD,Gasoline,small SUV,7,29,31,30,6,No,296,CHEVROLET,Trailblazer
+CHEVROLET Trailblazer,1.3,3,Auto-9,4WD,Gasoline,small SUV,7,26,30,28,6,No,320,CHEVROLET,Trailblazer
+CHEVROLET Trailblazer,1.3,3,CVT,2WD,Gasoline,small SUV,7,29,33,31,6,No,290,CHEVROLET,Trailblazer
+CHEVROLET Traverse,3.6,6,Auto-9,2WD,Gasoline,standard SUV,6,18,27,21,4,No,417,CHEVROLET,Traverse
+CHEVROLET Traverse,3.6,6,Auto-9,4WD,Gasoline,standard SUV,6,17,25,20,4,No,448,CHEVROLET,Traverse
+CHRYSLER 300,6.4,8,Auto-8,2WD,Gasoline,large car,1,15,24,18,4,No,495,CHRYSLER,300
+CHRYSLER 300,5.7,8,Auto-8,2WD,Gasoline,large car,3,16,25,19,4,No,466,CHRYSLER,300
+CHRYSLER 300,3.6,6,Auto-8,2WD,Gasoline,large car,5,19,30,23,5,No,389,CHRYSLER,300
+CHRYSLER 300,3.6,6,Auto-8,4WD,Gasoline,large car,5,18,27,21,4,No,415,CHRYSLER,300
+CHRYSLER Pacifica,3.6,6,Auto-9,2WD,Gasoline,minivan,7,19,28,22,5,No,401,CHRYSLER,Pacifica
+CHRYSLER Pacifica,3.6,6,Auto-9,4WD,Gasoline,minivan,7,17,25,20,4,No,450,CHRYSLER,Pacifica
+CHRYSLER Pacifica Hybrid,3.6,6,CVT,2WD,Gasoline/Electricity,minivan,7,29/87,30/77,30/82,10,Yes,119,CHRYSLER,Pacifica Hybrid
+CHRYSLER Voyager,3.6,6,Auto-9,2WD,Gasoline,minivan,7,19,28,22,5,No,401,CHRYSLER,Voyager
+DODGE Challenger,5.7,8,Man-6,2WD,Gasoline,midsize car,1,15,23,18,4,No,494,DODGE,Challenger
+DODGE Challenger,6.4,8,Auto-8,2WD,Gasoline,midsize car,1,15,24,18,4,No,495,DODGE,Challenger
+DODGE Challenger,6.4,8,Man-6,2WD,Gasoline,midsize car,1,14,23,17,3,No,523,DODGE,Challenger
+DODGE Challenger,5.7,8,Auto-8,2WD,Gasoline,midsize car,3,16,25,19,4,No,466,DODGE,Challenger
+DODGE Challenger,3.6,6,Auto-8,2WD,Gasoline,midsize car,5,19,30,23,5,No,389,DODGE,Challenger
+DODGE Challenger,3.6,6,Auto-8,4WD,Gasoline,midsize car,5,18,27,21,4,No,415,DODGE,Challenger
+DODGE Challenger SRT,6.2,8,Auto-8,2WD,Gasoline,midsize car,1,13,22,16,3,No,546,DODGE,Challenger SRT
+DODGE Challenger SRT Widebody,6.2,8,Auto-8,2WD,Gasoline,midsize car,1,13,21,15,2,No,572,DODGE,Challenger SRT Widebody
+DODGE Challenger Widebody,6.4,8,Auto-8,2WD,Gasoline,midsize car,1,15,24,18,4,No,495,DODGE,Challenger Widebody
+DODGE Challenger Widebody,6.4,8,Man-6,2WD,Gasoline,midsize car,1,14,23,17,3,No,523,DODGE,Challenger Widebody
+DODGE Charger,6.4,8,Auto-8,2WD,Gasoline,large car,1,15,24,18,4,No,495,DODGE,Charger
+DODGE Charger,5.7,8,Auto-8,2WD,Gasoline,large car,3,16,25,19,4,No,466,DODGE,Charger
+DODGE Charger,3.6,6,Auto-8,2WD,Gasoline,large car,5,19,30,23,5,No,389,DODGE,Charger
+DODGE Charger,3.6,6,Auto-8,4WD,Gasoline,large car,5,18,27,21,4,No,415,DODGE,Charger
+DODGE Charger SRT Widebody,6.2,8,Auto-8,2WD,Gasoline,large car,1,12,21,15,2,No,592,DODGE,Charger SRT Widebody
+DODGE Charger Widebody,6.4,8,Auto-8,2WD,Gasoline,large car,1,15,24,18,4,No,495,DODGE,Charger Widebody
+DODGE Durango,3.6,6,Auto-8,2WD,Gasoline,standard SUV,7,19,26,21,4,No,416,DODGE,Durango
+DODGE Durango,3.6,6,Auto-8,4WD,Gasoline,standard SUV,7,18,25,21,4,No,430,DODGE,Durango
+DODGE Durango,5.7,8,Auto-8,2WD,Gasoline,standard SUV,5,14,22,17,3,No,525,DODGE,Durango
+DODGE Durango,5.7,8,Auto-8,4WD,Gasoline,standard SUV,5,14,22,17,3,No,533,DODGE,Durango
+DODGE Durango  SRT,6.2,8,Auto-8,4WD,Gasoline,standard SUV,1,12,17,13,1,No,659,DODGE,Durango  SRT
+DODGE Durango  SRT,6.4,8,Auto-8,4WD,Gasoline,standard SUV,1,13,19,15,2,No,584,DODGE,Durango  SRT
+DODGE Hornet,2,4,Auto-9,4WD,Gasoline,small SUV,7,21,29,24,5,No,371,DODGE,Hornet
+FERRARI 296 GTB,2.9,6,AMS-8,2WD,Gasoline/Electricity,small car,6,16/45,22/49,18/47,5,No,398,FERRARI,296 GTB
+FERRARI 296 GTB Spider,2.9,6,AMS-8,2WD,Gasoline/Electricity,small car,6,15/48,21/48,18/48,5,No,404,FERRARI,296 GTB Spider
+FERRARI 812 Competizione,6.5,12,AutoMan-7,2WD,Gasoline,small car,3,12,16,14,2,No,652,FERRARI,812 Competizione
+FERRARI 812 Competizione A,6.5,12,AutoMan-7,2WD,Gasoline,small car,3,12,16,14,2,No,648,FERRARI,812 Competizione A
+FERRARI 812 GTS,6.5,12,AutoMan-7,2WD,Gasoline,small car,3,12,15,13,1,No,665,FERRARI,812 GTS
+FERRARI Daytona SP3,6.5,12,AutoMan-7,2WD,Gasoline,small car,3,12,16,13,1,No,660,FERRARI,Daytona SP3
+FERRARI F8 Spider,3.9,8,AutoMan-7,2WD,Gasoline,small car,3,15,18,16,3,No,552,FERRARI,F8 Spider
+FERRARI F8 Tributo,3.9,8,AutoMan-7,2WD,Gasoline,small car,3,15,19,16,3,No,541,FERRARI,F8 Tributo
+FERRARI Portofino M,3.9,8,AutoMan-8,2WD,Gasoline,small car,6,16,23,19,4,No,471,FERRARI,Portofino M
+FERRARI Roma,3.9,8,AutoMan-8,2WD,Gasoline,small car,6,17,22,19,4,No,472,FERRARI,Roma
+FERRARI SF90 Spider,3.9,8,AutoMan-8,4WD,Gasoline/Electricity,small car,3,16/42,19/46,17/44,5,No,413,FERRARI,SF90 Spider
+FERRARI SF90 Stradale,3.9,8,AutoMan-8,4WD,Gasoline/Electricity,small car,3,16/51,20/51,18/51,5,No,403,FERRARI,SF90 Stradale
+FIAT 500X,1.3,4,Auto-9,4WD,Gasoline,small SUV,6,24,30,26,5,No,356,FIAT,500X
+FORD Bronco,2.7,6,SemiAuto-10,4WD,Gasoline,small SUV,6,19,21,20,4,No,454,FORD,Bronco
+FORD Bronco,2.3,4,Man-7,4WD,Gasoline,small SUV,5,20,21,20,4,No,440,FORD,Bronco
+FORD Bronco,2.3,4,SemiAuto-10,4WD,Gasoline,small SUV,5,20,21,20,4,No,439,FORD,Bronco
+FORD Bronco Badlands,2.7,6,SemiAuto-10,4WD,Gasoline,small SUV,6,17,17,17,3,No,530,FORD,Bronco Badlands
+FORD Bronco Badlands,2.3,4,Man-7,4WD,Gasoline,small SUV,5,16,17,17,3,No,523,FORD,Bronco Badlands
+FORD Bronco Badlands,2.3,4,SemiAuto-10,4WD,Gasoline,small SUV,5,17,17,17,3,No,523,FORD,Bronco Badlands
+FORD Bronco Black Diamond,2.7,6,SemiAuto-10,4WD,Gasoline,small SUV,6,18,18,18,4,No,494,FORD,Bronco Black Diamond
+FORD Bronco Black Diamond,2.3,4,Man-7,4WD,Gasoline,small SUV,5,16,18,17,3,No,523,FORD,Bronco Black Diamond
+FORD Bronco Black Diamond,2.3,4,SemiAuto-10,4WD,Gasoline,small SUV,5,18,18,18,4,No,494,FORD,Bronco Black Diamond
+FORD Bronco Raptor,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,15,16,15,2,No,577,FORD,Bronco Raptor
+FORD Bronco Sasquatch,2.7,6,SemiAuto-10,4WD,Gasoline,small SUV,6,17,17,17,3,No,531,FORD,Bronco Sasquatch
+FORD Bronco Sasquatch,2.3,4,Man-7,4WD,Gasoline,small SUV,5,16,18,17,3,No,523,FORD,Bronco Sasquatch
+FORD Bronco Sasquatch,2.3,4,SemiAuto-10,4WD,Gasoline,small SUV,5,18,17,18,4,No,494,FORD,Bronco Sasquatch
+FORD Bronco Sport,1.5,3,Auto-8,4WD,Gasoline,small SUV,7,25,28,26,5,No,342,FORD,Bronco Sport
+FORD Bronco Sport,2,4,SemiAuto-8,4WD,Gasoline,small SUV,6,21,26,23,5,No,387,FORD,Bronco Sport
+FORD Edge,2,4,Auto-8,4WD,Gasoline,small SUV,6,21,28,23,5,No,380,FORD,Edge
+FORD Edge,2.7,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,25,21,4,No,421,FORD,Edge
+FORD Escape,1.5,3,Auto-8,2WD,Gasoline,small SUV,7,27,34,30,6,No,299,FORD,Escape
+FORD Escape,1.5,3,Auto-8,4WD,Gasoline,small SUV,7,26,32,28,6,No,317,FORD,Escape
+FORD Escape,2,4,Auto-8,4WD,Gasoline,small SUV,7,23,31,26,5,No,340,FORD,Escape
+FORD Escape HEV,2.5,4,CVT,2WD,Gasoline,small SUV,8,42,36,39,7,Yes,225,FORD,Escape HEV
+FORD Escape HEV,2.5,4,CVT,4WD,Gasoline,small SUV,8,42,36,39,7,Yes,225,FORD,Escape HEV
+FORD Escape PHEV,2.5,4,CVT,2WD,Gasoline/Electricity,small SUV,8,42/111,37/91,40/101,10,Yes,52,FORD,Escape PHEV
+FORD Expedition,3.5,6,SemiAuto-10,2WD,Gasoline,standard SUV,6,16,23,19,4,No,468,FORD,Expedition
+FORD Expedition,3.5,6,SemiAuto-10,2WD,Gasoline,standard SUV,6,17,23,19,4,No,462,FORD,Expedition
+FORD Expedition,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,16,21,18,4,No,494,FORD,Expedition
+FORD Expedition,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,16,22,18,4,No,484,FORD,Expedition
+FORD Expedition Timberline,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,15,19,17,3,No,523,FORD,Expedition Timberline
+FORD Expedition Timberline,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,16,19,17,3,No,523,FORD,Expedition Timberline
+FORD Explorer,2.3,4,Auto-10,2WD,Gasoline,standard SUV,6,20,28,23,5,No,385,FORD,Explorer
+FORD Explorer,2.3,4,Auto-10,2WD,Gasoline,standard SUV,6,21,28,24,5,No,370,FORD,Explorer
+FORD Explorer,2.3,4,Auto-10,4WD,Gasoline,standard SUV,6,20,26,22,5,No,404,FORD,Explorer
+FORD Explorer,2.3,4,Auto-10,4WD,Gasoline,standard SUV,6,20,27,23,5,No,387,FORD,Explorer
+FORD Explorer,3,6,Auto-10,2WD,Gasoline,standard SUV,5,18,26,21,4,No,428,FORD,Explorer
+FORD Explorer,3,6,Auto-10,4WD,Gasoline,standard SUV,5,17,24,20,4,No,451,FORD,Explorer
+FORD Explorer,3,6,Auto-10,4WD,Gasoline,standard SUV,5,18,24,20,4,No,444,FORD,Explorer
+FORD Explorer,3,6,SemiAuto-10,2WD,Gasoline,standard SUV,5,18,25,20,4,No,438,FORD,Explorer
+FORD Explorer,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,17,24,20,4,No,454,FORD,Explorer
+FORD Explorer,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,18,24,20,4,No,445,FORD,Explorer
+FORD Explorer HEV,3.3,6,Auto-10,2WD,Gasoline,standard SUV,6,27,28,27,5,No,324,FORD,Explorer HEV
+FORD Explorer HEV,3.3,6,Auto-10,4WD,Gasoline,standard SUV,6,23,26,25,5,No,361,FORD,Explorer HEV
+FORD Explorer Platinum HEV,3.3,6,Auto-10,2WD,Gasoline,standard SUV,6,25,26,26,5,No,342,FORD,Explorer Platinum HEV
+FORD Explorer Platinum HEV,3.3,6,Auto-10,4WD,Gasoline,standard SUV,6,23,24,23,5,No,379,FORD,Explorer Platinum HEV
+FORD Explorer Timberline,2.3,4,SemiAuto-10,4WD,Gasoline,standard SUV,6,19,21,20,4,No,445,FORD,Explorer Timberline
+FORD Explorer Timberline,2.3,4,SemiAuto-10,4WD,Gasoline,standard SUV,6,19,22,21,4,No,433,FORD,Explorer Timberline
+FORD F150,2.7,6,SemiAuto-10,2WD,Gasoline,pickup,6,18,25,21,4,No,431,FORD,F150
+FORD F150,2.7,6,SemiAuto-10,2WD,Gasoline,pickup,6,20,26,22,5,No,405,FORD,F150
+FORD F150,2.7,6,SemiAuto-10,4WD,Gasoline,pickup,6,17,23,20,4,No,451,FORD,F150
+FORD F150,2.7,6,SemiAuto-10,4WD,Gasoline,pickup,6,18,24,20,4,No,435,FORD,F150
+FORD F150,3.5,6,SemiAuto-10,2WD,Gasoline,pickup,6,18,24,21,4,No,432,FORD,F150
+FORD F150,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,17,23,19,4,No,470,FORD,F150
+FORD F150,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,18,23,20,4,No,451,FORD,F150
+FORD F150 HEV,3.5,6,SemiAuto-10,2WD,Gasoline,pickup,6,25,25,25,5,No,352,FORD,F150 HEV
+FORD F150 HEV,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,23,23,23,5,No,381,FORD,F150 HEV
+FORD F150 Raptor,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,14,18,15,2,No,593,FORD,F150 Raptor
+FORD F150 Raptor,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,15,18,16,3,No,553,FORD,F150 Raptor
+FORD F150 Raptor 37,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,14,16,15,2,No,596,FORD,F150 Raptor 37
+FORD F150 Raptor 37,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,15,16,15,2,No,578,FORD,F150 Raptor 37
+FORD F150 Raptor R,5.2,8,SemiAuto-10,4WD,Gasoline,pickup,3,10,15,12,1,No,741,FORD,F150 Raptor R
+FORD F150 Tremor,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,16,20,18,4,No,497,FORD,F150 Tremor
+FORD F150 Tremor,3.5,6,SemiAuto-10,4WD,Gasoline,pickup,6,16,20,18,4,No,501,FORD,F150 Tremor
+FORD Maverick,2,4,Auto-8,2WD,Gasoline,pickup,6,23,30,25,5,No,355,FORD,Maverick
+FORD Maverick,2,4,Auto-8,4WD,Gasoline,pickup,6,22,28,24,5,No,370,FORD,Maverick
+FORD Maverick HEV,2.5,4,CVT,2WD,Gasoline,pickup,7,40,33,37,7,Yes,240,FORD,Maverick HEV
+FORD Maverick Tremor,2,4,Auto-8,4WD,Gasoline,pickup,6,20,24,21,4,No,414,FORD,Maverick Tremor
+FORD Mustang,5,8,Man-6,2WD,Gasoline,small car,3,15,24,18,4,No,498,FORD,Mustang
+FORD Mustang,5,8,SemiAuto-10,2WD,Gasoline,small car,3,15,24,19,4,No,480,FORD,Mustang
+FORD Mustang,2.3,4,Auto-10,2WD,Gasoline,small car,5,22,32,25,5,No,350,FORD,Mustang
+FORD Mustang,2.3,4,Man-6,2WD,Gasoline,small car,5,21,29,24,5,No,371,FORD,Mustang
+FORD Mustang,2.3,4,SemiAuto-10,2WD,Gasoline,small car,5,21,31,24,5,No,363,FORD,Mustang
+FORD Mustang Convertible,5,8,SemiAuto-10,2WD,Gasoline,small car,3,15,23,18,4,No,497,FORD,Mustang Convertible
+FORD Mustang Convertible,2.3,4,Auto-10,2WD,Gasoline,small car,5,20,28,23,5,No,386,FORD,Mustang Convertible
+FORD Mustang Convertible,2.3,4,Man-6,2WD,Gasoline,small car,5,20,27,23,5,No,387,FORD,Mustang Convertible
+FORD Mustang Convertible,2.3,4,SemiAuto-10,2WD,Gasoline,small car,5,20,28,23,5,No,389,FORD,Mustang Convertible
+FORD Mustang HO Convertible,2.3,4,Man-6,2WD,Gasoline,small car,5,19,25,21,4,No,423,FORD,Mustang HO Convertible
+FORD Mustang HO Convertible,2.3,4,SemiAuto-10,2WD,Gasoline,small car,5,19,26,22,5,No,404,FORD,Mustang HO Convertible
+FORD Mustang HO Coupe,2.3,4,Man-6,2WD,Gasoline,small car,5,20,27,22,5,No,396,FORD,Mustang HO Coupe
+FORD Mustang HO Coupe,2.3,4,SemiAuto-10,2WD,Gasoline,small car,5,20,27,23,5,No,387,FORD,Mustang HO Coupe
+FORD Mustang Mach 1,5,8,Man-6,2WD,Gasoline,small car,3,14,22,17,3,No,523,FORD,Mustang Mach 1
+FORD Mustang Mach 1,5,8,SemiAuto-10,2WD,Gasoline,small car,3,15,23,18,4,No,493,FORD,Mustang Mach 1
+FORD Ranger,2.3,4,SemiAuto-10,2WD,Gasoline,pickup,6,20,26,22,5,No,397,FORD,Ranger
+FORD Ranger,2.3,4,SemiAuto-10,2WD,Gasoline,pickup,6,21,26,23,5,No,387,FORD,Ranger
+FORD Ranger,2.3,4,SemiAuto-10,4WD,Gasoline,pickup,6,19,24,21,4,No,420,FORD,Ranger
+FORD Ranger,2.3,4,SemiAuto-10,4WD,Gasoline,pickup,6,20,24,22,5,No,410,FORD,Ranger
+FORD Ranger Tremor,2.3,4,SemiAuto-10,4WD,Gasoline,pickup,3,19,19,19,4,No,471,FORD,Ranger Tremor
+FORD Transit Connect,2,4,SemiAuto-8,2WD,Gasoline,special purpose,6,24,26,25,5,No,355,FORD,Transit Connect
+FORD Transit Connect,2,4,SemiAuto-8,2WD,Gasoline,special purpose,6,24,28,26,5,No,348,FORD,Transit Connect
+GENESIS G70,2,4,SemiAuto-8,2WD,Gasoline,small car,3,21,31,25,5,No,361,GENESIS,G70
+GENESIS G70,2,4,SemiAuto-8,4WD,Gasoline,small car,3,20,28,23,5,No,393,GENESIS,G70
+GENESIS G70,3.3,6,SemiAuto-8,2WD,Gasoline,small car,3,18,27,21,4,No,433,GENESIS,G70
+GENESIS G70,3.3,6,SemiAuto-8,4WD,Gasoline,small car,3,17,26,20,4,No,439,GENESIS,G70
+GENESIS G80,2.5,4,SemiAuto-8,2WD,Gasoline,large car,5,22,32,26,5,No,346,GENESIS,G80
+GENESIS G80,2.5,4,SemiAuto-8,4WD,Gasoline,large car,5,22,30,25,5,No,361,GENESIS,G80
+GENESIS G80,3.5,6,SemiAuto-8,4WD,Gasoline,large car,5,16,25,19,4,No,465,GENESIS,G80
+GENESIS G90,3.5,6,SemiAuto-8,4WD,Gasoline,large car,5,18,26,21,4,No,426,GENESIS,G90
+GENESIS G90 MHEV,3.5,6,SemiAuto-8,4WD,Gasoline,large car,5,17,24,20,4,No,441,GENESIS,G90 MHEV
+GENESIS GV70,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,5,19,26,22,5,No,408,GENESIS,GV70
+GENESIS GV70,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,5,22,28,24,5,No,368,GENESIS,GV70
+GENESIS GV70,3.5,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,24,21,4,No,431,GENESIS,GV70
+GENESIS GV80,2.5,4,SemiAuto-8,4WD,Gasoline,standard SUV,5,20,24,22,5,No,404,GENESIS,GV80
+GENESIS GV80,3.5,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,18,23,20,4,No,448,GENESIS,GV80
+GMC Acadia,2,4,Auto-9,2WD,Gasoline,standard SUV,7,22,29,25,5,No,365,GMC,Acadia
+GMC Acadia,2,4,Auto-9,4WD,Gasoline,standard SUV,7,22,27,24,5,No,368,GMC,Acadia
+GMC Acadia,3.6,6,Auto-9,2WD,Gasoline,standard SUV,6,19,27,22,5,No,404,GMC,Acadia
+GMC Acadia,3.6,6,Auto-9,4WD,Gasoline,standard SUV,6,19,26,21,4,No,417,GMC,Acadia
+GMC Sierra,3,6,Auto-10,2WD,Diesel,pickup,5,24,29,26,5,No,396,GMC,Sierra
+GMC Sierra,3,6,Auto-10,4WD,Diesel,pickup,5,22,27,24,4,No,423,GMC,Sierra
+GMC Sierra,2.7,4,Auto-8,2WD,Gasoline,pickup,7,19,21,20,4,No,453,GMC,Sierra
+GMC Sierra,2.7,4,Auto-8,2WD,Gasoline,pickup,7,19,22,20,4,No,446,GMC,Sierra
+GMC Sierra,2.7,4,Auto-8,4WD,Gasoline,pickup,7,18,20,19,4,No,467,GMC,Sierra
+GMC Sierra,2.7,4,Auto-8,4WD,Gasoline,pickup,7,18,20,19,4,No,468,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,2WD,Gasoline,pickup,6,16,20,18,4,No,500,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,2WD,Gasoline,pickup,6,16,21,18,4,No,493,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,2WD,Gasoline,special purpose,6,15,18,16,3,No,553,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,19,17,3,No,535,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,4WD,Gasoline,pickup,6,16,20,17,3,No,523,GMC,Sierra
+GMC Sierra,5.3,8,Auto-10,4WD,Gasoline,special purpose,6,15,17,16,3,No,564,GMC,Sierra
+GMC Sierra,6.2,8,Auto-10,4WD,Gasoline,pickup,6,15,19,17,3,No,530,GMC,Sierra
+GMC Sierra 4WD Mud Terrain Tires,3,6,Auto-10,4WD,Diesel,pickup,5,21,23,22,4,No,463,GMC,Sierra 4WD Mud Terrain Tires
+GMC Sierra 4WD Mud Terrain Tires,2.7,4,Auto-8,4WD,Gasoline,pickup,7,17,18,17,3,No,512,GMC,Sierra 4WD Mud Terrain Tires
+GMC Sierra 4WD Mud Terrain Tires,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,18,16,3,No,554,GMC,Sierra 4WD Mud Terrain Tires
+GMC Sierra 4WD Mud Terrain Tires,5.3,8,Auto-10,4WD,Gasoline,pickup,6,15,19,16,3,No,555,GMC,Sierra 4WD Mud Terrain Tires
+GMC Sierra 4WD Mud Terrain Tires,6.2,8,Auto-10,4WD,Gasoline,pickup,6,14,17,15,2,No,585,GMC,Sierra 4WD Mud Terrain Tires
+GMC Sierra AT4X,6.2,8,Auto-10,4WD,Gasoline,pickup,6,14,17,15,2,No,585,GMC,Sierra AT4X
+GMC Terrain,1.5,4,Auto-9,2WD,Gasoline,small SUV,7,24,29,26,5,No,338,GMC,Terrain
+GMC Terrain,1.5,4,Auto-9,4WD,Gasoline,small SUV,7,24,28,26,5,No,347,GMC,Terrain
+GMC Yukon,3,6,Auto-10,2WD,Diesel,standard SUV,3,21,27,23,4,No,442,GMC,Yukon
+GMC Yukon,3,6,Auto-10,4WD,Diesel,standard SUV,3,20,26,22,4,No,462,GMC,Yukon
+GMC Yukon,5.3,8,Auto-10,2WD,Gasoline,standard SUV,6,15,20,17,3,No,527,GMC,Yukon
+GMC Yukon,5.3,8,Auto-10,4WD,Gasoline,standard SUV,6,15,20,17,3,No,527,GMC,Yukon
+GMC Yukon,6.2,8,Auto-10,2WD,Gasoline,standard SUV,6,14,20,16,3,No,555,GMC,Yukon
+GMC Yukon,6.2,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,564,GMC,Yukon
+GMC Yukon XL,3,6,Auto-10,2WD,Diesel,standard SUV,3,21,27,23,4,No,442,GMC,Yukon XL
+GMC Yukon XL,3,6,Auto-10,4WD,Diesel,standard SUV,3,20,26,22,4,No,462,GMC,Yukon XL
+GMC Yukon XL,5.3,8,Auto-10,2WD,Gasoline,standard SUV,6,15,20,17,3,No,527,GMC,Yukon XL
+GMC Yukon XL,5.3,8,Auto-10,4WD,Gasoline,standard SUV,6,15,19,16,3,No,545,GMC,Yukon XL
+GMC Yukon XL,6.2,8,Auto-10,2WD,Gasoline,standard SUV,6,14,19,16,3,No,555,GMC,Yukon XL
+GMC Yukon XL,6.2,8,Auto-10,4WD,Gasoline,standard SUV,6,14,18,16,3,No,564,GMC,Yukon XL
+HONDA Accord,1.5,4,CVT,2WD,Gasoline,large car,7,29,37,32,6,No,277,HONDA,Accord
+HONDA Accord,2,4,CVT,2WD,Gasoline,large car,7,51,44,48,8,Yes,184,HONDA,Accord
+HONDA Accord Sport/Touring,2,4,CVT,2WD,Gasoline,midsize car,7,46,41,44,8,Yes,201,HONDA,Accord Sport/Touring
+HONDA Civic 4Dr,1.5,4,CVT,2WD,Gasoline,midsize car,7,33,42,36,7,Yes,243,HONDA,Civic 4Dr
+HONDA Civic 4Dr,1.5,4,SCV-7,2WD,Gasoline,midsize car,7,31,38,34,7,Yes,260,HONDA,Civic 4Dr
+HONDA Civic 4Dr,2,4,CVT,2WD,Gasoline,midsize car,7,31,40,35,7,Yes,254,HONDA,Civic 4Dr
+HONDA Civic 4Dr,2,4,SCV-7,2WD,Gasoline,midsize car,7,30,37,33,6,No,266,HONDA,Civic 4Dr
+HONDA Civic 4Dr,1.5,4,Man-6,2WD,Gasoline,midsize car,6,27,37,31,6,No,285,HONDA,Civic 4Dr
+HONDA Civic 5Dr,1.5,4,CVT,2WD,Gasoline,large car,7,31,39,35,7,Yes,258,HONDA,Civic 5Dr
+HONDA Civic 5Dr,1.5,4,SCV-7,2WD,Gasoline,large car,7,30,37,33,6,No,267,HONDA,Civic 5Dr
+HONDA Civic 5Dr,2,4,CVT,2WD,Gasoline,large car,7,30,38,33,6,No,269,HONDA,Civic 5Dr
+HONDA Civic 5Dr,2,4,SCV-7,2WD,Gasoline,large car,7,29,37,32,6,No,277,HONDA,Civic 5Dr
+HONDA Civic 5Dr,1.5,4,Man-6,2WD,Gasoline,large car,6,28,37,31,6,No,282,HONDA,Civic 5Dr
+HONDA Civic 5Dr,2,4,Man-6,2WD,Gasoline,large car,6,26,36,29,6,No,304,HONDA,Civic 5Dr
+HONDA Civic 5Dr,2,4,Man-6,2WD,Gasoline,large car,6,22,28,24,5,No,364,HONDA,Civic 5Dr
+HONDA CR-V,1.5,4,CVT,2WD,Gasoline,small SUV,7,28,34,30,6,No,290,HONDA,CR-V
+HONDA CR-V,2,4,CVT,2WD,Gasoline,small SUV,7,43,36,40,7,Yes,223,HONDA,CR-V
+HONDA CR-V,2,4,CVT,4WD,Gasoline,small SUV,7,40,34,37,7,Yes,237,HONDA,CR-V
+HONDA CR-V,1.5,4,CVT,4WD,Gasoline,small SUV,6,27,32,29,6,No,305,HONDA,CR-V
+HONDA HR-V,2,4,CVT,2WD,Gasoline,station wagon,7,26,32,28,6,No,309,HONDA,HR-V
+HONDA HR-V,2,4,CVT,4WD,Gasoline,station wagon,7,25,30,27,5,No,326,HONDA,HR-V
+HONDA Odyssey,3.5,6,SemiAuto-10,2WD,Gasoline,minivan,5,19,28,22,5,No,394,HONDA,Odyssey
+HONDA Passport,3.5,6,SemiAuto-9,4WD,Gasoline,small SUV,3,19,24,21,4,No,416,HONDA,Passport
+HONDA Pilot,3.5,6,SemiAuto-10,2WD,Gasoline,small SUV,7,19,27,22,5,No,402,HONDA,Pilot
+HONDA Pilot,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,7,19,25,21,4,No,415,HONDA,Pilot
+HONDA Pilot AWD Touring/Elite/Black,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,7,19,25,21,4,No,422,HONDA,Pilot AWD Touring/Elite/Black
+HONDA Pilot AWD TrailSport,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,7,18,23,20,4,No,442,HONDA,Pilot AWD TrailSport
+HONDA Ridgeline,3.5,6,SemiAuto-9,4WD,Gasoline,pickup,3,18,24,21,4,No,441,HONDA,Ridgeline
+HYUNDAI Elantra,2,4,SCV-1,2WD,Gasoline,midsize car,7,30,40,34,7,Yes,263,HYUNDAI,Elantra
+HYUNDAI Elantra,2,4,SCV-1,2WD,Gasoline,midsize car,7,33,42,37,7,Yes,245,HYUNDAI,Elantra
+HYUNDAI Elantra,1.6,4,AMS-7,2WD,Gasoline,midsize car,5,28,36,31,6,No,288,HYUNDAI,Elantra
+HYUNDAI Elantra,2,4,SCV-1,2WD,Gasoline,midsize car,5,30,40,34,7,No,263,HYUNDAI,Elantra
+HYUNDAI Elantra,2,4,SCV-1,2WD,Gasoline,midsize car,5,33,42,37,7,No,245,HYUNDAI,Elantra
+HYUNDAI Elantra Hybrid,1.6,4,AMS-6,2WD,Gasoline,midsize car,7,49,52,50,8,Yes,177,HYUNDAI,Elantra Hybrid
+HYUNDAI Elantra Hybrid Blue,1.6,4,AMS-6,2WD,Gasoline,midsize car,7,53,56,54,9,Yes,165,HYUNDAI,Elantra Hybrid Blue
+HYUNDAI Elantra N,2,4,AMS-8,2WD,Gasoline,midsize car,3,20,30,23,5,No,388,HYUNDAI,Elantra N
+HYUNDAI Elantra N,2,4,Man-6,2WD,Gasoline,midsize car,3,22,31,25,5,No,358,HYUNDAI,Elantra N
+HYUNDAI Kona,2,4,SCV-1,2WD,Gasoline,small SUV,7,30,35,32,6,No,281,HYUNDAI,Kona
+HYUNDAI Kona,2,4,SCV-1,4WD,Gasoline,small SUV,7,28,33,30,6,No,301,HYUNDAI,Kona
+HYUNDAI Kona,1.6,4,AMS-7,2WD,Gasoline,small SUV,5,29,35,32,6,No,284,HYUNDAI,Kona
+HYUNDAI Kona,1.6,4,AMS-7,4WD,Gasoline,small SUV,5,27,32,29,6,No,311,HYUNDAI,Kona
+HYUNDAI Kona N,2,4,AMS-8,2WD,Gasoline,small SUV,3,20,27,23,5,No,396,HYUNDAI,Kona N
+HYUNDAI Palisade,3.8,6,SemiAuto-8,2WD,Gasoline,small SUV,5,19,27,22,5,No,406,HYUNDAI,Palisade
+HYUNDAI Palisade,3.8,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,25,21,4,No,422,HYUNDAI,Palisade
+HYUNDAI Santa Cruz,2.5,4,AMS-8,4WD,Gasoline,small SUV,5,19,27,22,5,No,402,HYUNDAI,Santa Cruz
+HYUNDAI Santa Cruz,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,5,22,26,23,5,No,381,HYUNDAI,Santa Cruz
+HYUNDAI Santa Cruz,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,5,21,25,23,5,No,390,HYUNDAI,Santa Cruz
+HYUNDAI Santa Fe,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,7,25,28,26,5,No,344,HYUNDAI,Santa Fe
+HYUNDAI Santa Fe,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,7,22,25,24,5,No,378,HYUNDAI,Santa Fe
+HYUNDAI Santa Fe,2.5,4,AMS-8,2WD,Gasoline,small SUV,5,22,28,25,5,No,365,HYUNDAI,Santa Fe
+HYUNDAI Santa Fe,2.5,4,AMS-8,4WD,Gasoline,small SUV,5,21,28,24,5,No,375,HYUNDAI,Santa Fe
+HYUNDAI Santa Fe Hybrid,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,33,30,32,6,No,283,HYUNDAI,Santa Fe Hybrid
+HYUNDAI Santa Fe Hybrid Blue,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,36,31,34,7,Yes,264,HYUNDAI,Santa Fe Hybrid Blue
+HYUNDAI Santa Fe Plug-in Hybrid,1.6,4,AMS-6,4WD,Gasoline/Electricity,small SUV,7,33/79,32/72,33/76,10,Yes,111,HYUNDAI,Santa Fe Plug-in Hybrid
+HYUNDAI Sonata,2.5,4,SemiAuto-8,2WD,Gasoline,large car,7,27,37,31,6,No,293,HYUNDAI,Sonata
+HYUNDAI Sonata,2.5,4,SemiAuto-8,2WD,Gasoline,large car,7,28,38,32,6,No,282,HYUNDAI,Sonata
+HYUNDAI Sonata,1.6,4,SemiAuto-8,2WD,Gasoline,large car,5,27,37,31,6,No,293,HYUNDAI,Sonata
+HYUNDAI Sonata,2.5,4,AMS-8,2WD,Gasoline,large car,5,23,33,27,5,No,335,HYUNDAI,Sonata
+HYUNDAI Sonata Hybrid,2,4,AMS-6,2WD,Gasoline,large car,7,45,51,47,8,Yes,189,HYUNDAI,Sonata Hybrid
+HYUNDAI Sonata Hybrid Blue,2,4,AMS-6,2WD,Gasoline,large car,7,50,54,52,9,Yes,172,HYUNDAI,Sonata Hybrid Blue
+HYUNDAI Tuscon,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,7,25,32,28,6,No,322,HYUNDAI,Tuscon
+HYUNDAI Tuscon,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,7,23,28,25,5,No,351,HYUNDAI,Tuscon
+HYUNDAI Tuscon Hybrid,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,37,36,37,7,Yes,245,HYUNDAI,Tuscon Hybrid
+HYUNDAI Tuscon Hybrid Blue,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,38,38,38,7,Yes,238,HYUNDAI,Tuscon Hybrid Blue
+HYUNDAI Tuscon Plug-in Hybrid,1.6,4,AMS-6,4WD,Gasoline/Electricity,small SUV,7,35/87,35/74,35/80,10,Yes,100,HYUNDAI,Tuscon Plug-in Hybrid
+HYUNDAI Venue,1.6,4,SCV-1,2WD,Gasoline,midsize car,5,29,33,31,6,No,290,HYUNDAI,Venue
+INFINITI Q50,3,6,SemiAuto-7,2WD,Gasoline,midsize car,3,20,29,23,5,No,388,INFINITI,Q50
+INFINITI Q50,3,6,SemiAuto-7,4WD,Gasoline,midsize car,3,19,27,22,5,No,403,INFINITI,Q50
+INFINITI Q50 Red Sport,3,6,SemiAuto-7,2WD,Gasoline,midsize car,3,20,26,22,5,No,403,INFINITI,Q50 Red Sport
+INFINITI Q50 Red Sport,3,6,SemiAuto-7,4WD,Gasoline,midsize car,3,19,26,22,5,No,411,INFINITI,Q50 Red Sport
+INFINITI QX50,2,4,SCV-8,2WD,Gasoline,small SUV,6,23,29,26,5,No,343,INFINITI,QX50
+INFINITI QX50,2,4,SCV-8,4WD,Gasoline,small SUV,6,22,28,25,5,No,357,INFINITI,QX50
+INFINITI QX55,2,4,SCV-8,4WD,Gasoline,small SUV,6,22,28,25,5,No,366,INFINITI,QX55
+INFINITI QX60,3.5,6,SemiAuto-9,2WD,Gasoline,standard SUV,5,21,26,23,5,No,387,INFINITI,QX60
+INFINITI QX60,3.5,6,SemiAuto-9,4WD,Gasoline,standard SUV,5,20,25,22,5,No,405,INFINITI,QX60
+INFINITI QX80,5.6,8,SemiAuto-7,2WD,Gasoline,standard SUV,3,14,20,16,3,No,552,INFINITI,QX80
+INFINITI QX80,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,3,13,19,15,2,No,592,INFINITI,QX80
+INFINITI QX80,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,3,13,19,15,2,No,593,INFINITI,QX80
+JAGUAR E-Pace,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,20,26,23,5,No,398,JAGUAR,E-Pace
+JAGUAR F-Pace,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,22,27,24,5,No,365,JAGUAR,F-Pace
+JAGUAR F-Pace P340 MHEV,3,6,SemiAuto-8,4WD,Gasoline,small SUV,7,20,27,22,5,No,402,JAGUAR,F-Pace P340 MHEV
+JAGUAR F-Pace P400 MHEV,3,6,SemiAuto-8,4WD,Gasoline,small SUV,7,19,26,22,5,No,408,JAGUAR,F-Pace P400 MHEV
+JAGUAR F-Pace SVR,5,8,SemiAuto-8,4WD,Gasoline,small SUV,3,15,21,17,3,No,509,JAGUAR,F-Pace SVR
+JAGUAR F-Type P450 Convertible,5,8,SemiAuto-8,2WD,Gasoline,small car,3,17,24,19,4,No,460,JAGUAR,F-Type P450 Convertible
+JAGUAR F-Type P450 Coupe,5,8,SemiAuto-8,2WD,Gasoline,small car,3,17,24,19,4,No,460,JAGUAR,F-Type P450 Coupe
+JAGUAR F-Type P450 R-Dynamic Conv,5,8,SemiAuto-8,4WD,Gasoline,small car,3,16,24,18,4,No,481,JAGUAR,F-Type P450 R-Dynamic Conv
+JAGUAR F-Type P450 R-Dynamic Coupe,5,8,SemiAuto-8,4WD,Gasoline,small car,3,16,24,18,4,No,481,JAGUAR,F-Type P450 R-Dynamic Coupe
+JAGUAR F-Type R Convertible,5,8,SemiAuto-8,4WD,Gasoline,small car,3,16,24,18,4,No,481,JAGUAR,F-Type R Convertible
+JAGUAR F-Type R Coupe,5,8,SemiAuto-8,4WD,Gasoline,small car,3,16,24,18,4,No,481,JAGUAR,F-Type R Coupe
+JAGUAR XF P250,2,4,SemiAuto-8,2WD,Gasoline,midsize car,7,25,33,28,6,No,317,JAGUAR,XF P250
+JAGUAR XF P250,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,23,32,26,5,No,336,JAGUAR,XF P250
+JAGUAR XF P300,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,22,30,25,5,No,352,JAGUAR,XF P300
+JEEP Cherokee,2.4,4,Auto-9,4WD,Gasoline,small SUV,6,21,29,24,5,No,370,JEEP,Cherokee
+JEEP Cherokee Trailhawk,2,4,Auto-9,4WD,Gasoline,small SUV,5,20,26,22,5,No,400,JEEP,Cherokee Trailhawk
+JEEP Compass,2,4,Auto-8,4WD,Gasoline,small SUV,7,24,32,27,5,No,330,JEEP,Compass
+JEEP Gladiator,3.6,6,Auto-8,4WD,Gasoline,pickup,7,17,22,19,4,No,466,JEEP,Gladiator
+JEEP Gladiator,3.6,6,Man-6,4WD,Gasoline,pickup,5,16,23,19,4,No,476,JEEP,Gladiator
+JEEP Gladiator EcoDiesel 4X4,3,6,Auto-8,4WD,Diesel,pickup,1,22,28,24,4,No,423,JEEP,Gladiator EcoDiesel 4X4
+JEEP Gladiator Rubic EcoDiesel 4X4,3,6,Auto-8,4WD,Diesel,pickup,1,21,27,24,4,No,436,JEEP,Gladiator Rubic EcoDiesel 4X4
+JEEP Grand Cherokee,3.6,6,Auto-8,2WD,Gasoline,standard SUV,7,19,26,22,5,No,407,JEEP,Grand Cherokee
+JEEP Grand Cherokee,3.6,6,Auto-8,4WD,Gasoline,standard SUV,7,19,26,22,5,No,413,JEEP,Grand Cherokee
+JEEP Grand Cherokee,5.7,8,Auto-8,4WD,Gasoline,standard SUV,5,14,22,17,3,No,533,JEEP,Grand Cherokee
+JEEP Grand Cherokee,2,4,Auto-8,4WD,Gasoline/Electricity,standard SUV,7,23/57,24/56,23/56,8,Yes,177,JEEP,Grand Cherokee
+JEEP Grand Cherokee L,3.6,6,Auto-8,2WD,Gasoline,standard SUV,7,19,26,21,4,No,416,JEEP,Grand Cherokee L
+JEEP Grand Cherokee L,3.6,6,Auto-8,4WD,Gasoline,standard SUV,7,18,25,21,4,No,430,JEEP,Grand Cherokee L
+JEEP Grand Cherokee L,5.7,8,Auto-8,4WD,Gasoline,standard SUV,5,14,22,17,3,No,533,JEEP,Grand Cherokee L
+JEEP Grand Wagoneer,6.4,8,Auto-8,4WD,Gasoline,standard SUV,1,13,18,15,2,No,602,JEEP,Grand Wagoneer
+JEEP Grand Wagoneer,3,6,Auto-8,4WD,Gasoline,standard SUV,5,14,20,17,3,No,537,JEEP,Grand Wagoneer
+JEEP Grand Wagoneer L,3,6,Auto-8,4WD,Gasoline,standard SUV,5,14,19,16,3,No,566,JEEP,Grand Wagoneer L
+JEEP Renegade,1.3,4,Auto-9,4WD,Gasoline,small SUV,6,23,29,26,5,No,347,JEEP,Renegade
+JEEP Renegade Trailhawk,1.3,4,Auto-9,4WD,Gasoline,small SUV,6,22,27,24,5,No,372,JEEP,Renegade Trailhawk
+JEEP Wagoneer,3,6,Auto-8,2WD,Gasoline,standard SUV,6,17,24,20,4,No,453,JEEP,Wagoneer
+JEEP Wagoneer,3,6,Auto-8,4WD,Gasoline,standard SUV,6,16,23,19,4,No,472,JEEP,Wagoneer
+JEEP Wagoneer,5.7,8,Auto-8,2WD,Gasoline,standard SUV,5,16,22,18,4,No,483,JEEP,Wagoneer
+JEEP Wagoneer,5.7,8,Auto-8,4WD,Gasoline,standard SUV,5,15,20,17,3,No,522,JEEP,Wagoneer
+JEEP Wagoneer L,3,6,Auto-8,2WD,Gasoline,standard SUV,6,17,24,20,4,No,453,JEEP,Wagoneer L
+JEEP Wagoneer L,3,6,Auto-8,4WD,Gasoline,standard SUV,6,16,23,19,4,No,476,JEEP,Wagoneer L
+JEEP Wrangler,6.4,8,Auto-8,4WD,Gasoline,small SUV,1,13,17,14,2,No,623,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Auto-8,4WD,Gasoline,small SUV,7,18,23,20,4,No,440,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Auto-8,4WD,Gasoline,small SUV,7,18,23,20,4,No,443,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Auto-8,4WD,Gasoline,small SUV,7,19,24,21,4,No,421,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Auto-8,4WD,Gasoline,small SUV,7,20,24,21,4,No,416,JEEP,Wrangler
+JEEP Wrangler,2,4,Auto-8,4WD,Gasoline,small SUV,5,21,24,22,5,No,404,JEEP,Wrangler
+JEEP Wrangler,2,4,Auto-8,4WD,Gasoline,small SUV,5,22,24,23,5,No,388,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Man-6,4WD,Gasoline,small SUV,5,17,23,19,4,No,459,JEEP,Wrangler
+JEEP Wrangler,3.6,6,Man-6,4WD,Gasoline,small SUV,5,17,25,20,4,No,446,JEEP,Wrangler
+JEEP Wrangler 4xe,2,4,Auto-8,4WD,Gasoline/Electricity,small SUV,5,20/52,20/45,20/49,7,No,230,JEEP,Wrangler 4xe
+JEEP Wrangler EcoDiesel,3,6,Auto-8,4WD,Diesel,small SUV,1,22,29,25,5,No,411,JEEP,Wrangler EcoDiesel
+JEEP Wrangler Rubicon EcoDiesel,3,6,Auto-8,4WD,Diesel,small SUV,1,21,26,23,4,No,442,JEEP,Wrangler Rubicon EcoDiesel
+KIA Carnival,3.5,6,SemiAuto-8,2WD,Gasoline,minivan,5,19,26,22,5,No,408,KIA,Carnival
+KIA Forte,2,4,CVT,2WD,Gasoline,midsize car,7,28,39,32,6,No,277,KIA,Forte
+KIA Forte,1.6,4,AMS-7,2WD,Gasoline,midsize car,5,27,35,30,6,No,296,KIA,Forte
+KIA Forte,1.6,4,Man-6,2WD,Gasoline,midsize car,5,22,31,26,5,No,348,KIA,Forte
+KIA Forte FE,2,4,CVT,2WD,Gasoline,midsize car,7,30,41,34,7,Yes,261,KIA,Forte FE
+KIA K5,1.6,4,SemiAuto-8,2WD,Gasoline,large car,5,27,37,31,6,No,293,KIA,K5
+KIA K5,1.6,4,SemiAuto-8,4WD,Gasoline,large car,5,25,33,28,6,No,316,KIA,K5
+KIA K5,2.5,4,AMS-8,2WD,Gasoline,large car,5,24,32,27,5,No,332,KIA,K5
+KIA Niro,1.6,4,AMS-6,2WD,Gasoline,station wagon,7,53,45,49,8,Yes,181,KIA,Niro
+KIA Niro FE,1.6,4,AMS-6,2WD,Gasoline,station wagon,7,53,54,53,9,Yes,167,KIA,Niro FE
+KIA Niro Plug-in Hybrid,1.6,4,AMS-6,2WD,Gasoline/Electricity,station wagon,7,49/113,47/102,48/108,10,Yes,71,KIA,Niro Plug-in Hybrid
+KIA Rio,1.6,4,SCV-1,2WD,Gasoline,small car,3,32,41,36,7,No,250,KIA,Rio
+KIA Seltos,1.6,4,AMS-7,4WD,Gasoline,small SUV,5,25,30,27,5,No,331,KIA,Seltos
+KIA Seltos,2,4,SCV-8,2WD,Gasoline,small SUV,5,29,35,31,6,No,283,KIA,Seltos
+KIA Seltos,2,4,SCV-8,4WD,Gasoline,small SUV,5,27,31,29,6,No,314,KIA,Seltos
+KIA Sorento,2.5,4,AMS-8,2WD,Gasoline,small SUV,5,22,29,25,5,No,360,KIA,Sorento
+KIA Sorento,2.5,4,AMS-8,4WD,Gasoline,small SUV,5,22,27,24,5,No,377,KIA,Sorento
+KIA Sorento,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,5,24,29,26,5,No,342,KIA,Sorento
+KIA Sorento,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,5,23,25,24,5,No,366,KIA,Sorento
+KIA Sorento Hybrid,1.6,4,AMS-6,2WD,Gasoline,small SUV,7,39,35,37,7,Yes,242,KIA,Sorento Hybrid
+KIA Sorento Hybrid,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,36,33,34,7,Yes,262,KIA,Sorento Hybrid
+KIA Sorento Plug-in Hybrid,1.6,4,AMS-6,4WD,Gasoline/Electricity,small SUV,7,35/83,33/75,34/79,10,Yes,105,KIA,Sorento Plug-in Hybrid
+KIA Soul,2,4,CVT,2WD,Gasoline,station wagon,7,28,33,30,6,No,301,KIA,Soul
+KIA Soul Eco dynamics,2,4,CVT,2WD,Gasoline,station wagon,7,29,35,31,6,No,287,KIA,Soul Eco dynamics
+KIA Sportage,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,5,25,32,28,6,No,322,KIA,Sportage
+KIA Sportage,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,5,23,28,25,5,No,357,KIA,Sportage
+KIA Sportage Hybrid,1.6,4,AMS-6,2WD,Gasoline,small SUV,7,42,44,43,8,Yes,206,KIA,Sportage Hybrid
+KIA Sportage Hybrid,1.6,4,AMS-6,4WD,Gasoline,small SUV,7,38,38,38,7,Yes,233,KIA,Sportage Hybrid
+KIA Sportage Plug-in Hybrid,1.6,4,AMS-6,4WD,Gasoline/Electricity,small SUV,7,36/88,35/79,35/84,10,Yes,96,KIA,Sportage Plug-in Hybrid
+KIA Stinger,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,3,22,32,25,5,No,355,KIA,Stinger
+KIA Stinger,2.5,4,SemiAuto-8,4WD,Gasoline,midsize car,3,21,29,24,5,No,380,KIA,Stinger
+KIA Stinger,3.3,6,SemiAuto-8,2WD,Gasoline,midsize car,3,18,25,20,4,No,437,KIA,Stinger
+KIA Stinger,3.3,6,SemiAuto-8,4WD,Gasoline,midsize car,3,17,24,20,4,No,451,KIA,Stinger
+KIA Telluride,3.8,6,SemiAuto-8,2WD,Gasoline,small SUV,5,20,26,23,5,No,395,KIA,Telluride
+KIA Telluride,3.8,6,SemiAuto-8,4WD,Gasoline,small SUV,5,18,24,21,4,No,433,KIA,Telluride
+LAMBORGHINI Huracan,5.2,10,AMS-7,4WD,Gasoline,small car,1,13,18,15,2,No,596,LAMBORGHINI,Huracan
+LAMBORGHINI Huracan Coupe,5.2,10,AMS-7,2WD,Gasoline,small car,1,13,18,15,2,No,593,LAMBORGHINI,Huracan Coupe
+LAMBORGHINI Huracan Spyder,5.2,10,AMS-7,2WD,Gasoline,small car,1,13,18,15,2,No,593,LAMBORGHINI,Huracan Spyder
+LAMBORGHINI Huracan Spyder,5.2,10,AMS-7,4WD,Gasoline,small car,1,13,18,15,2,No,596,LAMBORGHINI,Huracan Spyder
+LAMBORGHINI Urus Performante,4,8,SemiAuto-8,4WD,Gasoline,station wagon,3,14,19,16,3,No,554,LAMBORGHINI,Urus Performante
+LAMBORGHINI Urus S,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,19,16,3,No,554,LAMBORGHINI,Urus S
+LAND ROVER Defender 110,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,20,19,4,No,474,LAND,ROVER Defender 110
+LAND ROVER Defender 110,5,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,19,16,3,No,563,LAND,ROVER Defender 110
+LAND ROVER Defender 110 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,23,20,4,No,444,LAND,ROVER Defender 110 MHEV
+LAND ROVER Defender 130 P300 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,17,21,19,4,No,480,LAND,ROVER Defender 130 P300 MHEV
+LAND ROVER Defender 130 P400 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,17,21,19,4,No,480,LAND,ROVER Defender 130 P400 MHEV
+LAND ROVER Defender 90,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,21,19,4,No,465,LAND,ROVER Defender 90
+LAND ROVER Defender 90,5,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,15,19,16,3,No,545,LAND,ROVER Defender 90
+LAND ROVER Defender 90 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,23,20,4,No,444,LAND,ROVER Defender 90 MHEV
+LAND ROVER Discovery,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,7,19,24,21,4,No,421,LAND,ROVER Discovery
+LAND ROVER Discovery MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,19,25,22,5,No,415,LAND,ROVER Discovery MHEV
+LAND ROVER Discovery Sport,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,19,23,20,4,No,437,LAND,ROVER Discovery Sport
+LAND ROVER New Range Rover,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,21,18,4,No,508,LAND,ROVER New Range Rover
+LAND ROVER New Range Rover LWB,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,21,18,4,No,505,LAND,ROVER New Range Rover LWB
+LAND ROVER New Range Rover P360 LWB MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,26,21,4,No,427,LAND,ROVER New Range Rover P360 LWB MHEV
+LAND ROVER New Range Rover P360 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,26,21,4,No,427,LAND,ROVER New Range Rover P360 MHEV
+LAND ROVER New Range Rover P400 LWB MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,26,21,4,No,427,LAND,ROVER New Range Rover P400 LWB MHEV
+LAND ROVER New Range Rover P400 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,26,21,4,No,427,LAND,ROVER New Range Rover P400 MHEV
+LAND ROVER New Range Rover P440 PHEV,3,6,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,19/48,24/55,21/51,10,Yes,107,LAND,ROVER New Range Rover P440 PHEV
+LAND ROVER New Range Rover Sport,4.4,8,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,21,18,4,No,508,LAND,ROVER New Range Rover Sport
+LAND ROVER New Range Rover Sport P360 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,19,26,22,5,No,409,LAND,ROVER New Range Rover Sport P360 MHEV
+LAND ROVER New Range Rover Sport P400 MHEV,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,7,18,26,21,4,No,427,LAND,ROVER New Range Rover Sport P400 MHEV
+LAND ROVER New Range Rover Sport P440 PHEV,3,6,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,19/48,24/55,21/51,10,Yes,107,LAND,ROVER New Range Rover Sport P440 PHEV
+LAND ROVER Range Rover Evoque,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,20,27,22,5,No,398,LAND,ROVER Range Rover Evoque
+LAND ROVER Range Rover Evoque MHEV,2,4,SemiAuto-9,4WD,Gasoline,small SUV,7,21,26,23,5,No,393,LAND,ROVER Range Rover Evoque MHEV
+LAND ROVER Range Rover Velar,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,20,26,23,5,No,393,LAND,ROVER Range Rover Velar
+LAND ROVER Range Rover Velar P340 MHEV,3,6,SemiAuto-8,4WD,Gasoline,small SUV,7,20,26,22,5,No,399,LAND,ROVER Range Rover Velar P340 MHEV
+LAND ROVER Range Rover Velar P400 MHEV,3,6,SemiAuto-8,4WD,Gasoline,small SUV,7,19,25,21,4,No,426,LAND,ROVER Range Rover Velar P400 MHEV
+LEXUS ES 250,2.5,4,SemiAuto-8,4WD,Gasoline,midsize car,6,25,34,28,6,No,315,LEXUS,ES 250
+LEXUS ES 300h,2.5,4,SCV-6,2WD,Gasoline,midsize car,7,43,44,44,8,Yes,201,LEXUS,ES 300h
+LEXUS ES 350,3.5,6,SemiAuto-8,2WD,Gasoline,midsize car,5,22,32,26,5,No,346,LEXUS,ES 350
+LEXUS ES 350 F Sport,3.5,6,SemiAuto-8,2WD,Gasoline,midsize car,5,22,31,25,5,No,352,LEXUS,ES 350 F Sport
+LEXUS GX 460,4.6,8,SemiAuto-6,4WD,Gasoline,standard SUV,3,15,19,16,3,No,542,LEXUS,GX 460
+LEXUS IS 300,2,4,SemiAuto-8,2WD,Gasoline,small car,5,21,31,25,5,No,355,LEXUS,IS 300
+LEXUS IS 300,3.5,6,SemiAuto-6,4WD,Gasoline,small car,5,19,26,22,5,No,407,LEXUS,IS 300
+LEXUS IS 350,3.5,6,SemiAuto-6,4WD,Gasoline,small car,5,19,26,22,5,No,407,LEXUS,IS 350
+LEXUS IS 350,3.5,6,SemiAuto-8,2WD,Gasoline,small car,5,20,28,23,5,No,385,LEXUS,IS 350
+LEXUS IS 500,5,8,SemiAuto-8,2WD,Gasoline,small car,5,17,25,20,4,No,451,LEXUS,IS 500
+LEXUS LC 500,5,8,SemiAuto-10,2WD,Gasoline,small car,5,16,25,19,4,No,473,LEXUS,LC 500
+LEXUS LC 500 Convertible,5,8,SemiAuto-10,2WD,Gasoline,small car,5,15,25,18,4,No,489,LEXUS,LC 500 Convertible
+LEXUS LC 500h,3.5,6,SCV-10,2WD,Gasoline,small car,7,26,33,29,6,No,304,LEXUS,LC 500h
+LEXUS LS 500,3.4,6,SemiAuto-10,2WD,Gasoline,midsize car,5,18,29,22,5,No,405,LEXUS,LS 500
+LEXUS LS 500,3.4,6,SemiAuto-10,4WD,Gasoline,midsize car,5,17,27,21,4,No,432,LEXUS,LS 500
+LEXUS LS 500h,3.5,6,SCV-10,2WD,Gasoline,midsize car,7,22,29,25,5,No,358,LEXUS,LS 500h
+LEXUS LS 500h,3.5,6,SCV-10,4WD,Gasoline,midsize car,7,22,29,25,5,No,358,LEXUS,LS 500h
+LEXUS LX 600,3.4,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,17,22,19,4,No,478,LEXUS,LX 600
+LEXUS NX 250,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,6,26,33,28,6,No,311,LEXUS,NX 250
+LEXUS NX 250,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,6,25,32,28,6,No,318,LEXUS,NX 250
+LEXUS NX 350,2.4,4,SemiAuto-8,4WD,Gasoline,small SUV,7,22,28,25,5,No,358,LEXUS,NX 350
+LEXUS NX 350,2.4,4,SemiAuto-8,4WD,Gasoline,small SUV,7,22,29,25,5,No,356,LEXUS,NX 350
+LEXUS NX 350h,2.5,4,SCV-6,4WD,Gasoline,small SUV,7,41,37,39,7,Yes,225,LEXUS,NX 350h
+LEXUS NX 450h+,2.5,4,SCV-6,4WD,Gasoline/Electricity,small SUV,7,38/93,33/75,36/84,10,Yes,87,LEXUS,NX 450h+
+LEXUS RC 300,2,4,SemiAuto-8,2WD,Gasoline,small car,5,21,31,25,5,No,355,LEXUS,RC 300
+LEXUS RC 300,3.5,6,SemiAuto-6,4WD,Gasoline,small car,5,19,26,22,5,No,407,LEXUS,RC 300
+LEXUS RC 350,3.5,6,SemiAuto-6,4WD,Gasoline,small car,5,19,26,22,5,No,407,LEXUS,RC 350
+LEXUS RC 350,3.5,6,SemiAuto-8,2WD,Gasoline,small car,5,20,28,23,5,No,385,LEXUS,RC 350
+LEXUS RC F,5,8,SemiAuto-8,2WD,Gasoline,small car,5,16,24,19,4,No,459,LEXUS,RC F
+LEXUS RX 350,2.4,4,SemiAuto-8,2WD,Gasoline,small SUV,7,22,29,25,5,No,353,LEXUS,RX 350
+LEXUS RX 350,2.4,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,371,LEXUS,RX 350
+LEXUS RX 350h,2.5,4,SCV-6,4WD,Gasoline,small SUV,7,37,34,36,7,Yes,243,LEXUS,RX 350h
+LEXUS RX 500h,2.4,4,SCV-6,4WD,Gasoline,small SUV,7,27,28,27,5,No,326,LEXUS,RX 500h
+LEXUS UX 250h,2,4,SCV-6,2WD,Gasoline,small car,7,43,41,42,8,Yes,209,LEXUS,UX 250h
+LEXUS UX 250h,2,4,SCV-6,4WD,Gasoline,small car,7,41,38,39,7,Yes,225,LEXUS,UX 250h
+LINCOLN Aviator,3,6,SemiAuto-10,2WD,Gasoline,standard SUV,5,18,26,21,4,No,424,LINCOLN,Aviator
+LINCOLN Aviator,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,16,24,19,4,No,466,LINCOLN,Aviator
+LINCOLN Aviator,3,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,17,24,20,4,No,451,LINCOLN,Aviator
+LINCOLN Aviator PHEV,3,6,SemiAuto-10,4WD,Gasoline/Electricity,standard SUV,7,22/54,25/58,23/56,8,Yes,209,LINCOLN,Aviator PHEV
+LINCOLN Corsair,2,4,SemiAuto-8,2WD,Gasoline,small SUV,7,22,30,25,5,No,356,LINCOLN,Corsair
+LINCOLN Corsair,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,374,LINCOLN,Corsair
+LINCOLN Corsair PHEV,2.5,4,CVT,4WD,Gasoline/Electricity,small SUV,8,34/86,32/69,33/78,10,Yes,121,LINCOLN,Corsair PHEV
+LINCOLN Nautilus,2,4,Auto-8,4WD,Gasoline,small SUV,6,20,25,22,5,No,404,LINCOLN,Nautilus
+LINCOLN Nautilus,2,4,SemiAuto-8,4WD,Gasoline,small SUV,6,20,25,22,5,No,404,LINCOLN,Nautilus
+LINCOLN Nautilus,2.7,6,SemiAuto-8,4WD,Gasoline,small SUV,5,19,25,21,4,No,421,LINCOLN,Nautilus
+LINCOLN Navigator,3.5,6,SemiAuto-10,2WD,Gasoline,standard SUV,6,16,23,19,4,No,468,LINCOLN,Navigator
+LINCOLN Navigator,3.5,6,SemiAuto-10,2WD,Gasoline,standard SUV,6,17,23,19,4,No,462,LINCOLN,Navigator
+LINCOLN Navigator,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,15,21,17,3,No,510,LINCOLN,Navigator
+LINCOLN Navigator,3.5,6,SemiAuto-10,4WD,Gasoline,standard SUV,6,16,22,18,4,No,498,LINCOLN,Navigator
+LINCOLN Nuatilus,2,4,Auto-8,2WD,Gasoline,small SUV,6,21,26,23,5,No,386,LINCOLN,Nuatilus
+LINCOLN Nuatilus,2,4,SemiAuto-8,2WD,Gasoline,small SUV,6,21,26,23,5,No,387,LINCOLN,Nuatilus
+MASERATI Ghibli GT,3,6,Auto-8,2WD,Gasoline,midsize car,3,18,25,20,4,No,436,MASERATI,Ghibli GT
+MASERATI Ghibli Modena,3,6,Auto-8,2WD,Gasoline,midsize car,3,18,25,20,4,No,436,MASERATI,Ghibli Modena
+MASERATI Ghibli Modena,3,6,Auto-8,4WD,Gasoline,midsize car,3,17,25,20,4,No,457,MASERATI,Ghibli Modena
+MASERATI Ghibli Trofeo,3.8,8,Auto-8,2WD,Gasoline,midsize car,1,13,20,16,3,No,560,MASERATI,Ghibli Trofeo
+MASERATI Ghibli Trofeo,3.8,8,Auto-8,2WD,Gasoline,midsize car,3,13,20,16,3,No,560,MASERATI,Ghibli Trofeo
+MASERATI Grecale GT,2,4,Auto-8,4WD,Gasoline,small SUV,5,22,29,25,5,No,351,MASERATI,Grecale GT
+MASERATI Grecale Modena,2,4,Auto-8,4WD,Gasoline,small SUV,5,22,29,25,5,No,351,MASERATI,Grecale Modena
+MASERATI Grecale Trofeo,3,6,Auto-8,4WD,Gasoline,small SUV,5,18,25,20,4,No,432,MASERATI,Grecale Trofeo
+MASERATI Levante GT,3,6,Auto-8,4WD,Gasoline,standard SUV,3,16,22,18,4,No,495,MASERATI,Levante GT
+MASERATI Levante Modena,3,6,Auto-8,4WD,Gasoline,standard SUV,3,16,22,18,4,No,495,MASERATI,Levante Modena
+MASERATI Levante Modena V8,3.8,8,Auto-8,4WD,Gasoline,standard SUV,1,13,20,16,3,No,562,MASERATI,Levante Modena V8
+MASERATI Levante Modena V8,3.8,8,Auto-8,4WD,Gasoline,standard SUV,3,13,20,16,3,No,562,MASERATI,Levante Modena V8
+MASERATI Levante Trofeo,3.8,8,Auto-8,4WD,Gasoline,standard SUV,1,13,20,16,3,No,562,MASERATI,Levante Trofeo
+MASERATI Levante Trofeo,3.8,8,Auto-8,4WD,Gasoline,standard SUV,3,13,20,16,3,No,562,MASERATI,Levante Trofeo
+MASERATI MC20,3,6,SemiAuto-8,2WD,Gasoline,small car,5,15,25,18,4,No,474,MASERATI,MC20
+MASERATI MC20 Spyder,3,6,SemiAuto-8,2WD,Gasoline,small car,5,15,25,18,4,No,482,MASERATI,MC20 Spyder
+MASERATI Quattroporte GT,3,6,Auto-8,2WD,Gasoline,large car,3,16,25,19,4,No,453,MASERATI,Quattroporte GT
+MASERATI Quattroporte Modena,3,6,Auto-8,2WD,Gasoline,large car,3,16,25,19,4,No,453,MASERATI,Quattroporte Modena
+MASERATI Quattroporte Modena,3,6,Auto-8,4WD,Gasoline,large car,3,17,25,20,4,No,457,MASERATI,Quattroporte Modena
+MASERATI Quattroporte Trofeo,3.8,8,Auto-8,2WD,Gasoline,large car,1,13,20,16,3,No,560,MASERATI,Quattroporte Trofeo
+MASERATI Quattroporte Trofeo,3.8,8,Auto-8,2WD,Gasoline,large car,3,13,20,16,3,No,560,MASERATI,Quattroporte Trofeo
+MAZDA 3,2,4,SemiAuto-6,2WD,Gasoline,small car,7,28,36,31,6,No,287,MAZDA,3
+MAZDA 3,2.5,4,Man-6,2WD,Gasoline,midsize car,7,26,36,30,6,No,296,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,midsize car,7,27,35,30,6,No,292,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,small car,7,28,37,31,6,No,287,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,4WD,Gasoline,midsize car,7,26,33,29,6,No,311,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,4WD,Gasoline,small car,7,26,35,30,6,No,301,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,4WD,Gasoline,midsize car,5,23,31,26,5,No,337,MAZDA,3
+MAZDA 3,2.5,4,SemiAuto-6,4WD,Gasoline,small car,5,23,32,27,5,No,334,MAZDA,3
+MAZDA CX-30,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,7,26,33,29,6,No,309,MAZDA,CX-30
+MAZDA CX-30,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,5,22,30,25,5,No,353,MAZDA,CX-30
+MAZDA CX-5 4WD,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,7,24,30,26,5,No,337,MAZDA,CX-5 4WD
+MAZDA CX-5 4WD,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,5,22,27,24,5,No,370,MAZDA,CX-5 4WD
+MAZDA CX-50,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,7,24,30,27,5,No,335,MAZDA,CX-50
+MAZDA CX-50,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,3,23,29,25,5,No,356,MAZDA,CX-50
+MAZDA CX-9,2.5,4,SemiAuto-6,4WD,Gasoline,small SUV,5,20,26,23,5,No,392,MAZDA,CX-9
+MAZDA MX-5,2,4,Man-6,2WD,Gasoline,small car,3,26,34,29,6,No,305,MAZDA,MX-5
+MAZDA MX-5,2,4,SemiAuto-6,2WD,Gasoline,small car,3,26,35,30,6,No,299,MAZDA,MX-5
+McLAREN Artura,3,6,AMS-8,2WD,Gasoline/Electricity,small car,6,17/37,21/41,18/39,6,No,319,McLAREN,Artura
+MERCEDES-BENZ AMG C43 4Matic,3,6,Auto-9,4WD,Gasoline,small car,5,18,27,21,4,No,413,MERCEDES-BENZ,AMG C43 4Matic
+MERCEDES-BENZ AMG C43 4Matic,3,6,Auto-9,4WD,Gasoline,small car,5,18,28,22,5,No,412,MERCEDES-BENZ,AMG C43 4Matic
+MERCEDES-BENZ AMG C63 S,4,8,Auto-9,2WD,Gasoline,small car,5,16,24,19,4,No,461,MERCEDES-BENZ,AMG C63 S
+MERCEDES-BENZ AMG CLA 35 4Matic,2,4,AutoMan-7,4WD,Gasoline,small car,5,21,29,24,5,No,373,MERCEDES-BENZ,AMG CLA 35 4Matic
+MERCEDES-BENZ AMG CLA45 4Matic,2,4,AutoMan-8,4WD,Gasoline,small car,3,20,28,23,5,No,388,MERCEDES-BENZ,AMG CLA45 4Matic
+MERCEDES-BENZ AMG E 53 4Matic+,3,6,Auto-9,4WD,Gasoline,midsize car,6,21,29,24,5,No,364,MERCEDES-BENZ,AMG E 53 4Matic+
+MERCEDES-BENZ AMG E 53 4Matic+,3,6,Auto-9,4WD,Gasoline,small car,6,20,27,23,5,No,388,MERCEDES-BENZ,AMG E 53 4Matic+
+MERCEDES-BENZ AMG E 53 4Matic+,3,6,Auto-9,4WD,Gasoline,small car,6,20,28,23,5,No,383,MERCEDES-BENZ,AMG E 53 4Matic+
+MERCEDES-BENZ AMG E63 S 4Matic+,4,8,Auto-9,4WD,Gasoline,midsize car,5,16,24,19,4,No,474,MERCEDES-BENZ,AMG E63 S 4Matic+
+MERCEDES-BENZ AMG E63 S 4Matic+,4,8,Auto-9,4WD,Gasoline,station wagon,5,16,24,19,4,No,470,MERCEDES-BENZ,AMG E63 S 4Matic+
+MERCEDES-BENZ AMG G63 4x4 Squared,4,8,Auto-9,4WD,Gasoline,standard SUV,3,10,12,11,1,No,817,MERCEDES-BENZ,AMG G63 4x4 Squared
+MERCEDES-BENZ AMG GLA35 4Matic,2,4,AutoMan-8,4WD,Gasoline,station wagon,5,22,29,25,5,No,358,MERCEDES-BENZ,AMG GLA35 4Matic
+MERCEDES-BENZ AMG GLA45 4Matic,2,4,AutoMan-8,4WD,Gasoline,station wagon,3,20,25,22,5,No,407,MERCEDES-BENZ,AMG GLA45 4Matic
+MERCEDES-BENZ AMG GLB35 4Matic,2,4,AutoMan-8,4WD,Gasoline,station wagon,5,21,27,23,5,No,382,MERCEDES-BENZ,AMG GLB35 4Matic
+MERCEDES-BENZ AMG GLC43 4Matic,3,6,Auto-9,4WD,Gasoline,small SUV,5,17,24,20,4,No,444,MERCEDES-BENZ,AMG GLC43 4Matic
+MERCEDES-BENZ AMG GLE 53 4Matic+,3,6,Auto-9,4WD,Gasoline,standard SUV,6,17,21,19,4,No,471,MERCEDES-BENZ,AMG GLE 53 4Matic+
+MERCEDES-BENZ AMG GLE 53 4Matic+,3,6,Auto-9,4WD,Gasoline,standard SUV,6,18,22,19,4,No,456,MERCEDES-BENZ,AMG GLE 53 4Matic+
+MERCEDES-BENZ AMG GLE63 4Matic+,4,8,Auto-9,4WD,Gasoline,standard SUV,5,15,19,17,3,No,535,MERCEDES-BENZ,AMG GLE63 4Matic+
+MERCEDES-BENZ AMG GLE63 4Matic+,4,8,Auto-9,4WD,Gasoline,standard SUV,5,15,20,17,3,No,528,MERCEDES-BENZ,AMG GLE63 4Matic+
+MERCEDES-BENZ AMG GLS63 4Matic+,4,8,Auto-9,4WD,Gasoline,standard SUV,5,14,19,16,3,No,560,MERCEDES-BENZ,AMG GLS63 4Matic+
+MERCEDES-BENZ AMG GT 53 4Matic+,3,6,Auto-9,4WD,Gasoline,small car,6,19,24,21,4,No,421,MERCEDES-BENZ,AMG GT 53 4Matic+
+MERCEDES-BENZ AMG GT 63 4Matic+,4,8,Auto-9,4WD,Gasoline,small car,5,15,21,17,3,No,530,MERCEDES-BENZ,AMG GT 63 4Matic+
+MERCEDES-BENZ AMG GT 63 S 4Matic+,4,8,Auto-9,4WD,Gasoline,small car,5,15,21,17,3,No,530,MERCEDES-BENZ,AMG GT 63 S 4Matic+
+MERCEDES-BENZ AMG GT43 4Matic+,3,6,Auto-9,4WD,Gasoline,small car,6,19,24,21,4,No,421,MERCEDES-BENZ,AMG GT43 4Matic+
+MERCEDES-BENZ AMG SL55 4Matic+,4,8,Auto-9,4WD,Gasoline,small car,5,13,21,16,3,No,562,MERCEDES-BENZ,AMG SL55 4Matic+
+MERCEDES-BENZ AMG SL63 4Matic+,4,8,Auto-9,4WD,Gasoline,small car,5,14,22,16,3,No,544,MERCEDES-BENZ,AMG SL63 4Matic+
+MERCEDES-BENZ C300,2,4,Auto-9,2WD,Gasoline,small car,7,25,36,29,6,No,308,MERCEDES-BENZ,C300
+MERCEDES-BENZ C300,2,4,Auto-9,2WD,Gasoline,small car,6,21,29,24,5,No,370,MERCEDES-BENZ,C300
+MERCEDES-BENZ C300,2,4,Auto-9,2WD,Gasoline,small car,6,22,31,25,5,No,351,MERCEDES-BENZ,C300
+MERCEDES-BENZ C300 4Matic,2,4,Auto-9,4WD,Gasoline,small car,7,24,33,27,5,No,323,MERCEDES-BENZ,C300 4Matic
+MERCEDES-BENZ C300 4Matic,2,4,Auto-9,4WD,Gasoline,small car,6,21,30,25,5,No,358,MERCEDES-BENZ,C300 4Matic
+MERCEDES-BENZ C300 4Matic,2,4,Auto-9,4WD,Gasoline,small car,6,22,31,25,5,No,351,MERCEDES-BENZ,C300 4Matic
+MERCEDES-BENZ CLA250,2,4,AutoMan-7,2WD,Gasoline,small car,5,25,36,29,6,No,309,MERCEDES-BENZ,CLA250
+MERCEDES-BENZ CLA250 4Matic,2,4,AutoMan-7,4WD,Gasoline,small car,5,24,33,27,5,No,322,MERCEDES-BENZ,CLA250 4Matic
+MERCEDES-BENZ CLS450 4Matic,3,6,Auto-9,4WD,Gasoline,small car,6,22,30,25,5,No,357,MERCEDES-BENZ,CLS450 4Matic
+MERCEDES-BENZ E350,2,4,Auto-9,2WD,Gasoline,midsize car,6,23,31,26,5,No,342,MERCEDES-BENZ,E350
+MERCEDES-BENZ E350 4Matic,2,4,Auto-9,4WD,Gasoline,midsize car,6,21,30,24,5,No,364,MERCEDES-BENZ,E350 4Matic
+MERCEDES-BENZ E450,3,6,Auto-9,2WD,Gasoline,small car,6,23,30,25,5,No,352,MERCEDES-BENZ,E450
+MERCEDES-BENZ E450 4Matic,3,6,Auto-9,4WD,Gasoline,midsize car,6,23,31,26,5,No,343,MERCEDES-BENZ,E450 4Matic
+MERCEDES-BENZ E450 4Matic,3,6,Auto-9,4WD,Gasoline,small car,6,21,30,24,5,No,362,MERCEDES-BENZ,E450 4Matic
+MERCEDES-BENZ E450 4Matic All-Terrain,3,6,Auto-9,4WD,Gasoline,station wagon,6,21,28,24,5,No,374,MERCEDES-BENZ,E450 4Matic All-Terrain
+MERCEDES-BENZ E450 4Matic Convertible,3,6,Auto-9,4WD,Gasoline,small car,6,22,29,24,5,No,362,MERCEDES-BENZ,E450 4Matic Convertible
+MERCEDES-BENZ E450 Convertible,3,6,Auto-9,2WD,Gasoline,small car,6,22,29,25,5,No,360,MERCEDES-BENZ,E450 Convertible
+MERCEDES-BENZ G550,4,8,Auto-9,4WD,Gasoline,standard SUV,3,13,16,14,2,No,617,MERCEDES-BENZ,G550
+MERCEDES-BENZ GLA 250,2,4,AutoMan-8,2WD,Gasoline,special purpose,5,24,34,28,6,No,321,MERCEDES-BENZ,GLA 250
+MERCEDES-BENZ GLA250 4Matic,2,4,AutoMan-8,4WD,Gasoline,small SUV,5,23,32,26,5,No,337,MERCEDES-BENZ,GLA250 4Matic
+MERCEDES-BENZ GLB 250,2,4,AutoMan-8,2WD,Gasoline,special purpose,5,24,32,27,5,No,330,MERCEDES-BENZ,GLB 250
+MERCEDES-BENZ GLB 250 4Matic,2,4,AutoMan-8,4WD,Gasoline,small SUV,5,22,30,25,5,No,355,MERCEDES-BENZ,GLB 250 4Matic
+MERCEDES-BENZ GLC 300 4Matic,2,4,Auto-9,4WD,Gasoline,small SUV,6,20,26,22,5,No,397,MERCEDES-BENZ,GLC 300 4Matic
+MERCEDES-BENZ GLE 580 4Matic,4,8,Auto-9,4WD,Gasoline,standard SUV,5,16,21,18,4,No,492,MERCEDES-BENZ,GLE 580 4Matic
+MERCEDES-BENZ GLE350,2,4,Auto-9,2WD,Gasoline,small SUV,5,20,25,22,5,No,401,MERCEDES-BENZ,GLE350
+MERCEDES-BENZ GLE350 4Matic,2,4,Auto-9,4WD,Gasoline,small SUV,5,20,24,21,4,No,413,MERCEDES-BENZ,GLE350 4Matic
+MERCEDES-BENZ GLE450 4Matic,3,6,Auto-9,4WD,Gasoline,standard SUV,6,20,25,22,5,No,394,MERCEDES-BENZ,GLE450 4Matic
+MERCEDES-BENZ GLS450 4Matic,3,6,Auto-9,4WD,Gasoline,standard SUV,6,18,23,20,4,No,433,MERCEDES-BENZ,GLS450 4Matic
+MERCEDES-BENZ GLS580 4Matic,4,8,Auto-9,4WD,Gasoline,standard SUV,5,16,21,18,4,No,499,MERCEDES-BENZ,GLS580 4Matic
+MERCEDES-BENZ GLS600 4Matic Maybach,4,8,Auto-9,4WD,Gasoline,standard SUV,5,15,20,17,3,No,528,MERCEDES-BENZ,GLS600 4Matic Maybach
+MERCEDES-BENZ Metris,2,4,Auto-9,2WD,Gasoline,special purpose,6,18,22,19,4,No,459,MERCEDES-BENZ,Metris
+MERCEDES-BENZ Metris,2,4,Auto-9,2WD,Gasoline,special purpose,6,19,23,20,4,No,436,MERCEDES-BENZ,Metris
+MERCEDES-BENZ S500 4Matic,3,6,Auto-9,4WD,Gasoline,large car,6,20,28,23,5,No,388,MERCEDES-BENZ,S500 4Matic
+MERCEDES-BENZ S580 4Matic,4,8,Auto-9,4WD,Gasoline,large car,5,16,25,19,4,No,459,MERCEDES-BENZ,S580 4Matic
+MERCEDES-BENZ S580 4Matic Maybach,4,8,Auto-9,4WD,Gasoline,large car,5,15,25,18,4,No,491,MERCEDES-BENZ,S580 4Matic Maybach
+MINI Cooper Convertible,1.5,3,AMS-7,2WD,Gasoline,small car,7,29,38,32,6,No,273,MINI,Cooper Convertible
+MINI Cooper Convertible,1.5,3,Man-6,2WD,Gasoline,small car,7,27,37,31,6,No,284,MINI,Cooper Convertible
+MINI Cooper Countryman,1.5,3,AMS-7,2WD,Gasoline,midsize car,7,26,32,28,6,No,311,MINI,Cooper Countryman
+MINI Cooper Countryman All4,1.5,3,SemiAuto-8,4WD,Gasoline,midsize car,7,23,31,26,5,No,336,MINI,Cooper Countryman All4
+MINI Cooper Hardtop,1.5,3,AMS-7,2WD,Gasoline,small car,7,29,38,32,6,No,273,MINI,Cooper Hardtop
+MINI Cooper Hardtop,1.5,3,Man-6,2WD,Gasoline,small car,7,27,37,31,6,No,284,MINI,Cooper Hardtop
+MINI Cooper S Clubman,2,4,AMS-7,2WD,Gasoline,midsize car,7,25,35,29,6,No,307,MINI,Cooper S Clubman
+MINI Cooper S Clubman,2,4,Man-6,2WD,Gasoline,midsize car,7,22,32,25,5,No,349,MINI,Cooper S Clubman
+MINI Cooper S Clubman All4,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,23,32,27,5,No,332,MINI,Cooper S Clubman All4
+MINI Cooper S Convertible,2,4,AMS-7,2WD,Gasoline,small car,7,27,36,30,6,No,293,MINI,Cooper S Convertible
+MINI Cooper S Convertible,2,4,Man-6,2WD,Gasoline,small car,7,23,33,27,5,No,329,MINI,Cooper S Convertible
+MINI Cooper S Countryman,2,4,AMS-7,2WD,Gasoline,midsize car,7,24,33,28,6,No,321,MINI,Cooper S Countryman
+MINI Cooper S Countryman All4,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,23,31,26,5,No,341,MINI,Cooper S Countryman All4
+MINI Cooper S Hardtop,2,4,AMS-7,2WD,Gasoline,small car,7,28,38,31,6,No,280,MINI,Cooper S Hardtop
+MINI Cooper S Hardtop,2,4,Man-6,2WD,Gasoline,small car,7,23,33,27,5,No,331,MINI,Cooper S Hardtop
+MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Gasoline/Electricity,midsize car,3,29/74,30/72,29/73,8,No,175,MINI,Cooper SE Countryman All4
+MINI JCW Countryman All4,2,4,SemiAuto-8,4WD,Gasoline,midsize car,3,24,30,26,5,No,338,MINI,JCW Countryman All4
+MINI John Cooper Works Clubman All4,2,4,SemiAuto-8,4WD,Gasoline,midsize car,3,23,31,26,5,No,339,MINI,John Cooper Works Clubman All4
+MINI John Cooper Works Convertible,2,4,SemiAuto-8,2WD,Gasoline,small car,7,24,33,27,5,No,322,MINI,John Cooper Works Convertible
+MINI John Cooper Works Hardtop,2,4,Man-6,2WD,Gasoline,small car,7,22,31,25,5,No,348,MINI,John Cooper Works Hardtop
+MINI John Cooper Works Hardtop,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,34,29,6,No,307,MINI,John Cooper Works Hardtop
+MITSUBISHI Eclipse Cross,1.5,4,SCV-8,2WD,Gasoline,small SUV,5,25,28,26,5,No,338,MITSUBISHI,Eclipse Cross
+MITSUBISHI Eclipse Cross,1.5,4,SCV-8,4WD,Gasoline,small SUV,5,25,26,25,5,No,347,MITSUBISHI,Eclipse Cross
+MITSUBISHI Eclipse Cross ES,1.5,4,SCV-8,2WD,Gasoline,small SUV,5,26,29,27,5,No,327,MITSUBISHI,Eclipse Cross ES
+MITSUBISHI Eclipse Cross ES,1.5,4,SCV-8,4WD,Gasoline,small SUV,5,25,28,26,5,No,337,MITSUBISHI,Eclipse Cross ES
+MITSUBISHI Mirage,1.2,3,CVT,2WD,Gasoline,small car,5,36,43,39,7,No,225,MITSUBISHI,Mirage
+MITSUBISHI Mirage,1.2,3,Man-5,2WD,Gasoline,small car,5,33,41,36,7,No,242,MITSUBISHI,Mirage
+MITSUBISHI Mirage G4,1.2,3,CVT,2WD,Gasoline,small car,5,35,41,37,7,No,235,MITSUBISHI,Mirage G4
+MITSUBISHI Mirage G4,1.2,3,Man-5,2WD,Gasoline,small car,5,33,40,35,7,No,252,MITSUBISHI,Mirage G4
+MITSUBISHI Outlander,2.5,4,SCV-8,2WD,Gasoline,small SUV,7,24,31,27,5,No,332,MITSUBISHI,Outlander
+MITSUBISHI Outlander,2.5,4,SCV-8,4WD,Gasoline,small SUV,6,24,30,26,5,No,342,MITSUBISHI,Outlander
+MITSUBISHI Outlander PHEV,2.4,4,Auto-1,4WD,Gasoline/Electricity,standard SUV,7,25/67,27/61,26/64,10,Yes,115,MITSUBISHI,Outlander PHEV
+MITSUBISHI Outlander Sport,2,4,SCV-6,2WD,Gasoline,small SUV,5,24,30,27,5,No,333,MITSUBISHI,Outlander Sport
+MITSUBISHI Outlander Sport,2,4,SCV-6,4WD,Gasoline,small SUV,5,23,29,26,5,No,343,MITSUBISHI,Outlander Sport
+MITSUBISHI Outlander Sport,2.4,4,SCV-6,2WD,Gasoline,small SUV,5,23,29,25,5,No,354,MITSUBISHI,Outlander Sport
+MITSUBISHI Outlander Sport,2.4,4,SCV-6,4WD,Gasoline,small SUV,5,23,28,25,5,No,350,MITSUBISHI,Outlander Sport
+NISSAN Altima,2.5,4,CVT,2WD,Gasoline,midsize car,7,27,39,32,6,No,282,NISSAN,Altima
+NISSAN Altima,2.5,4,CVT,4WD,Gasoline,midsize car,7,26,36,30,6,No,300,NISSAN,Altima
+NISSAN Altima SL/SR,2.5,4,CVT,2WD,Gasoline,midsize car,7,27,37,31,6,No,287,NISSAN,Altima SL/SR
+NISSAN Altima SR,2,4,SCV-8,2WD,Gasoline,midsize car,6,25,34,29,6,No,311,NISSAN,Altima SR
+NISSAN Armada,5.6,8,SemiAuto-7,2WD,Gasoline,standard SUV,3,14,19,16,3,No,558,NISSAN,Armada
+NISSAN Armada,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,3,13,18,15,2,No,592,NISSAN,Armada
+NISSAN Armada,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,3,13,18,15,2,No,594,NISSAN,Armada
+NISSAN Armada,5.6,8,SemiAuto-7,2WD,Gasoline,standard SUV,5,14,19,16,3,No,558,NISSAN,Armada
+NISSAN Armada,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,5,13,18,15,2,No,592,NISSAN,Armada
+NISSAN Armada,5.6,8,SemiAuto-7,4WD,Gasoline,standard SUV,5,13,18,15,2,No,594,NISSAN,Armada
+NISSAN Frontier,3.8,6,SemiAuto-9,2WD,Gasoline,pickup,5,18,24,20,4,No,444,NISSAN,Frontier
+NISSAN Frontier,3.8,6,SemiAuto-9,2WD,Gasoline,pickup,5,18,24,21,4,No,437,NISSAN,Frontier
+NISSAN Frontier,3.8,6,SemiAuto-9,4WD,Gasoline,pickup,5,17,22,19,4,No,468,NISSAN,Frontier
+NISSAN Frontier,3.8,6,SemiAuto-9,4WD,Gasoline,pickup,5,18,23,20,4,No,438,NISSAN,Frontier
+NISSAN Frontier PRO-4X,3.8,6,SemiAuto-9,4WD,Gasoline,pickup,5,17,22,19,4,No,472,NISSAN,Frontier PRO-4X
+NISSAN Frontier PRO-4X,3.8,6,SemiAuto-9,4WD,Gasoline,pickup,5,18,22,19,4,No,469,NISSAN,Frontier PRO-4X
+NISSAN GT-R,3.8,6,AMS-6,4WD,Gasoline,small car,3,16,22,18,4,No,493,NISSAN,GT-R
+NISSAN Kicks,1.6,4,CVT,2WD,Gasoline,midsize car,7,31,36,33,6,No,269,NISSAN,Kicks
+NISSAN Maxima,3.5,6,SCV-7,2WD,Gasoline,midsize car,3,20,30,24,5,No,371,NISSAN,Maxima
+NISSAN Murano,3.5,6,SCV-7,2WD,Gasoline,station wagon,5,20,28,23,5,No,387,NISSAN,Murano
+NISSAN Murano,3.5,6,SCV-7,4WD,Gasoline,station wagon,5,20,28,23,5,No,391,NISSAN,Murano
+NISSAN Pathfinder,3.5,6,SemiAuto-9,2WD,Gasoline,small SUV,5,20,27,23,5,No,390,NISSAN,Pathfinder
+NISSAN Pathfinder,3.5,6,SemiAuto-9,4WD,Gasoline,small SUV,5,21,27,23,5,No,379,NISSAN,Pathfinder
+NISSAN Pathfinder 4WD Rock Creek,3.5,6,SemiAuto-9,4WD,Gasoline,small SUV,5,20,23,21,4,No,418,NISSAN,Pathfinder 4WD Rock Creek
+NISSAN Pathfinder 4WD SL/Platinum,3.5,6,SemiAuto-9,4WD,Gasoline,small SUV,5,20,25,22,5,No,396,NISSAN,Pathfinder 4WD SL/Platinum
+NISSAN Rogue,1.5,3,SCV-8,2WD,Gasoline,small SUV,6,30,37,33,6,No,271,NISSAN,Rogue
+NISSAN Rogue,1.5,3,SCV-8,2WD,Gasoline,small SUV,6,30,37,33,6,No,269,NISSAN,Rogue
+NISSAN Rogue,1.5,3,SCV-8,4WD,Gasoline,small SUV,6,28,35,31,6,No,287,NISSAN,Rogue
+NISSAN Rogue,1.5,3,SCV-8,4WD,Gasoline,small SUV,6,28,35,31,6,No,287,NISSAN,Rogue
+NISSAN Rogue SL/Platinum,1.5,3,SCV-8,2WD,Gasoline,small SUV,6,29,36,32,6,No,278,NISSAN,Rogue SL/Platinum
+NISSAN Rogue SL/Platinum,1.5,3,SCV-8,2WD,Gasoline,small SUV,6,29,36,32,6,No,278,NISSAN,Rogue SL/Platinum
+NISSAN Rogue SL/Platinum,1.5,3,SCV-8,4WD,Gasoline,small SUV,6,28,34,31,6,No,288,NISSAN,Rogue SL/Platinum
+NISSAN Rogue SL/Platinum,1.5,3,SCV-8,4WD,Gasoline,small SUV,6,28,34,31,6,No,287,NISSAN,Rogue SL/Platinum
+NISSAN Titan,5.6,8,SemiAuto-9,2WD,Gasoline,pickup,5,16,21,18,4,No,503,NISSAN,Titan
+NISSAN Titan,5.6,8,SemiAuto-9,4WD,Gasoline,pickup,5,15,21,18,4,No,505,NISSAN,Titan
+NISSAN Titan Pro-4X,5.6,8,SemiAuto-9,4WD,Gasoline,pickup,5,15,20,17,3,No,517,NISSAN,Titan Pro-4X
+NISSAN Versa,1.6,4,CVT,2WD,Gasoline,small car,7,32,40,35,7,Yes,254,NISSAN,Versa
+NISSAN Versa,1.6,4,Man-5,2WD,Gasoline,small car,7,27,35,30,6,No,296,NISSAN,Versa
+NISSAN Z,3,6,Man-6,2WD,Gasoline,small car,5,18,24,20,4,No,435,NISSAN,Z
+NISSAN Z,3,6,SemiAuto-9,2WD,Gasoline,small car,5,19,28,22,5,No,405,NISSAN,Z
+PORSCHE 718 Boxster,2,4,AMS-7,2WD,Gasoline,small car,1,21,27,24,5,No,375,PORSCHE,718 Boxster
+PORSCHE 718 Boxster,2,4,Man-6,2WD,Gasoline,small car,1,20,25,22,5,No,409,PORSCHE,718 Boxster
+PORSCHE 718 Boxster GTS 4.0,3.7,6,AMS-7,2WD,Gasoline,small car,5,19,24,21,4,No,418,PORSCHE,718 Boxster GTS 4.0
+PORSCHE 718 Boxster GTS 4.0,3.7,6,Man-6,2WD,Gasoline,small car,5,17,24,19,4,No,458,PORSCHE,718 Boxster GTS 4.0
+PORSCHE 718 Boxster S,2.5,4,AMS-7,2WD,Gasoline,small car,1,19,25,22,5,No,410,PORSCHE,718 Boxster S
+PORSCHE 718 Boxster S,2.5,4,Man-6,2WD,Gasoline,small car,1,19,24,21,4,No,423,PORSCHE,718 Boxster S
+PORSCHE 718 Boxster T,2,4,AMS-7,2WD,Gasoline,small car,1,21,27,23,5,No,380,PORSCHE,718 Boxster T
+PORSCHE 718 Boxster T,2,4,Man-6,2WD,Gasoline,small car,1,20,26,22,5,No,394,PORSCHE,718 Boxster T
+PORSCHE 718 Cayman,2,4,AMS-7,2WD,Gasoline,small car,1,21,27,24,5,No,375,PORSCHE,718 Cayman
+PORSCHE 718 Cayman,2,4,Man-6,2WD,Gasoline,small car,1,20,25,22,5,No,409,PORSCHE,718 Cayman
+PORSCHE 718 Cayman GT4,3.7,6,AMS-7,2WD,Gasoline,small car,5,18,24,20,4,No,436,PORSCHE,718 Cayman GT4
+PORSCHE 718 Cayman GT4,3.7,6,Man-6,2WD,Gasoline,small car,5,17,23,19,4,No,462,PORSCHE,718 Cayman GT4
+PORSCHE 718 Cayman GTS 4.0,3.7,6,AMS-7,2WD,Gasoline,small car,5,19,24,21,4,No,418,PORSCHE,718 Cayman GTS 4.0
+PORSCHE 718 Cayman GTS 4.0,3.7,6,Man-6,2WD,Gasoline,small car,5,17,24,19,4,No,458,PORSCHE,718 Cayman GTS 4.0
+PORSCHE 718 Cayman S,2.5,4,AMS-7,2WD,Gasoline,small car,1,19,25,22,5,No,410,PORSCHE,718 Cayman S
+PORSCHE 718 Cayman S,2.5,4,Man-6,2WD,Gasoline,small car,1,19,24,21,4,No,423,PORSCHE,718 Cayman S
+PORSCHE 718 Cayman T,2,4,AMS-7,2WD,Gasoline,small car,1,21,27,23,5,No,380,PORSCHE,718 Cayman T
+PORSCHE 718 Cayman T,2,4,Man-6,2WD,Gasoline,small car,1,20,26,22,5,No,394,PORSCHE,718 Cayman T
+PORSCHE 718 GT4 RS,4,6,AMS-7,2WD,Gasoline,small car,3,15,19,16,3,No,544,PORSCHE,718 GT4 RS
+PORSCHE 718 Spyder,3.7,6,AMS-7,2WD,Gasoline,small car,5,18,24,20,4,No,436,PORSCHE,718 Spyder
+PORSCHE 718 Spyder,3.7,6,Man-6,2WD,Gasoline,small car,5,17,23,19,4,No,462,PORSCHE,718 Spyder
+PORSCHE 911 Carrera,3,6,AMS-8,2WD,Gasoline,small car,5,18,24,20,4,No,443,PORSCHE,911 Carrera
+PORSCHE 911 Carrera 4,3,6,AMS-8,4WD,Gasoline,small car,5,18,24,20,4,No,442,PORSCHE,911 Carrera 4
+PORSCHE 911 Carrera 4 Cabriolet,3,6,AMS-8,4WD,Gasoline,small car,5,18,24,20,4,No,443,PORSCHE,911 Carrera 4 Cabriolet
+PORSCHE 911 Carrera 4 GTS,3,6,AMS-8,4WD,Gasoline,small car,5,17,23,19,4,No,464,PORSCHE,911 Carrera 4 GTS
+PORSCHE 911 Carrera 4 GTS,3,6,Man-7,4WD,Gasoline,small car,5,17,23,19,4,No,465,PORSCHE,911 Carrera 4 GTS
+PORSCHE 911 Carrera 4 GTS Cabriolet,3,6,AMS-8,4WD,Gasoline,small car,5,17,22,19,4,No,463,PORSCHE,911 Carrera 4 GTS Cabriolet
+PORSCHE 911 Carrera 4 GTS Cabriolet,3,6,Man-7,4WD,Gasoline,small car,5,16,23,19,4,No,477,PORSCHE,911 Carrera 4 GTS Cabriolet
+PORSCHE 911 Carrera 4S,3,6,AMS-8,4WD,Gasoline,small car,5,18,23,20,4,No,443,PORSCHE,911 Carrera 4S
+PORSCHE 911 Carrera 4S,3,6,Man-7,4WD,Gasoline,small car,5,17,25,20,4,No,442,PORSCHE,911 Carrera 4S
+PORSCHE 911 Carrera 4S Cabriolet,3,6,AMS-8,4WD,Gasoline,small car,5,18,23,20,4,No,439,PORSCHE,911 Carrera 4S Cabriolet
+PORSCHE 911 Carrera 4S Cabriolet,3,6,Man-7,4WD,Gasoline,small car,5,17,24,20,4,No,452,PORSCHE,911 Carrera 4S Cabriolet
+PORSCHE 911 Carrera Cabriolet,3,6,AMS-8,2WD,Gasoline,small car,5,18,24,20,4,No,443,PORSCHE,911 Carrera Cabriolet
+PORSCHE 911 Carrera GTS,3,6,AMS-8,2WD,Gasoline,small car,5,17,23,19,4,No,465,PORSCHE,911 Carrera GTS
+PORSCHE 911 Carrera GTS,3,6,Man-7,2WD,Gasoline,small car,5,17,24,20,4,No,444,PORSCHE,911 Carrera GTS
+PORSCHE 911 Carrera GTS Cabriolet,3,6,AMS-8,2WD,Gasoline,small car,5,17,23,19,4,No,465,PORSCHE,911 Carrera GTS Cabriolet
+PORSCHE 911 Carrera GTS Cabriolet,3,6,Man-7,2WD,Gasoline,small car,5,17,24,20,4,No,448,PORSCHE,911 Carrera GTS Cabriolet
+PORSCHE 911 Carrera S,3,6,AMS-8,2WD,Gasoline,small car,5,18,23,20,4,No,441,PORSCHE,911 Carrera S
+PORSCHE 911 Carrera S,3,6,Man-7,2WD,Gasoline,small car,5,18,25,21,4,No,425,PORSCHE,911 Carrera S
+PORSCHE 911 Carrera S Cabriolet,3,6,AMS-8,2WD,Gasoline,small car,5,18,23,20,4,No,439,PORSCHE,911 Carrera S Cabriolet
+PORSCHE 911 Carrera S Cabriolet,3,6,Man-7,2WD,Gasoline,small car,5,17,25,20,4,No,443,PORSCHE,911 Carrera S Cabriolet
+PORSCHE 911 GT3,4,6,AMS-7,2WD,Gasoline,small car,3,15,18,16,3,No,538,PORSCHE,911 GT3
+PORSCHE 911 GT3,4,6,Man-6,2WD,Gasoline,small car,3,14,18,16,3,No,571,PORSCHE,911 GT3
+PORSCHE 911 GT3 Touring,4,6,AMS-7,2WD,Gasoline,small car,3,15,18,16,3,No,539,PORSCHE,911 GT3 Touring
+PORSCHE 911 GT3 Touring,4,6,Man-6,2WD,Gasoline,small car,3,14,18,16,3,No,570,PORSCHE,911 GT3 Touring
+PORSCHE 911 Sport Classic,3.7,6,Man-7,2WD,Gasoline,small car,5,15,21,17,3,No,516,PORSCHE,911 Sport Classic
+PORSCHE 911 Targa 4,3,6,AMS-8,4WD,Gasoline,small car,5,18,24,20,4,No,442,PORSCHE,911 Targa 4
+PORSCHE 911 Targa 4 GTS,3,6,AMS-8,4WD,Gasoline,small car,5,17,22,19,4,No,461,PORSCHE,911 Targa 4 GTS
+PORSCHE 911 Targa 4 GTS,3,6,Man-7,4WD,Gasoline,small car,5,16,23,19,4,No,477,PORSCHE,911 Targa 4 GTS
+PORSCHE 911 Targa 4S,3,6,AMS-8,4WD,Gasoline,small car,5,18,23,20,4,No,442,PORSCHE,911 Targa 4S
+PORSCHE 911 Targa 4S,3,6,Man-7,4WD,Gasoline,small car,5,17,24,20,4,No,447,PORSCHE,911 Targa 4S
+PORSCHE 911 Turbo,3.7,6,AMS-8,4WD,Gasoline,small car,5,15,20,17,3,No,516,PORSCHE,911 Turbo
+PORSCHE 911 Turbo Cabriolet,3.7,6,AMS-8,4WD,Gasoline,small car,5,15,20,17,3,No,521,PORSCHE,911 Turbo Cabriolet
+PORSCHE 911 Turbo S,3.7,6,AMS-8,4WD,Gasoline,small car,5,15,20,17,3,No,517,PORSCHE,911 Turbo S
+PORSCHE 911 Turbo S Cabriolet,3.7,6,AMS-8,4WD,Gasoline,small car,5,15,20,17,3,No,528,PORSCHE,911 Turbo S Cabriolet
+PORSCHE Cayenne,3,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,17,22,19,4,No,466,PORSCHE,Cayenne
+PORSCHE Cayenne GTS,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,15,19,17,3,No,525,PORSCHE,Cayenne GTS
+PORSCHE Cayenne GTS,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,15,19,17,3,No,533,PORSCHE,Cayenne GTS
+PORSCHE Cayenne S,2.9,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,21,18,4,No,490,PORSCHE,Cayenne S
+PORSCHE Cayenne S,2.9,6,SemiAuto-8,4WD,Gasoline,standard SUV,5,16,22,18,4,No,494,PORSCHE,Cayenne S
+PORSCHE Cayenne Turbo,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,19,16,3,No,553,PORSCHE,Cayenne Turbo
+PORSCHE Cayenne Turbo,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,15,20,17,3,No,531,PORSCHE,Cayenne Turbo
+PORSCHE Cayenne Turbo GT,4,8,SemiAuto-8,4WD,Gasoline,standard SUV,3,14,19,16,3,No,555,PORSCHE,Cayenne Turbo GT
+PORSCHE Cayenne Turbo S E-Hybrid,4,8,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,3,17/40,20/44,18/42,6,No,320,PORSCHE,Cayenne Turbo S E-Hybrid
+PORSCHE Macan,2,4,AMS-7,4WD,Gasoline,small SUV,5,19,25,21,4,No,424,PORSCHE,Macan
+PORSCHE Macan GTS,2.9,6,AMS-7,4WD,Gasoline,small SUV,5,17,22,19,4,No,466,PORSCHE,Macan GTS
+PORSCHE Macan S,2.9,6,AMS-7,4WD,Gasoline,small SUV,5,17,23,19,4,No,466,PORSCHE,Macan S
+PORSCHE Macan T,2,4,AMS-7,4WD,Gasoline,small SUV,5,19,25,21,4,No,417,PORSCHE,Macan T
+PORSCHE Panamera,2.9,6,AMS-8,2WD,Gasoline,large car,5,18,24,20,4,No,441,PORSCHE,Panamera
+PORSCHE Panamera 4,2.9,6,AMS-8,4WD,Gasoline,large car,5,18,24,20,4,No,441,PORSCHE,Panamera 4
+PORSCHE Panamera 4 E-Hybrid,2.9,6,AMS-8,4WD,Gasoline/Electricity,large car,5,21/50,24/54,22/52,7,No,232,PORSCHE,Panamera 4 E-Hybrid
+PORSCHE Panamera 4 Executive,2.9,6,AMS-8,4WD,Gasoline,large car,5,17,23,19,4,No,465,PORSCHE,Panamera 4 Executive
+PORSCHE Panamera 4 ST,2.9,6,AMS-8,4WD,Gasoline,large car,5,18,23,20,4,No,441,PORSCHE,Panamera 4 ST
+PORSCHE Panamera 4S,2.9,6,AMS-8,4WD,Gasoline,large car,5,18,24,20,4,No,445,PORSCHE,Panamera 4S
+PORSCHE Panamera 4S E-Hybrid,2.9,6,AMS-8,4WD,Gasoline/Electricity,large car,5,21/49,23/51,22/50,7,No,236,PORSCHE,Panamera 4S E-Hybrid
+PORSCHE Panamera 4S Executive,2.9,6,AMS-8,4WD,Gasoline,large car,5,17,23,19,4,No,469,PORSCHE,Panamera 4S Executive
+PORSCHE Panamera 4S ST,2.9,6,AMS-8,4WD,Gasoline,large car,5,17,23,19,4,No,469,PORSCHE,Panamera 4S ST
+PORSCHE Panamera GTS,4,8,AMS-8,4WD,Gasoline,large car,3,15,21,17,3,No,520,PORSCHE,Panamera GTS
+PORSCHE Panamera GTS ST,4,8,AMS-8,4WD,Gasoline,large car,3,15,20,17,3,No,520,PORSCHE,Panamera GTS ST
+PORSCHE Panamera Turbo S,4,8,AMS-8,4WD,Gasoline,large car,3,15,21,17,3,No,525,PORSCHE,Panamera Turbo S
+PORSCHE Panamera Turbo S E-Hybrid,4,8,AMS-8,4WD,Gasoline/Electricity,large car,3,18/45,22/51,19/48,6,No,274,PORSCHE,Panamera Turbo S E-Hybrid
+RAM 1500,3,6,Auto-8,4WD,Diesel,pickup,1,21,29,24,4,No,418,RAM,1500
+RAM 1500,3.6,6,Auto-8,2WD,Gasoline,pickup,7,20,25,22,5,No,407,RAM,1500
+RAM 1500,3.6,6,Auto-8,4WD,Gasoline,pickup,7,19,24,21,4,No,417,RAM,1500
+RAM 1500,5.7,8,Auto-8,2WD,Gasoline,pickup,5,18,23,20,4,No,443,RAM,1500
+RAM 1500,5.7,8,Auto-8,4WD,Gasoline,pickup,5,17,22,19,4,No,457,RAM,1500
+RAM 1500 Classic,3.6,6,Auto-8,2WD,Gasoline,pickup,7,17,25,20,4,No,444,RAM,1500 Classic
+RAM 1500 Classic,3.6,6,Auto-8,4WD,Gasoline,pickup,7,16,23,19,4,No,474,RAM,1500 Classic
+RAM 1500 Classic,5.7,8,Auto-8,2WD,Gasoline,pickup,5,15,21,17,3,No,523,RAM,1500 Classic
+RAM 1500 Classic,5.7,8,Auto-8,4WD,Gasoline,pickup,5,15,20,17,3,No,528,RAM,1500 Classic
+RAM 1500 HFE,3.6,6,Auto-8,2WD,Gasoline,pickup,7,20,26,23,5,No,394,RAM,1500 HFE
+RAM 1500 TRX,6.2,8,Auto-8,4WD,Gasoline,pickup,1,10,14,12,1,No,748,RAM,1500 TRX
+ROLLS-ROYCE Cullinan,6.7,12,SemiAuto-8,4WD,Gasoline,station wagon,3,12,19,14,2,No,626,ROLLS-ROYCE,Cullinan
+ROLLS-ROYCE Cullinan Black Badge,6.7,12,SemiAuto-8,4WD,Gasoline,station wagon,3,12,19,14,2,No,626,ROLLS-ROYCE,Cullinan Black Badge
+ROLLS-ROYCE Ghost,6.7,12,SemiAuto-8,4WD,Gasoline,large car,3,12,19,14,2,No,624,ROLLS-ROYCE,Ghost
+ROLLS-ROYCE Ghost Black Badge,6.7,12,SemiAuto-8,4WD,Gasoline,large car,3,12,19,14,2,No,624,ROLLS-ROYCE,Ghost Black Badge
+ROLLS-ROYCE Ghost Extended,6.7,12,SemiAuto-8,4WD,Gasoline,large car,3,12,19,14,2,No,624,ROLLS-ROYCE,Ghost Extended
+ROLLS-ROYCE Phantom,6.7,12,SemiAuto-8,2WD,Gasoline,large car,3,12,18,14,2,No,639,ROLLS-ROYCE,Phantom
+ROLLS-ROYCE Phantom Extended,6.7,12,SemiAuto-8,2WD,Gasoline,large car,3,12,18,14,2,No,639,ROLLS-ROYCE,Phantom Extended
+SUBARU Ascent,2.4,4,SCV-8,4WD,Gasoline,standard SUV,5,20,26,22,5,No,398,SUBARU,Ascent
+SUBARU Ascent Limited/Touring/Onyx,2.4,4,SCV-8,4WD,Gasoline,standard SUV,5,19,25,21,4,No,419,SUBARU,Ascent Limited/Touring/Onyx
+SUBARU BRZ,2.4,4,Man-6,2WD,Gasoline,small car,3,20,27,22,5,No,398,SUBARU,BRZ
+SUBARU BRZ,2.4,4,SemiAuto-6,2WD,Gasoline,small car,3,21,30,25,5,No,362,SUBARU,BRZ
+SUBARU Crosstrek,2,4,Man-6,4WD,Gasoline,small SUV,7,22,29,25,5,No,355,SUBARU,Crosstrek
+SUBARU Crosstrek,2,4,SCV-8,4WD,Gasoline,small SUV,7,28,33,30,6,No,297,SUBARU,Crosstrek
+SUBARU Crosstrek,2.5,4,SCV-8,4WD,Gasoline,small SUV,7,27,34,29,6,No,303,SUBARU,Crosstrek
+SUBARU Crosstrek Hybrid,2,4,CVT,4WD,Gasoline/Electricity,small SUV,7,36/99,35/80,35/90,9,Yes,151,SUBARU,Crosstrek Hybrid
+SUBARU Forester,2.5,4,SCV-7,4WD,Gasoline,small SUV,7,26,33,29,6,No,310,SUBARU,Forester
+SUBARU Forester Wilderness,2.5,4,SCV-8,4WD,Gasoline,small SUV,7,25,28,26,5,No,338,SUBARU,Forester Wilderness
+SUBARU Impreza,2,4,Man-5,4WD,Gasoline,midsize car,7,23,31,26,5,No,337,SUBARU,Impreza
+SUBARU Impreza,2,4,Man-5,4WD,Gasoline,station wagon,7,24,31,26,5,No,335,SUBARU,Impreza
+SUBARU Impreza,2,4,SCV-7,4WD,Gasoline,midsize car,7,28,36,32,6,No,280,SUBARU,Impreza
+SUBARU Impreza,2,4,SCV-7,4WD,Gasoline,station wagon,7,28,36,31,6,No,285,SUBARU,Impreza
+SUBARU Impreza 4-Door Sport,2,4,SCV-7,4WD,Gasoline,midsize car,7,27,36,30,6,No,291,SUBARU,Impreza 4-Door Sport
+SUBARU Impreza 5-Door Sport,2,4,Man-5,4WD,Gasoline,station wagon,7,22,30,25,5,No,351,SUBARU,Impreza 5-Door Sport
+SUBARU Impreza 5-Door Sport,2,4,SCV-7,4WD,Gasoline,station wagon,7,27,35,30,6,No,292,SUBARU,Impreza 5-Door Sport
+SUBARU Legacy,2.5,4,SCV-8,4WD,Gasoline,large car,7,27,35,30,6,No,295,SUBARU,Legacy
+SUBARU Legacy,2.4,4,SCV-8,4WD,Gasoline,large car,6,23,31,26,5,No,337,SUBARU,Legacy
+SUBARU Outback AWD,2.5,4,SCV-8,4WD,Gasoline,small SUV,7,26,32,28,6,No,314,SUBARU,Outback AWD
+SUBARU Outback AWD,2.4,4,SCV-8,4WD,Gasoline,small SUV,6,22,29,25,5,No,356,SUBARU,Outback AWD
+SUBARU Outback Wilderness,2.4,4,SCV-8,4WD,Gasoline,small SUV,6,21,26,23,5,No,378,SUBARU,Outback Wilderness
+SUBARU WRX,2.4,4,Man-6,4WD,Gasoline,midsize car,3,19,26,22,5,No,407,SUBARU,WRX
+SUBARU WRX,2.4,4,SCV-8,4WD,Gasoline,midsize car,3,19,25,21,4,No,419,SUBARU,WRX
+TOYOTA 4Runner,4,6,SemiAuto-5,2WD,Gasoline,standard SUV,5,16,19,17,3,No,503,TOYOTA,4Runner
+TOYOTA 4Runner,4,6,SemiAuto-5,4WD,Gasoline,standard SUV,5,16,19,17,3,No,515,TOYOTA,4Runner
+TOYOTA 4Runner,4,6,SemiAuto-5,4WD,Gasoline,standard SUV,5,16,19,17,3,No,519,TOYOTA,4Runner
+TOYOTA Camry,3.5,6,SemiAuto-8,2WD,Gasoline,midsize car,5,22,33,26,5,No,338,TOYOTA,Camry
+TOYOTA Camry Hybrid LE,2.5,4,SCV-6,2WD,Gasoline,midsize car,7,51,53,52,9,Yes,170,TOYOTA,Camry Hybrid LE
+TOYOTA Camry Hybrid SE/XLE/XSE,2.5,4,SCV-6,2WD,Gasoline,midsize car,7,44,47,46,8,Yes,195,TOYOTA,Camry Hybrid SE/XLE/XSE
+TOYOTA Camry LE/SE,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,7,28,39,32,6,No,280,TOYOTA,Camry LE/SE
+TOYOTA Camry LE/SE,2.5,4,SemiAuto-8,4WD,Gasoline,midsize car,6,25,34,29,6,No,310,TOYOTA,Camry LE/SE
+TOYOTA Camry TRD,3.5,6,SemiAuto-8,2WD,Gasoline,midsize car,5,22,31,25,5,No,354,TOYOTA,Camry TRD
+TOYOTA Camry XLE/XSE,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,7,27,38,31,6,No,286,TOYOTA,Camry XLE/XSE
+TOYOTA Camry XLE/XSE,2.5,4,SemiAuto-8,4WD,Gasoline,midsize car,6,25,34,28,6,No,315,TOYOTA,Camry XLE/XSE
+TOYOTA Camry XSE,3.5,6,SemiAuto-8,2WD,Gasoline,midsize car,5,22,32,26,5,No,345,TOYOTA,Camry XSE
+TOYOTA Corolla,2,4,SCV-10,2WD,Gasoline,small car,7,31,40,34,7,Yes,258,TOYOTA,Corolla
+TOYOTA Corolla,2,4,SCV-10,2WD,Gasoline,small car,7,32,41,35,7,Yes,254,TOYOTA,Corolla
+TOYOTA Corolla Cross,2,4,SCV-10,2WD,Gasoline,small SUV,7,31,33,32,6,No,275,TOYOTA,Corolla Cross
+TOYOTA Corolla Cross,2,4,SCV-10,4WD,Gasoline,small SUV,7,29,32,30,6,No,293,TOYOTA,Corolla Cross
+TOYOTA Corolla Hatchback,2,4,SCV-10,2WD,Gasoline,small car,7,32,41,35,7,Yes,252,TOYOTA,Corolla Hatchback
+TOYOTA Corolla Hatchback XSE,2,4,SCV-10,2WD,Gasoline,small car,7,30,38,33,6,No,266,TOYOTA,Corolla Hatchback XSE
+TOYOTA Corolla Hybrid,1.8,4,CVT,2WD,Gasoline,small car,7,50,43,47,8,Yes,186,TOYOTA,Corolla Hybrid
+TOYOTA Corolla Hybrid,1.8,4,CVT,2WD,Gasoline,small car,7,53,46,50,8,Yes,178,TOYOTA,Corolla Hybrid
+TOYOTA Corolla Hybrid,1.8,4,CVT,4WD,Gasoline,small car,7,47,41,44,8,Yes,199,TOYOTA,Corolla Hybrid
+TOYOTA Corolla Hybrid,1.8,4,CVT,4WD,Gasoline,small car,7,51,44,48,8,Yes,189,TOYOTA,Corolla Hybrid
+TOYOTA GR Corolla,1.6,3,Man-6,4WD,Gasoline,small car,5,21,28,24,5,No,368,TOYOTA,GR Corolla
+TOYOTA GR86,2.4,4,Man-6,2WD,Gasoline,small car,3,20,27,22,5,No,397,TOYOTA,GR86
+TOYOTA GR86,2.4,4,SemiAuto-6,2WD,Gasoline,small car,3,21,31,25,5,No,360,TOYOTA,GR86
+TOYOTA Highlander,2.4,4,SemiAuto-8,2WD,Gasoline,small SUV,7,21,28,24,5,No,370,TOYOTA,Highlander
+TOYOTA Highlander,2.4,4,SemiAuto-8,2WD,Gasoline,small SUV,7,22,29,25,5,No,359,TOYOTA,Highlander
+TOYOTA Highlander,2.4,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,371,TOYOTA,Highlander
+TOYOTA Highlander Hybrid,2.5,4,SCV-6,2WD,Gasoline,small SUV,7,36,35,36,7,Yes,245,TOYOTA,Highlander Hybrid
+TOYOTA Highlander Hybrid,2.5,4,SCV-6,4WD,Gasoline,standard SUV,7,35,35,35,7,Yes,254,TOYOTA,Highlander Hybrid
+TOYOTA Highlander Hybrid LTD/PLAT,2.5,4,SCV-6,4WD,Gasoline,standard SUV,7,35,34,35,7,Yes,253,TOYOTA,Highlander Hybrid LTD/PLAT
+TOYOTA Prius,2,4,CVT,2WD,Gasoline,midsize car,7,57,56,57,9,Yes,155,TOYOTA,Prius
+TOYOTA Prius,2,4,CVT,4WD,Gasoline,midsize car,7,53,54,54,9,Yes,163,TOYOTA,Prius
+TOYOTA Prius XLE/LTD,2,4,CVT,2WD,Gasoline,midsize car,7,52,52,52,9,Yes,169,TOYOTA,Prius XLE/LTD
+TOYOTA Prius XLE/LTD,2,4,CVT,4WD,Gasoline,midsize car,7,49,50,49,8,Yes,179,TOYOTA,Prius XLE/LTD
+TOYOTA RAV4,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,7,27,34,30,6,No,292,TOYOTA,RAV4
+TOYOTA RAV4,2.5,4,SemiAuto-8,2WD,Gasoline,small SUV,7,27,35,30,6,No,296,TOYOTA,RAV4
+TOYOTA RAV4,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,6,25,33,28,6,No,319,TOYOTA,RAV4
+TOYOTA RAV4,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,6,27,33,29,6,No,301,TOYOTA,RAV4
+TOYOTA RAV4 Hybrid,2.5,4,SCV-6,4WD,Gasoline,small SUV,7,41,38,40,7,Yes,223,TOYOTA,RAV4 Hybrid
+TOYOTA RAV4 Hybrid Woodland Edition,2.5,4,SCV-6,4WD,Gasoline,small SUV,7,38,35,37,7,Yes,240,TOYOTA,RAV4 Hybrid Woodland Edition
+TOYOTA RAV4 LE,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,6,27,34,30,6,No,296,TOYOTA,RAV4 LE
+TOYOTA RAV4 PRIME,2.5,4,SCV-6,4WD,Gasoline/Electricity,small SUV,7,40/105,36/84,38/94,10,Yes,72,TOYOTA,RAV4 PRIME
+TOYOTA RAV4 TRD Offroad,2.5,4,SemiAuto-8,4WD,Gasoline,small SUV,6,25,32,28,6,No,323,TOYOTA,RAV4 TRD Offroad
+TOYOTA Sequoia,3.4,6,SemiAuto-10,2WD,Gasoline,standard SUV,5,21,24,22,5,No,395,TOYOTA,Sequoia
+TOYOTA Sequoia,3.4,6,SemiAuto-10,4WD,Gasoline,standard SUV,5,19,22,20,4,No,437,TOYOTA,Sequoia
+TOYOTA Sienna,2.5,4,SCV-6,2WD,Gasoline,minivan,7,36,36,36,7,Yes,246,TOYOTA,Sienna
+TOYOTA Sienna,2.5,4,SCV-6,4WD,Gasoline,minivan,7,35,36,35,7,Yes,253,TOYOTA,Sienna
+TOYOTA Supra 2.0,2,4,SemiAuto-8,2WD,Gasoline,small car,7,25,31,27,5,No,322,TOYOTA,Supra 2.0
+TOYOTA Supra 3.0,3,6,Man-6,2WD,Gasoline,small car,5,19,27,21,4,No,411,TOYOTA,Supra 3.0
+TOYOTA Supra 3.0,3,6,SemiAuto-8,2WD,Gasoline,small car,5,23,31,26,5,No,342,TOYOTA,Supra 3.0
+TOYOTA Tacoma,2.7,4,SemiAuto-6,2WD,Gasoline,pickup,5,20,23,21,4,No,423,TOYOTA,Tacoma
+TOYOTA Tacoma,2.7,4,SemiAuto-6,4WD,Gasoline,pickup,5,19,22,20,4,No,441,TOYOTA,Tacoma
+TOYOTA Tacoma,3.5,6,Man-6,4WD,Gasoline,pickup,5,17,21,18,4,No,481,TOYOTA,Tacoma
+TOYOTA Tacoma,3.5,6,SemiAuto-6,2WD,Gasoline,pickup,5,19,24,21,4,No,431,TOYOTA,Tacoma
+TOYOTA Tacoma,3.5,6,SemiAuto-6,4WD,Gasoline,pickup,5,18,22,20,4,No,448,TOYOTA,Tacoma
+TOYOTA Tacoma D-CAB MT TRD-ORP/PRO,3.5,6,Man-6,4WD,Gasoline,pickup,5,17,20,18,4,No,483,TOYOTA,Tacoma D-CAB MT TRD-ORP/PRO
+TOYOTA Toyota Crown,2.4,4,SCV-6,4WD,Gasoline,midsize car,7,29,32,30,6,No,293,TOYOTA,Toyota Crown
+TOYOTA Toyota Crown,2.5,4,CVT,4WD,Gasoline,midsize car,7,42,41,41,8,Yes,214,TOYOTA,Toyota Crown
+TOYOTA Tundra,3.4,6,SemiAuto-10,2WD,Gasoline,pickup,5,20,24,22,5,No,408,TOYOTA,Tundra
+TOYOTA Tundra,3.4,6,SemiAuto-10,2WD,Gasoline,pickup,5,18,23,20,4,No,441,TOYOTA,Tundra
+TOYOTA Tundra,3.4,6,SemiAuto-10,2WD,Gasoline,pickup,5,18,24,20,4,No,441,TOYOTA,Tundra
+TOYOTA Tundra,3.4,6,SemiAuto-10,4WD,Gasoline,pickup,5,19,22,20,4,No,437,TOYOTA,Tundra
+TOYOTA Tundra,3.4,6,SemiAuto-10,4WD,Gasoline,pickup,5,17,22,19,4,No,460,TOYOTA,Tundra
+TOYOTA Tundra,3.4,6,SemiAuto-10,4WD,Gasoline,pickup,5,17,23,19,4,No,459,TOYOTA,Tundra
+TOYOTA Tundra PRO,3.4,6,SemiAuto-10,4WD,Gasoline,pickup,5,18,20,19,4,No,461,TOYOTA,Tundra PRO
+TOYOTA Venza,2.5,4,SCV-6,4WD,Gasoline,small SUV,7,40,37,39,7,Yes,227,TOYOTA,Venza
+VOLKSWAGEN Atlas,2,4,SemiAuto-8,2WD,Gasoline,small SUV,3,21,25,23,5,No,387,VOLKSWAGEN,Atlas
+VOLKSWAGEN Atlas,3.6,6,SemiAuto-8,2WD,Gasoline,small SUV,5,18,24,20,4,No,445,VOLKSWAGEN,Atlas
+VOLKSWAGEN Atlas 4Motion,2,4,SemiAuto-8,4WD,Gasoline,small SUV,3,20,24,22,5,No,411,VOLKSWAGEN,Atlas 4Motion
+VOLKSWAGEN Atlas 4Motion,3.6,6,SemiAuto-8,4WD,Gasoline,small SUV,5,18,23,20,4,No,450,VOLKSWAGEN,Atlas 4Motion
+VOLKSWAGEN Atlas Cross Sport,2,4,SemiAuto-8,2WD,Gasoline,small SUV,3,21,25,23,5,No,391,VOLKSWAGEN,Atlas Cross Sport
+VOLKSWAGEN Atlas Cross Sport,3.6,6,SemiAuto-8,2WD,Gasoline,small SUV,5,18,24,20,4,No,435,VOLKSWAGEN,Atlas Cross Sport
+VOLKSWAGEN Atlas Cross Sport 4Motion,2,4,SemiAuto-8,4WD,Gasoline,small SUV,3,20,24,22,5,No,412,VOLKSWAGEN,Atlas Cross Sport 4Motion
+VOLKSWAGEN Atlas Cross Sport 4Motion,3.6,6,SemiAuto-8,4WD,Gasoline,small SUV,5,18,24,20,4,No,443,VOLKSWAGEN,Atlas Cross Sport 4Motion
+VOLKSWAGEN GLI,2,4,AMS-7,2WD,Gasoline,small car,7,26,36,30,6,No,297,VOLKSWAGEN,GLI
+VOLKSWAGEN GLI,2,4,Man-6,2WD,Gasoline,small car,7,26,37,30,6,No,299,VOLKSWAGEN,GLI
+VOLKSWAGEN Golf-R,2,4,AMS-7,4WD,Gasoline,small car,5,23,30,26,5,No,343,VOLKSWAGEN,Golf-R
+VOLKSWAGEN Golf-R,2,4,Man-6,4WD,Gasoline,small car,5,20,28,23,5,No,382,VOLKSWAGEN,Golf-R
+VOLKSWAGEN GTI,2,4,AMS-7,2WD,Gasoline,small car,5,24,34,28,6,No,319,VOLKSWAGEN,GTI
+VOLKSWAGEN GTI,2,4,Man-6,2WD,Gasoline,small car,5,23,32,27,5,No,330,VOLKSWAGEN,GTI
+VOLKSWAGEN Taos 4Motion,1.5,4,AMS-7,4WD,Gasoline,small SUV,7,25,32,28,6,No,321,VOLKSWAGEN,Taos 4Motion
+VOLKSWAGEN Tiguan,2,4,SemiAuto-8,2WD,Gasoline,small SUV,7,23,30,26,5,No,343,VOLKSWAGEN,Tiguan
+VOLKSWAGEN Tiguan 4Motion,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,22,29,25,5,No,357,VOLKSWAGEN,Tiguan 4Motion
+VOLKSWAGEN Tiguan R-Line 4Motion,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,28,24,5,No,369,VOLKSWAGEN,Tiguan R-Line 4Motion
+VOLKSWAGEN Tiguan S,2,4,SemiAuto-8,2WD,Gasoline,small SUV,7,24,31,27,5,No,331,VOLKSWAGEN,Tiguan S
+VOLVO S60 B5,2,4,SemiAuto-8,2WD,Gasoline,small car,5,26,35,30,6,No,299,VOLVO,S60 B5
+VOLVO S60 B5,2,4,SemiAuto-8,4WD,Gasoline,small car,5,25,33,28,6,No,316,VOLVO,S60 B5
+VOLVO S60 T8 Recharge,2,4,SemiAuto-8,4WD,Gasoline/Electricity,small car,7,30/74,33/73,31/74,10,Yes,99,VOLVO,S60 T8 Recharge
+VOLVO S90 B6,2,4,SemiAuto-8,4WD,Gasoline,midsize car,7,23,32,26,5,No,337,VOLVO,S90 B6
+VOLVO S90 T8 AWD Recharge ext. Range,2,4,SemiAuto-8,4WD,Gasoline/Electricity,midsize car,7,28/66,31/67,29/66,10,Yes,110,VOLVO,S90 T8 AWD Recharge ext. Range
+VOLVO V60 T8 AWD Recharge ext. Range,2,4,SemiAuto-8,4WD,Gasoline/Electricity,station wagon,7,30/74,33/73,31/74,10,Yes,99,VOLVO,V60 T8 AWD Recharge ext. Range
+VOLVO V60CC B5,2,4,SemiAuto-8,4WD,Gasoline,station wagon,5,23,30,26,5,No,339,VOLVO,V60CC B5
+VOLVO V90CC B6,2,4,SemiAuto-8,4WD,Gasoline,station wagon,7,22,29,25,5,No,352,VOLVO,V90CC B6
+VOLVO XC40 B4,2,4,SemiAuto-8,2WD,Gasoline,small SUV,5,24,32,27,5,No,330,VOLVO,XC40 B4
+VOLVO XC40 B5,2,4,SemiAuto-8,4WD,Gasoline,small SUV,5,23,30,26,5,No,345,VOLVO,XC40 B5
+VOLVO XC60 B5,2,4,SemiAuto-8,2WD,Gasoline,small SUV,5,23,30,26,5,No,342,VOLVO,XC60 B5
+VOLVO XC60 B5,2,4,SemiAuto-8,4WD,Gasoline,small SUV,5,23,29,25,5,No,353,VOLVO,XC60 B5
+VOLVO XC60 B6,2,4,SemiAuto-8,4WD,Gasoline,small SUV,7,21,27,23,5,No,375,VOLVO,XC60 B6
+VOLVO XC60 T8 Recharge,2,4,SemiAuto-8,4WD,Gasoline/Electricity,small SUV,7,28/66,28/60,28/63,10,Yes,122,VOLVO,XC60 T8 Recharge
+VOLVO XC90 B5,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,5,22,28,25,5,No,358,VOLVO,XC90 B5
+VOLVO XC90 B6,2,4,SemiAuto-8,4WD,Gasoline,standard SUV,7,20,26,22,5,No,401,VOLVO,XC90 B6
+VOLVO XC90 T8 Recharge,2,4,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,26/59,27/57,27/58,9,Yes,137,VOLVO,XC90 T8 Recharge
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
