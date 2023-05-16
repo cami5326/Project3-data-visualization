@@ -1,0 +1,58 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Wix+Madefor+Display&display=swap');
+
+header { /* Absolute header at the top of the page */
+    color: #202020;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #92c938;
+    padding: 0px;
+    line-height: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    z-index: 2;
+}
+.button { /* Return to Home button located within the header */
+    font-family: 'Material Symbols Outlined', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    margin-right: auto;
+    background-color: #5f6263;
+    color: #ffffff;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+h3 { /* Text in the header of the page */
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+}
+body { /* Background color */
+    padding-top: 40px;
+    background-image: linear-gradient(to bottom, #FFFFFF, #606263);
+    background-size: 100% 570%;
+}
+footer { /* Fixed footer at the bottom of the page */
+    position: relative;
+    align-items: center;
+    width: 100%;
+    height: 35px;
+    background-color: #202020;
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
