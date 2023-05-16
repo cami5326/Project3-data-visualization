@@ -1,0 +1,65 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Wix+Madefor+Display&display=swap');
+
+header { /* Header at the top of the page */
+    color: #202020;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #92c938;
+    padding: 0px;
+    line-height: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    z-index: 2;
+}
+.button { /* Return to Home button located within the header */
+    font-family: 'Material Symbols Outlined', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    margin-right: auto;
+    background-color: #5f6263;
+    color: #ffffff;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Beirut;
+}
+.chartMenu {
+    width: 100vw;
+    height: 40px;
+    background: #f9f7f7;
+    color: rgb(246, 241, 245);
+}
+.chartMenu p {
+    padding: 10px;
+    font-size: 20px;
+}
+.chartCard {
+    width: 100vw;
+    height: calc(150vh - 40px);
+    background: rgba(186, 245, 207, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chartBox {
+    width: 900px;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid 3px rgb(127, 249, 159);
+    background: rgb(243, 247, 244);
+}
