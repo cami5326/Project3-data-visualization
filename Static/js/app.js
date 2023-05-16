@@ -54,27 +54,27 @@ function init()
                 yaxis: 'y3'
         };
         
-        // layout1 ={
-        //     title: 'EV Sales and Percentage of Sold EV in the USA, per Year',
-        //     xaxis: {
-        //         title: 'Year'
-        //     },
-        //     yaxis: {
-        //         title: 'Number of Sold EV Cars',
-        //         side: 'left',
-        //     },
-        //     yaxis2: {
-        //         title: 'Percentage of Sold EV in the Year (x100)',
-        //         side:'right',
-        //         overlaying: 'y1',
-        //         // range: [0, 3]
-        //     },
-        //     legend: {
-        //         x: 0,
-        //         y: 1000,
-        //         orientation: 'h'
-        //     }
-        // };
+        layout1 ={
+            title: 'EV Sales and Percentage of Sold EV in the USA, per Year',
+            xaxis: {
+                title: 'Year'
+            },
+            yaxis: {
+                title: 'Number of Sold EV Cars',
+                side: 'left',
+            },
+            yaxis2: {
+                title: 'Percentage of Sold EV in the Year (x100)',
+                side:'right',
+                overlaying: 'y1',
+                // range: [0, 3]
+            },
+            legend: {
+                x: 0,
+                y: 1000,
+                orientation: 'h'
+            }
+        };
 
         layout2 ={
             title: 'EV Sales and Number of Available Charging Outlets in the USA, per Year',
@@ -98,7 +98,7 @@ function init()
             }
         };
         
-        // Plotly.newPlot('plot1', [trace1, trace2], layout1);
+        Plotly.newPlot('plot1', [trace1, trace2], layout1);
         Plotly.newPlot('plot2', [trace1, trace3], layout2);
     });
 }
@@ -167,27 +167,27 @@ function optionChanged()
         yaxis: 'y3'
     };
 
-    // layout1 ={
-    //     title: 'EV Sales and Percentage of Sold EV in the USA, per Year',
-    //     xaxis: {
-    //         title: 'Year'
-    //     },
-    //     yaxis: {
-    //         title: 'Number of Sold EV Cars',
-    //         side: 'left',
-    //     },
-    //     yaxis2: {
-    //         title: 'Percentage of Sold EV in the Year(x100)',
-    //         side:'right',
-    //         overlaying: 'y1',
-    //         // range: [0, 3]
-    //     },
-    //     legend: {
-    //         x: 0,
-    //         y: 1000,
-    //         orientation: 'h'
-    //     }
-    // };
+    layout1 ={
+        title: 'EV Sales and Percentage of Sold EV in the USA, per Year',
+        xaxis: {
+            title: 'Year'
+        },
+        yaxis: {
+            title: 'Number of Sold EV Cars',
+            side: 'left',
+        },
+        yaxis2: {
+            title: 'Percentage of Sold EV in the Year(x100)',
+            side:'right',
+            overlaying: 'y1',
+            // range: [0, 3]
+        },
+        legend: {
+            x: 0,
+            y: 1000,
+            orientation: 'h'
+        }
+    };
     layout2 ={
         title: 'EV Sales and Number of Available Charging Outlets in the USA, per Year',
         xaxis: {
@@ -210,7 +210,7 @@ function optionChanged()
         }
     };
 
-    // Plotly.newPlot('plot1', [trace1, trace2], layout1);
+    Plotly.newPlot('plot1', [trace1, trace2], layout1);
     Plotly.newPlot('plot2', [trace1, trace3], layout2);
     });
 }

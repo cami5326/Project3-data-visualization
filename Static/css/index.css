@@ -85,7 +85,7 @@ h4 { /* "Please click on the following options to learn more" */
     font-family: 'Wix Madefor Display', sans-serif;
     color: #FFFFFF;
     font-size: 22px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 br {
     margin-top: 1px;
@@ -112,7 +112,7 @@ video { /* The video in the background. Pretty self-explanatory */
     z-index: -1;
 }
 footer { /* Fixed footer at the bottom of the page */
-    position: absolute;
+    position: fixed;
     align-items: center;
     left: 0;
     bottom: 0;
