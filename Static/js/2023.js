@@ -25,6 +25,8 @@ d3.csv('../../Data/all_alpha_23.csv').then(data => {
 
     console.log(nestedCarInfo);
 
+    
+
 window.onload = function(){
     const selectMake = document.getElementById('make'),
         selectModel = document.getElementById('model'),
