@@ -80,7 +80,6 @@ body { /* Currently unused, depreciated by the video background */
     background-image: linear-gradient(to bottom, #cbd5d8, #5f6263);
     background-size: 100% 135%;
     margin-bottom: 30px;
-    overflow: hidden;
 }
 h4 { /* "Please click on the following options to learn more" */
     font-family: 'Wix Madefor Display', sans-serif;
