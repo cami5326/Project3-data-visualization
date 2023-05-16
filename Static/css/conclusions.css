@@ -1,7 +1,7 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Wix+Madefor+Display&display=swap');
 
-header { /* Absolute header at the top of the page */
+header { /* Header at the top of the page */
     color: #202020;
     position: absolute;
     top: 0;
@@ -42,17 +42,20 @@ h3 { /* Text in the header of the page */
 }
 body { /* Background color */
     padding-top: 40px;
-    background-image: linear-gradient(to bottom, #FFFFFF, #606263);
-    background-size: 100% 570%;
+    background-color: #eeeeee;
+    background-size: 100% 100%;
 }
 footer { /* Fixed footer at the bottom of the page */
-    position: relative;
+    position: fixed;
     align-items: center;
+    left: 0;
+    bottom: 0;
     width: 100%;
     height: 35px;
-    background-color: #202020;
     color: #FFFFFF;
+    background-color: #202020;
     text-align: center;
     justify-content: center;
     display: flex;
+    box-sizing: border-box;
 }

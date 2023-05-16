@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Wix+Madefor+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display&display=swap');
 
-header { /* Absolute header at the top of the page */
+header { /* Header at the top of the page */
     color: #202020;
     position: absolute;
     top: 0;
