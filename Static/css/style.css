@@ -44,8 +44,12 @@ body { /* Background color */
     padding-top: 40px;
     background-color: #eeeeee;
     background-size: 100% 100%;
+    scrollbar-width: thin; 
+    scrollbar-color: transparent transparent; /* Makes the scroll bar transparent */
 }
-
+body::-webkit-scrollbar {
+    width: 0px; /* Totally hides the scroll bar */
+}
 .text-container {
     position: relative;
     top: 100px;
