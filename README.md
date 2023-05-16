@@ -1,5 +1,5 @@
 # Project3-data-visualization
-**Team Pewter:** Wen Chiou, Jason Hanlin, Camilla Inhapim, Marlon Ruiz, Matthew Copello, Fatima Mumin, Sami Kolahdoozan, Toyin Olaye, Doug Hooper, Ershad Ziaei
+**Team Pewter:** Camilla Inhapim, Doug Hooper, Ershad Ziaei, Fatima Mumin, Jason Hanlin, Marlon Ruiz, Matthew Copello, Sami Kolahdoozan, Toyin Olaye and Wen Chiou
 
 **Check out our website here**: [Electric Vehicles (EVs)
 and Their Impact on the Environment](https://cami5326.github.io/Project3-data-visualization/index.html)
@@ -21,6 +21,7 @@ and Their Impact on the Environment](https://cami5326.github.io/Project3-data-vi
 
 
 **Datasets**: 
+
 [IEA Global EV Outlook 2023](https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2023)
 
 [CO2 emissions per capita](https://ourworldindata.org/explorers/co2?facet=none&country=CHN~USA~IND~GBR~OWID_WRL&Gas+or+Warming=CO%E2%82%82&Accounting=Production-based&Fuel+or+Land+Use+Change=All+fossil+emissions&Count=Per+capita)
