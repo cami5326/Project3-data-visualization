@@ -35,6 +35,7 @@ and Their Impact on the Environment](https://cami5326.github.io/Project3-data-vi
 [US Lithium mining 2021](https://ourworldindata.org/grapher/lithium-production?tab=chart&time=earliest..latest&country=~USA)
 
 
+PRESENTATION LINK: https://docs.google.com/presentation/d/1eTKYw_yMAt8tv3A_VD4IU9rfWpSDdgV6yPSN3HVQ5k8/edit?usp=sharing
 **Proposal**: [GoogleDoc](https://docs.google.com/document/d/14lbI9O5yiG16Tu137kqBH3m0776LmS7vYqbd57NU2N4/edit)
 
 
